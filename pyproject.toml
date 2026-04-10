@@ -1,0 +1,123 @@
+[project]
+name = "pedpancancer-networks"
+version = "0.1.0"
+description = "Identify protein complexes under mutational selection in pediatric tumors"
+readme = "README.md"
+license = { text = "BSD-3-Clause" }
+requires-python = ">=3.11"
+authors = [
+    { name = "Jonathan Kirkland", email = "jokirkland@ucsd.edu" },
+]
+
+dependencies = [
+    # --- Core data science ---
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "scipy>=1.12",
+    "statsmodels>=0.14",
+
+    # --- Genomics ---
+    "pyranges>=0.1",          # Genomic interval operations
+    "pysam>=0.22",            # BAM/VCF handling
+    "cyvcf2>=0.31",           # Fast VCF parsing
+
+    # --- Bioinformatics / annotation ---
+    "mygene>=3.2",            # Gene ID mapping (HUGO, Entrez, Ensembl)
+    "biopython>=1.83",        # Sequence utilities, GenBank parsing
+
+    # --- Enrichment & statistics ---
+    "scikit-learn>=1.4",      # Clustering, dimensionality reduction
+    "lifelines>=0.29",        # Survival analysis
+
+    # --- Single-cell (optional, for scRNA-seq validation) ---
+    "scanpy>=1.10",           # scRNA-seq analysis
+    "anndata>=0.10",          # Annotated data matrices
+
+    # --- Visualization ---
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "plotly>=5.18",           # Interactive volcano plots, heatmaps
+    "upsetplot>=0.9",         # UpSet plots for complex overlap
+
+    # --- I/O & formats ---
+    "openpyxl>=3.1",          # Excel read/write
+    "pyarrow>=15.0",          # Parquet I/O for large MAFs
+    "requests>=2.31",         # API calls (CORUM, mygene)
+
+    # --- Workflow ---
+    "tqdm>=4.66",             # Progress bars
+    "click>=8.1",             # CLI entry points
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "ipython>=8.20",
+    "jupyter>=1.0",
+    "nbstripout>=0.7",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+# ---------------------------------------------------------------------------
+# uv — dev dependency group (replaces deprecated tool.uv.dev-dependencies)
+# ---------------------------------------------------------------------------
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "ipython>=8.20",
+    "jupyter>=1.0",
+    "nbstripout>=0.7",
+    "ruff>=0.11",
+    "ty>=0.0.1a7",
+]
+
+# ---------------------------------------------------------------------------
+# ruff — linter & formatter
+# ---------------------------------------------------------------------------
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+src = ["scripts"]
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle errors
+    "W",    # pycodestyle warnings
+    "F",    # pyflakes
+    "I",    # isort
+    "N",    # pep8-naming
+    "UP",   # pyupgrade
+    "B",    # flake8-bugbear
+    "SIM",  # flake8-simplify
+    "NPY",  # numpy-specific
+    "PD",   # pandas-vet
+]
+ignore = [
+    "E501",   # line length handled by formatter
+    "PD901",  # allow df as variable name
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["pedpancancer_networks"]
+
+[tool.ruff.format]
+docstring-code-format = true
+docstring-code-line-length = 80
+
+# ---------------------------------------------------------------------------
+# ty — type checker
+# ---------------------------------------------------------------------------
+[tool.ty]
+python-version = "3.11"
+
+# ---------------------------------------------------------------------------
+# pytest
+# ---------------------------------------------------------------------------
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v --tb=short"
