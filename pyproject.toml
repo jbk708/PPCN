@@ -1,5 +1,5 @@
 [project]
-name = "pedpancancer-networks"
+name = "ppcn"
 version = "0.1.0"
 description = "Identify protein complexes under mutational selection in pediatric tumors"
 readme = "README.md"
