@@ -1,0 +1,649 @@
+patient_id,cohorts,sex,age_at_diagnosis,cancer_type,cancer_subclass,amplicon_class,OS_status,OS_months,no_of_biosamples,cohort
+PT_04YTK82N,[{'name': 'PBTA-X00'}],Male,1067.0,MBL,G3,no amplification,Deceased,6.40657084188911,1,PBTA-X00
+PT_0DWRY9ZX,[{'name': 'PBTA-X01'}],Male,4853.0,MBL,G4,no amplification,Deceased,108.188911704312,3,PBTA-X01
+PT_0KTVJ74J,[{'name': 'PBTA-X01'}],Male,4328.0,MBL,SHH,no amplification,Deceased,32.0328542094455,1,PBTA-X01
+PT_0Q0CX0GS,[{'name': 'PBTA-X01'}],Male,1865.0,MBL,G4,no amplification,Alive,5.38809034907597,1,PBTA-X01
+PT_0WMP712K,[{'name': 'PBTA-X00'}],Female,494.0,MBL,SHH,no amplification,Alive,48.4928131416837,1,PBTA-X00
+PT_17NG0KW3,[{'name': 'PBTA-X00'}],Male,2513.0,MBL,WNT,no amplification,Alive,,1,PBTA-X00
+PT_1A4HM6FR,[{'name': 'PBTA-X01'}],Male,2602.0,MBL,G4,ecDNA,Alive,26.1519507186858,1,PBTA-X01
+PT_1GPWWDY5,[{'name': 'PBTA-X01'}],Male,5110.0,MBL,NOS,no amplification,Alive,0.75564681724846,1,PBTA-X01
+PT_1RP7V36W,[{'name': 'PBTA-X01'}],Male,3357.0,MBL,WNT,no amplification,Alive,5.61806981519507,1,PBTA-X01
+PT_1T7WF5S1,[{'name': 'PBTA-X00'}],Male,1846.0,MBL,WNT,no amplification,Alive,56.9691991786447,1,PBTA-X00
+PT_1TQA3ZS2,[{'name': 'PBTA-X01'}],Female,659.0,MBL,G3,no amplification,Alive,27.9917864476386,1,PBTA-X01
+PT_21SSYTYN,[{'name': 'PBTA-X01'}],Female,1345.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_23NZGSRJ,[{'name': 'PBTA-X00'}],Female,1484.0,MBL,G3,chromosomal,Deceased,19.6796714579055,8,PBTA-X00
+PT_26V72ZXB,[{'name': 'PBTA-X01'}],Male,4864.0,MBL,G3,chromosomal,Deceased,27.0718685831622,2,PBTA-X01
+PT_27M5988T,[{'name': 'PBTA-X01'}],Unknown,1167.0,MBL,NOS,no amplification,Unknown,,1,PBTA-X01
+PT_288PVQGZ,[{'name': 'PBTA-X01'}],Male,920.0,MBL,G4,ecDNA,Alive,43.400410677618,1,PBTA-X01
+PT_2FK75B27,[{'name': 'PBTA-X00'}],Female,2538.0,MBL,G4,no amplification,Alive,74.217659137577,1,PBTA-X00
+PT_2N647SBA,[{'name': 'PBTA-X01'}],Female,7566.0,MBL,SHH,no amplification,Alive,25.1006160164271,1,PBTA-X01
+PT_2WSNYKAC,[{'name': 'PBTA-X01'}],Female,6521.0,MBL,SHH,no amplification,Alive,46.7515400410677,1,PBTA-X01
+PT_32CD03EE,[{'name': 'PBTA-X01'}],Male,4673.0,MBL,G3,no amplification,Alive,58.1848049281314,1,PBTA-X01
+PT_34MDR40C,[{'name': 'PBTA-X01'}],Female,1423.0,MBL,G3,no amplification,Alive,,1,PBTA-X01
+PT_35X8ASEE,[{'name': 'PBTA-X01'}],Male,3066.0,MBL,G4,no amplification,Alive,48.9527720739219,1,PBTA-X01
+PT_3GP5H8Z0,[{'name': 'PBTA-X01'}],Male,4758.0,MBL,WNT,no amplification,Alive,49.1170431211499,1,PBTA-X01
+PT_3JNXBSHR,[{'name': 'PBTA-X01'}],Male,5299.0,MBL,G4,no amplification,Alive,60.0574948665297,1,PBTA-X01
+PT_3VQEVNDD,[{'name': 'PBTA-X00'}],Female,722.0,MBL,SHH,no amplification,Alive,,1,PBTA-X00
+PT_408A0GNB,[{'name': 'PBTA-X01'}],Male,3222.0,MBL,G4,no amplification,Alive,52.435318275154,1,PBTA-X01
+PT_45P9F9MD,[{'name': 'PBTA-X00'}],Female,3856.0,MBL,G4,no amplification,Alive,105.823408624229,1,PBTA-X00
+PT_4DZ9B62P,[{'name': 'PBTA-X01'}],Male,2456.0,MBL,NOS,no amplification,Alive,34.5626283367556,1,PBTA-X01
+PT_4J766Q6K,[{'name': 'PBTA-X01'}],Female,1985.0,MBL,NOS,ecDNA,Deceased,8.47638603696098,1,PBTA-X01
+PT_4Y6DS6E7,[{'name': 'PBTA-X01'}],Female,5557.0,MBL,WNT,no amplification,Alive,12.8459958932238,1,PBTA-X01
+PT_59H1TPQS,[{'name': 'PBTA-X01'}],Male,5961.0,MBL,G4,no amplification,Alive,22.6365503080082,1,PBTA-X01
+PT_5F4N0CAP,[{'name': 'PBTA-X00'}],Unknown,3722.0,MBL,WNT,no amplification,Alive,1.37987679671457,1,PBTA-X00
+PT_5FR2YA6E,[{'name': 'PBTA-X00'}],Male,4234.0,MBL,G4,no amplification,Deceased,74.7761806981519,1,PBTA-X00
+PT_5HSJZPJ3,[{'name': 'PBTA-X01'}],Female,964.0,MBL,G3,no amplification,Alive,11.3018480492813,1,PBTA-X01
+PT_5V6PRZX4,[{'name': 'PBTA-X01'}],Male,4675.0,MBL,G4,no amplification,Alive,11.958932238193,1,PBTA-X01
+PT_62VNQ8C4,[{'name': 'PBTA-X00'}],Female,5655.0,MBL,SHH,no amplification,Deceased,8.11498973305954,2,PBTA-X00
+PT_64C7QNBP,[{'name': 'PBTA-X01'}],Female,5465.0,MBL,G4,no amplification,Alive,57.7905544147843,1,PBTA-X01
+PT_65B5CGQG,[{'name': 'PBTA-X01'}],Female,1794.0,MBL,WNT,no amplification,Alive,22.8336755646817,1,PBTA-X01
+PT_6A7123NH,[{'name': 'PBTA-X01'}],Male,4732.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_6H0WGQ6E,[{'name': 'PBTA-X01'}],Male,2697.0,MBL,SHH,ecDNA,Alive,21.6837782340862,1,PBTA-X01
+PT_6PPHRJZB,[{'name': 'PBTA-X01'}],Male,1637.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_6VHGCV7M,[{'name': 'PBTA-X01'}],Male,6444.0,MBL,G4,no amplification,Alive,42.1519507186858,1,PBTA-X01
+PT_6XT5HH0S,[{'name': 'PBTA-X01'}],Male,1366.0,MBL,SHH,no amplification,Alive,8.60780287474332,1,PBTA-X01
+PT_76W7C93V,[{'name': 'PBTA-X01'}],Male,1192.0,MBL,G4,no amplification,Alive,17.9383983572895,1,PBTA-X01
+PT_78NQ0QQS,[{'name': 'PBTA-X00'}],Male,4406.0,MBL,WNT,no amplification,Alive,,1,PBTA-X00
+PT_7BJBEBZT,[{'name': 'PBTA-X00'}],Male,2511.0,MBL,G4,no amplification,Alive,,1,PBTA-X00
+PT_7ENND7B2,[{'name': 'PBTA-X01'}],Male,3846.0,MBL,G4,no amplification,Alive,24.4763860369609,1,PBTA-X01
+PT_7FQ6VECA,[{'name': 'PBTA-X00'}],Male,5918.0,MBL,G4,no amplification,Alive,47.5400410677618,1,PBTA-X00
+PT_7KBMN6C2,[{'name': 'PBTA-X00'}],Male,2859.0,MBL,G4,no amplification,Deceased,26.1519507186858,1,PBTA-X00
+PT_7QKGGMKV,[{'name': 'PBTA-X00'}],Female,3557.0,MBL,G4,chromosomal,Deceased,20.4681724845995,1,PBTA-X00
+PT_7WYPEC3Q,[{'name': 'PBTA-X01'}],Female,1300.0,MBL,SHH,ecDNA,Alive,19.0554414784394,2,PBTA-X01
+PT_7Z0FF6A2,[{'name': 'PBTA-X01'}],Female,4254.0,MBL,G4,ecDNA,Alive,23.2279260780287,1,PBTA-X01
+PT_84ZTC7PV,[{'name': 'PBTA-X01'}],Female,1882.0,MBL,G4,ecDNA,Alive,104.082135523613,1,PBTA-X01
+PT_85RSG67R,[{'name': 'PBTA-X01'}],Male,4068.0,MBL,G3,no amplification,Alive,112.88706365503,1,PBTA-X01
+PT_8RB3EKNP,[{'name': 'PBTA-X00'}],Male,2059.0,MBL,G4,ecDNA,Deceased,19.088295687885,1,PBTA-X00
+PT_97EQQMT9,[{'name': 'PBTA-X01'}],Female,4295.0,MBL,SHH,ecDNA,Deceased,20.829568788501,1,PBTA-X01
+PT_98W7YNZ7,[{'name': 'PBTA-X01'}],Male,1048.0,MBL,G3,no amplification,Alive,5.25667351129363,1,PBTA-X01
+PT_9B3YD5DR,[{'name': 'PBTA-X01'}],Female,1999.0,MBL,G4,no amplification,Alive,97.0513347022587,1,PBTA-X01
+PT_9DER14KH,[{'name': 'PBTA-X00'}],Male,3503.0,MBL,G3,ecDNA,Deceased,5.9794661190965,1,PBTA-X00
+PT_9DMMZ08D,[{'name': 'PBTA-X00'}],Female,1540.0,MBL,SHH,no amplification,Alive,3.51540041067761,2,PBTA-X00
+PT_9HMVHQEH,[{'name': 'PBTA-X00'}],Male,2644.0,MBL,G4,no amplification,Deceased,76.2874743326488,1,PBTA-X00
+PT_9KRSSPSF,[{'name': 'PBTA-X01'}],Female,8203.0,MBL,SHH,no amplification,Alive,4.59958932238193,1,PBTA-X01
+PT_9MT2G8NE,[{'name': 'PBTA-X01'}],Male,1853.0,MBL,G3,no amplification,Deceased,26.0862422997946,1,PBTA-X01
+PT_9N8B4X3E,[{'name': 'PBTA-X01'}],Male,2774.0,MBL,NOS,no amplification,Alive,35.9753593429158,1,PBTA-X01
+PT_9S6WMQ92,[{'name': 'PBTA-X00'}],Female,6992.0,MBL,SHH,chromosomal,Deceased,49.5441478439425,4,PBTA-X00
+PT_9SWHWA5Q,[{'name': 'PBTA-X01'}],Female,3061.0,MBL,G4,no amplification,Deceased,33.1170431211499,1,PBTA-X01
+PT_9Y9S32VY,[{'name': 'PBTA-X01'}],Male,5024.0,MBL,G3,no amplification,Alive,52.0739219712525,1,PBTA-X01
+PT_9YMRNZHH,[{'name': 'PBTA-X00'}],Male,5119.0,MBL,G4,ecDNA,Deceased,13.4045174537987,1,PBTA-X00
+PT_A0V7V4N0,[{'name': 'PBTA-X01'}],Female,3453.0,MBL,G4,no amplification,Alive,23.9835728952772,1,PBTA-X01
+PT_A5S5BB3A,[{'name': 'PBTA-X01'}],Male,3363.0,MBL,G3,no amplification,Alive,63.4086242299794,1,PBTA-X01
+PT_AAA7EET4,[{'name': 'PBTA-X01'}],Male,6394.0,MBL,WNT,no amplification,Alive,,1,PBTA-X01
+PT_AW8WV14Y,[{'name': 'PBTA-X00'}],Female,86.0,MBL,NOS,no amplification,Alive,57.9548254620123,1,PBTA-X00
+PT_B4RTR0T5,[{'name': 'PBTA-X01'}],Male,2783.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_B7QRTN72,[{'name': 'PBTA-X00'}],Male,1694.0,MBL,G4,no amplification,Alive,75.3018480492813,1,PBTA-X00
+PT_BA38VR93,[{'name': 'PBTA-X01'}],Male,6318.0,MBL,SHH,no amplification,Alive,,1,PBTA-X01
+PT_BAH54SVM,[{'name': 'PBTA-X01'}],Male,953.0,MBL,G3,no amplification,Alive,13.4702258726899,1,PBTA-X01
+PT_BDM0M83S,[{'name': 'PBTA-X00'}],Male,2037.0,MBL,WNT,no amplification,Alive,,1,PBTA-X00
+PT_BG7GAFK6,[{'name': 'PBTA-X00'}],Male,3385.0,MBL,G4,no amplification,Alive,,1,PBTA-X00
+PT_BK06Z2Q1,[{'name': 'PBTA-X01'}],Female,1475.0,MBL,G4,no amplification,Deceased,7.06365503080082,1,PBTA-X01
+PT_BPKVVWVB,[{'name': 'PBTA-X00'}],Male,3266.0,MBL,G4,no amplification,Alive,18.6283367556468,1,PBTA-X00
+PT_BRTVGGRK,[{'name': 'PBTA-X00'}],Unknown,3424.0,MBL,G4,no amplification,Alive,254.652977412731,1,PBTA-X00
+PT_BTTM2HS5,[{'name': 'PBTA-X00'}],Female,1689.0,MBL,G3,no amplification,Alive,18.4312114989733,1,PBTA-X00
+PT_BTYG7JR9,[{'name': 'PBTA-X01'}],Male,2706.0,MBL,G3,no amplification,Deceased,47.8028747433264,1,PBTA-X01
+PT_BW36HGH4,[{'name': 'PBTA-X01'}],Male,3630.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_C9F2B4QF,[{'name': 'PBTA-X01'}],Female,4906.0,MBL,SHH,no amplification,Alive,45.5687885010266,1,PBTA-X01
+PT_CGAQ7KKY,[{'name': 'PBTA-X01'}],Female,4996.0,MBL,G3,ecDNA,Alive,34.2669404517453,1,PBTA-X01
+PT_CHHBDNNJ,[{'name': 'PBTA-X01'}],Male,3155.0,MBL,G4,no amplification,Alive,50.4312114989733,1,PBTA-X01
+PT_CMPNS3BQ,[{'name': 'PBTA-X01'}],Male,6136.0,MBL,G3,no amplification,Alive,54.8008213552361,1,PBTA-X01
+PT_CQ7EGCMB,[{'name': 'PBTA-X00'}],Female,744.0,MBL,SHH,no amplification,Alive,56.3778234086242,1,PBTA-X00
+PT_CTSQ5FHH,[{'name': 'PBTA-X00'}],Male,1663.0,MBL,G3,no amplification,Alive,84.7638603696098,1,PBTA-X00
+PT_CWA1405H,[{'name': 'PBTA-X00'}],Male,3475.0,MBL,WNT,no amplification,Alive,,1,PBTA-X00
+PT_CXT81GRM,[{'name': 'PBTA-X00'}],Male,1545.0,MBL,SHH,ecDNA,Deceased,10.6447638603696,2,PBTA-X00
+PT_D1WJ3BJX,[{'name': 'PBTA-X00'}],Male,5845.0,MBL,G3,no amplification,Deceased,19.0554414784394,1,PBTA-X00
+PT_D215EQAP,[{'name': 'PBTA-X00'}],Male,2759.0,MBL,G4,no amplification,Alive,53.8151950718685,1,PBTA-X00
+PT_D7KMPYTZ,[{'name': 'PBTA-X00'}],Female,4729.0,MBL,WNT,no amplification,Alive,51.0554414784394,1,PBTA-X00
+PT_DACV00WF,[{'name': 'PBTA-X00'}],Female,116.0,MBL,SHH,no amplification,Deceased,37.8151950718685,1,PBTA-X00
+PT_DAKPNP7K,[{'name': 'PBTA-X01'}],Male,2939.0,MBL,G3,ecDNA,Deceased,10.8418891170431,1,PBTA-X01
+PT_DBNV494P,[{'name': 'PBTA-X01'}],Female,1481.0,MBL,NOS,no amplification,Alive,42.1190965092402,1,PBTA-X01
+PT_DFR8928F,[{'name': 'PBTA-X01'}],Female,2186.0,MBL,G3,no amplification,Alive,54.965092402464,1,PBTA-X01
+PT_DFXQFYPV,[{'name': 'PBTA-X00'}],Female,3606.0,MBL,G4,no amplification,Alive,56.870636550308,1,PBTA-X00
+PT_DY2D16CZ,[{'name': 'PBTA-X01'}],Male,4791.0,MBL,G4,ecDNA,Alive,55.2936344969199,1,PBTA-X01
+PT_DY2GNA83,[{'name': 'PBTA-X01'}],Male,9307.0,MBL,SHH,no amplification,Deceased,81.6755646817248,4,PBTA-X01
+PT_E4ECAFEN,[{'name': 'PBTA-X00'}],Female,5666.0,MBL,G4,no amplification,Alive,58.3162217659137,1,PBTA-X00
+PT_EA9K01MB,[{'name': 'PBTA-X01'}],Male,2750.0,MBL,NOS,no amplification,Alive,34.1026694045174,1,PBTA-X01
+PT_ED13K2GD,[{'name': 'PBTA-X01'}],Female,1963.0,MBL,G3,no amplification,Alive,23.7864476386036,1,PBTA-X01
+PT_EDWA0XTP,[{'name': 'PBTA-X00'}],Female,1032.0,MBL,G4,no amplification,Deceased,30.8172484599589,1,PBTA-X00
+PT_EGGY1XC0,[{'name': 'PBTA-X00'}],Female,1475.0,MBL,SHH,no amplification,Alive,55.3264887063655,1,PBTA-X00
+PT_EYQS4J99,[{'name': 'PBTA-X01'}],Male,346.0,MBL,G4,no amplification,Alive,8.60780287474332,1,PBTA-X01
+PT_EZS4SRH6,[{'name': 'PBTA-X00'}],Male,4044.0,MBL,G4,no amplification,Alive,105.823408624229,1,PBTA-X00
+PT_F0N89D15,[{'name': 'PBTA-X00'}],Male,2031.0,MBL,G3,no amplification,Deceased,43.2689938398357,1,PBTA-X00
+PT_F3S9PB94,[{'name': 'PBTA-X00'}],Male,3049.0,MBL,G4,no amplification,Alive,84.7310061601642,1,PBTA-X00
+PT_FFCD5XD7,[{'name': 'PBTA-X01'}],Female,739.0,MBL,G3,no amplification,Alive,22.2422997946611,1,PBTA-X01
+PT_FHGDAACP,[{'name': 'PBTA-X01'}],Male,3640.0,MBL,G4,ecDNA,Alive,,1,PBTA-X01
+PT_FN4GEEFR,[{'name': 'PBTA-X00'}],Female,5041.0,MBL,SHH,ecDNA,Deceased,58.2505133470225,2,PBTA-X00
+PT_FRZQJNW9,[{'name': 'PBTA-X01'}],Male,2592.0,MBL,G3,no amplification,Alive,58.3819301848049,1,PBTA-X01
+PT_FX2D5BTD,[{'name': 'PBTA-X01'}],Male,0.0,MBL,G3,no amplification,Alive,,1,PBTA-X01
+PT_FXCSG8EY,[{'name': 'PBTA-X01'}],Female,737.0,MBL,G3,no amplification,Alive,32.0328542094455,1,PBTA-X01
+PT_G1QNGVCZ,[{'name': 'PBTA-X00'}],Female,3712.0,MBL,G4,no amplification,Alive,,1,PBTA-X00
+PT_G3AVDN4E,[{'name': 'PBTA-X00'}],Male,2320.0,MBL,G4,no amplification,Alive,73.2977412731006,1,PBTA-X00
+PT_G9XKWA3N,[{'name': 'PBTA-X01'}],Female,5448.0,MBL,G4,no amplification,Alive,41.5277207392197,1,PBTA-X01
+PT_GFGHFJ3S,[{'name': 'PBTA-X01'}],Female,129.0,MBL,SHH,no amplification,Alive,23.8850102669404,1,PBTA-X01
+PT_GGCQAGPS,[{'name': 'PBTA-X00'}],Female,2265.0,MBL,G3,no amplification,Alive,110.094455852156,1,PBTA-X00
+PT_GH6HM5QF,[{'name': 'PBTA-X00'}],Male,526.0,MBL,SHH,no amplification,Deceased,25.4620123203285,1,PBTA-X00
+PT_GHFG41Q2,[{'name': 'PBTA-X01'}],Male,4329.0,MBL,G3,ecDNA,Alive,4.23819301848049,1,PBTA-X01
+PT_GK4GVW7A,[{'name': 'PBTA-X01'}],Female,3790.0,MBL,G4,no amplification,Alive,5.81519507186858,1,PBTA-X01
+PT_GR8P8NY5,[{'name': 'PBTA-X00'}],Female,1235.0,MBL,SHH,ecDNA,Alive,47.1129363449692,2,PBTA-X00
+PT_GWD2Z5AM,[{'name': 'PBTA-X01'}],Male,3336.0,MBL,G4,no amplification,Alive,33.1170431211499,1,PBTA-X01
+PT_GY0MCXR8,[{'name': 'PBTA-X01'}],Male,2428.0,MBL,WNT,no amplification,Alive,197.35523613963,1,PBTA-X01
+PT_H0PXZWJ6,[{'name': 'PBTA-X01'}],Male,479.0,MBL,G3,chromosomal,Alive,17.3798767967145,1,PBTA-X01
+PT_H0Y8DJA8,[{'name': 'PBTA-X01'}],Female,6741.0,MBL,G4,ecDNA,Alive,12.5831622176591,1,PBTA-X01
+PT_H6E09982,[{'name': 'PBTA-X00'}],Male,2857.0,MBL,WNT,no amplification,Alive,,1,PBTA-X00
+PT_H9QTP1JF,[{'name': 'PBTA-X01'}],Male,3037.0,MBL,SHH,ecDNA,Deceased,65.7741273100616,2,PBTA-X01
+PT_HB3CXEX6,[{'name': 'PBTA-X01'}],Female,5025.0,MBL,G3,no amplification,Alive,,1,PBTA-X01
+PT_HEGTYPQJ,[{'name': 'PBTA-X00'}],Male,4850.0,MBL,G4,no amplification,Alive,102.537987679671,1,PBTA-X00
+PT_HFPCMNKX,[{'name': 'PBTA-X01'}],Male,1441.0,MBL,G3,no amplification,Alive,,1,PBTA-X01
+PT_HM2GMT2H,[{'name': 'PBTA-X00'}],Male,604.0,MBL,SHH,no amplification,Alive,109.634496919917,1,PBTA-X00
+PT_HRHWFPW7,[{'name': 'PBTA-X01'}],Male,4759.0,MBL,G4,no amplification,Alive,28.4188911704312,1,PBTA-X01
+PT_J6CREPMB,[{'name': 'PBTA-X01'}],Male,367.0,MBL,SHH,no amplification,Alive,6.37371663244353,2,PBTA-X01
+PT_JEA0AEMZ,[{'name': 'PBTA-X00'}],Male,2327.0,MBL,G4,no amplification,Alive,61.2073921971252,1,PBTA-X00
+PT_JGTXEKNV,[{'name': 'PBTA-X01'}],Female,5797.0,MBL,G3,no amplification,Alive,12.8788501026694,1,PBTA-X01
+PT_K2FGJ1X7,[{'name': 'PBTA-X01'}],Male,3061.0,MBL,G4,no amplification,Alive,39.0965092402464,1,PBTA-X01
+PT_K6S2YJ8Y,[{'name': 'PBTA-X01'}],Male,1789.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_K71TQSF4,[{'name': 'PBTA-X01'}],Male,4318.0,MBL,G4,no amplification,Deceased,20.1067761806981,3,PBTA-X01
+PT_K94ZVZMX,[{'name': 'PBTA-X00'}],Male,4526.0,MBL,WNT,chromosomal,Alive,63.6386036960985,1,PBTA-X00
+PT_KE0A6FHD,[{'name': 'PBTA-X01'}],Female,6135.0,MBL,G3,no amplification,Alive,25.0349075975359,1,PBTA-X01
+PT_KN25EYMG,[{'name': 'PBTA-X00'}],Female,1750.0,MBL,G3,no amplification,Deceased,9.23203285420944,1,PBTA-X00
+PT_KNJDVV4K,[{'name': 'PBTA-X01'}],Male,3715.0,MBL,SHH,ecDNA,Alive,45.1745379876796,1,PBTA-X01
+PT_M0AP3Z15,[{'name': 'PBTA-X00'}],Male,5027.0,MBL,G4,no amplification,Alive,89.659137577002,2,PBTA-X00
+PT_M26VF62B,[{'name': 'PBTA-X01'}],Female,733.0,MBL,SHH,no amplification,Alive,61.8973305954825,1,PBTA-X01
+PT_M39RC0Y1,[{'name': 'PBTA-X01'}],Male,251.0,MBL,SHH,no amplification,Deceased,2.2012320328542,1,PBTA-X01
+PT_M91MGM4K,[{'name': 'PBTA-X01'}],Female,1124.0,MBL,SHH,no amplification,Alive,,1,PBTA-X01
+PT_MCC2RZ5H,[{'name': 'PBTA-X01'}],Male,4945.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_MKZ7ESSF,[{'name': 'PBTA-X01'}],Male,2334.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_MQWJ7FHV,[{'name': 'PBTA-X01'}],Male,6034.0,MBL,G3,no amplification,Alive,47.6386036960985,1,PBTA-X01
+PT_MR5ZNP8K,[{'name': 'PBTA-X01'}],Male,1334.0,MBL,G3,no amplification,Alive,55.6878850102669,1,PBTA-X01
+PT_MSBPMJ56,[{'name': 'PBTA-X00'}],Female,3408.0,MBL,G4,no amplification,Alive,112.788501026694,1,PBTA-X00
+PT_MYNKT1TK,[{'name': 'PBTA-X01'}],Female,1316.0,MBL,SHH,no amplification,Deceased,23.8193018480492,8,PBTA-X01
+PT_N1HWK3YS,[{'name': 'PBTA-X01'}],Female,2988.0,MBL,WNT,no amplification,Alive,67.876796714579,1,PBTA-X01
+PT_N56EYD4Z,[{'name': 'PBTA-X00'}],Male,3724.0,MBL,G3,no amplification,Alive,31.0143737166324,1,PBTA-X00
+PT_NCDHZ8H8,[{'name': 'PBTA-X00'}],Male,1514.0,MBL,SHH,no amplification,Alive,50.2997946611909,1,PBTA-X00
+PT_NDVJE438,[{'name': 'PBTA-X00'}],Male,2820.0,MBL,G4,no amplification,Alive,90.3162217659137,1,PBTA-X00
+PT_NF6R6YHR,[{'name': 'PBTA-X01'}],Male,5980.0,MBL,SHH,no amplification,Alive,6.34086242299794,1,PBTA-X01
+PT_NTEKMKTX,[{'name': 'PBTA-X00'}],Male,167.0,MBL,SHH,no amplification,Alive,,1,PBTA-X00
+PT_NTG1EJGA,[{'name': 'PBTA-X01'}],Male,2013.0,MBL,G3,no amplification,Alive,69.4866529774127,1,PBTA-X01
+PT_NV584F7Q,[{'name': 'PBTA-X00'}],Female,2066.0,MBL,G4,no amplification,Alive,63.6714579055441,1,PBTA-X00
+PT_NWC0P29C,[{'name': 'PBTA-X01'}],Male,1458.0,MBL,G4,no amplification,Alive,58.8090349075975,1,PBTA-X01
+PT_NZ85YSJ1,[{'name': 'PBTA-X01'}],Female,5072.0,MBL,NOS,no amplification,Deceased,24.6406570841889,2,PBTA-X01
+PT_P4ZEFY19,[{'name': 'PBTA-X00'}],Male,4601.0,MBL,G4,no amplification,Alive,53.1581108829568,1,PBTA-X00
+PT_PABK01H0,[{'name': 'PBTA-X00'}],Female,1076.0,MBL,SHH,no amplification,Alive,,1,PBTA-X00
+PT_PHY9WJR1,[{'name': 'PBTA-X01'}],Female,692.0,MBL,SHH,no amplification,Alive,53.9137577002053,1,PBTA-X01
+PT_PTTBTPS6,[{'name': 'PBTA-X01'}],Female,4230.0,MBL,SHH,ecDNA,Deceased,37.9137577002053,1,PBTA-X01
+PT_PX4E85V1,[{'name': 'PBTA-X00'}],Male,1680.0,MBL,G4,no amplification,Alive,,1,PBTA-X00
+PT_PZRWEBK5,[{'name': 'PBTA-X01'}],Male,2272.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_Q0N3AG4D,[{'name': 'PBTA-X01'}],Female,543.0,MBL,SHH,no amplification,Alive,10.3490759753593,1,PBTA-X01
+PT_Q4GD8TFQ,[{'name': 'PBTA-X01'}],Female,3260.0,MBL,WNT,no amplification,Alive,60.9117043121149,1,PBTA-X01
+PT_Q90R6M3E,[{'name': 'PBTA-X00'}],Male,3026.0,MBL,G4,no amplification,Alive,58.0205338809034,1,PBTA-X00
+PT_QEP13FH4,[{'name': 'PBTA-X00'}],Male,2696.0,MBL,WNT,no amplification,Alive,73.5277207392197,1,PBTA-X00
+PT_QF2ZH1V5,[{'name': 'PBTA-X01'}],Female,292.0,MBL,SHH,no amplification,Alive,108.12320328542,1,PBTA-X01
+PT_QW5VW2PY,[{'name': 'PBTA-X00'}],Male,3655.0,MBL,G4,ecDNA,Alive,109.470225872689,1,PBTA-X00
+PT_QYEF3JAT,[{'name': 'PBTA-X00'}],Male,4389.0,MBL,G4,no amplification,Alive,108.813141683778,1,PBTA-X00
+PT_R0H8JTQR,[{'name': 'PBTA-X01'}],Male,3389.0,MBL,WNT,no amplification,Alive,43.1047227926078,1,PBTA-X01
+PT_R604JG6B,[{'name': 'PBTA-X01'}],Male,4079.0,MBL,G4,no amplification,Deceased,24.4435318275154,5,PBTA-X01
+PT_R63RHJWX,[{'name': 'PBTA-X00'}],Male,4058.0,MBL,G4,ecDNA,Alive,75.8932238193018,1,PBTA-X00
+PT_RA6ZKYKA,[{'name': 'PBTA-X01'}],Male,4469.0,MBL,NOS,no amplification,Alive,,1,PBTA-X01
+PT_RFB07MZS,[{'name': 'PBTA-X00'}],Male,1385.0,MBL,G3,ecDNA,Alive,72.2792607802874,1,PBTA-X00
+PT_RFGZ2JGP,[{'name': 'PBTA-X00'}],Female,4240.0,MBL,WNT,no amplification,Alive,33.4127310061601,1,PBTA-X00
+PT_RH59ET3M,[{'name': 'PBTA-X00'}],Female,3336.0,MBL,G4,chromosomal,Alive,,1,PBTA-X00
+PT_RJ98S3KZ,[{'name': 'PBTA-X00'}],Male,4452.0,MBL,G4,no amplification,Alive,72.8377823408624,1,PBTA-X00
+PT_RM8V31DA,[{'name': 'PBTA-X01'}],Male,3386.0,MBL,SHH,ecDNA,Alive,12.6488706365503,1,PBTA-X01
+PT_RQ21EBK9,[{'name': 'PBTA-X00'}],Male,3651.0,MBL,G4,no amplification,Alive,98.4640657084188,1,PBTA-X00
+PT_S4A0R1PM,[{'name': 'PBTA-X00'}],Female,7628.0,MBL,SHH,no amplification,Alive,44.9117043121149,1,PBTA-X00
+PT_SBSXK3XB,[{'name': 'PBTA-X01'}],Male,9255.0,MBL,SHH,no amplification,Alive,3.08829568788501,1,PBTA-X01
+PT_SZJ7WZZW,[{'name': 'PBTA-X00'}],Male,5344.0,MBL,G4,no amplification,Alive,103.326488706365,1,PBTA-X00
+PT_T03AT4BJ,[{'name': 'PBTA-X01'}],Male,4428.0,MBL,G4,no amplification,Alive,57.5605749486653,1,PBTA-X01
+PT_T0MRCE9A,[{'name': 'PBTA-X01'}],Male,11832.0,MBL,SHH,no amplification,Deceased,191.441478439425,8,PBTA-X01
+PT_T1GR6607,[{'name': 'PBTA-X01'}],Male,1326.0,MBL,G3,no amplification,Alive,52.3367556468172,1,PBTA-X01
+PT_T3JEF4ZH,[{'name': 'PBTA-X01'}],Male,1729.0,MBL,G3,no amplification,Alive,24.4763860369609,2,PBTA-X01
+PT_T3REPTTC,[{'name': 'PBTA-X00'}],Female,754.0,MBL,G3,no amplification,Deceased,14.2258726899383,1,PBTA-X00
+PT_T93J9EGZ,[{'name': 'PBTA-X00'}],Female,294.0,MBL,SHH,no amplification,Alive,82.52977412731,1,PBTA-X00
+PT_TKWTTRQ7,[{'name': 'PBTA-X00'}],Male,7398.0,MBL,G4,no amplification,Deceased,109.174537987679,2,PBTA-X00
+PT_TTZFTYB5,[{'name': 'PBTA-X01'}],Female,3918.0,MBL,G3,no amplification,Alive,,1,PBTA-X01
+PT_TVK2KY36,[{'name': 'PBTA-X00'}],Male,3630.0,MBL,G4,no amplification,Alive,2.23408624229979,1,PBTA-X00
+PT_V0C2E99Z,[{'name': 'PBTA-X01'}],Female,2514.0,MBL,SHH,ecDNA,Alive,12.9117043121149,1,PBTA-X01
+PT_V4MF99XB,[{'name': 'PBTA-X01'}],Female,4535.0,MBL,G4,no amplification,Alive,44.35318275154,1,PBTA-X01
+PT_V8714N9H,[{'name': 'PBTA-X00'}],Male,761.0,MBL,G3,no amplification,Deceased,26.7433264887063,1,PBTA-X00
+PT_V9WP047R,[{'name': 'PBTA-X00'}],Male,2212.0,MBL,G4,no amplification,Alive,110.652977412731,1,PBTA-X00
+PT_VH6S71AC,[{'name': 'PBTA-X00'}],Male,2590.0,MBL,G4,no amplification,Alive,46.2258726899384,1,PBTA-X00
+PT_VJZN69T9,[{'name': 'PBTA-X01'}],Male,1008.0,MBL,G3,no amplification,Alive,4.2053388090349,2,PBTA-X01
+PT_VW5Y6N97,[{'name': 'PBTA-X01'}],Female,5317.0,MBL,SHH,ecDNA,Alive,33.9383983572895,1,PBTA-X01
+PT_VY45XTT7,[{'name': 'PBTA-X00'}],Male,4284.0,MBL,G4,ecDNA,Alive,45.6673511293634,1,PBTA-X00
+PT_W4M7YD0J,[{'name': 'PBTA-X01'}],Female,4159.0,MBL,SHH,chromosomal,Alive,25.0677618069815,1,PBTA-X01
+PT_W6D0547F,[{'name': 'PBTA-X01'}],Male,2909.0,MBL,G4,no amplification,Alive,57.2320328542094,1,PBTA-X01
+PT_W9ZYNS8Y,[{'name': 'PBTA-X01'}],Male,1636.0,MBL,G3,no amplification,Deceased,9.26488706365503,1,PBTA-X01
+PT_WF4Q4SF2,[{'name': 'PBTA-X01'}],Female,6703.0,MBL,SHH,ecDNA,Alive,18.1683778234086,1,PBTA-X01
+PT_WH5PD8ZK,[{'name': 'PBTA-X01'}],Male,3163.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_WNS0AZQT,[{'name': 'PBTA-X01'}],Male,3855.0,MBL,G4,no amplification,Alive,9.19917864476386,1,PBTA-X01
+PT_WWZ2Q14R,[{'name': 'PBTA-X00'}],Male,306.0,MBL,SHH,no amplification,Alive,50.8911704312115,1,PBTA-X00
+PT_X1XVE1XX,[{'name': 'PBTA-X00'}],Female,4917.0,MBL,G4,no amplification,Alive,,1,PBTA-X00
+PT_X4TT75N8,[{'name': 'PBTA-X01'}],Male,2058.0,MBL,G4,no amplification,Alive,,1,PBTA-X01
+PT_XA98HG1C,[{'name': 'PBTA-X00'}],Unknown,3332.0,MBL,SHH,ecDNA,Alive,,3,PBTA-X00
+PT_XWFW59VV,[{'name': 'PBTA-X01'}],Male,4099.0,MBL,WNT,no amplification,Alive,11.3675564681724,1,PBTA-X01
+PT_XX2VW3D9,[{'name': 'PBTA-X00'}],Female,2038.0,MBL,G3,no amplification,Alive,36.1724845995893,1,PBTA-X00
+PT_YFS3AWC0,[{'name': 'PBTA-X00'}],Male,1575.0,MBL,G3,ecDNA,Deceased,2.92402464065708,1,PBTA-X00
+PT_YV2S3ES7,[{'name': 'PBTA-X00'}],Male,13333.0,MBL,SHH,no amplification,Alive,8.27926078028747,1,PBTA-X00
+PT_ZG4J0EK0,[{'name': 'PBTA-X01'}],Female,2860.0,MBL,G3,no amplification,Deceased,37.4209445585215,2,PBTA-X01
+PT_ZGWYMRV8,[{'name': 'PBTA-X00'}],Male,1171.0,MBL,G3,no amplification,Deceased,12.1889117043121,1,PBTA-X00
+PT_ZJVVRMHQ,[{'name': 'PBTA-X01'}],Male,1997.0,MBL,G4,no amplification,Alive,40.9034907597535,1,PBTA-X01
+PT_ZM9F20SY,[{'name': 'PBTA-X01'}],Female,5938.0,MBL,WNT,no amplification,Alive,34.7597535934291,1,PBTA-X01
+SJ008001,[{'name': 'SJC-DS-1001'}],Female,2370.0,MBL,WNT,no amplification,Alive,222.554414784394,1,SJC-DS-1001
+SJ008003,[{'name': 'SJC-DS-1001'}],Female,2546.0,MBL,SHH,chromosomal,Alive,174.258726899384,1,SJC-DS-1001
+SJ008004,[{'name': 'SJC-DS-1001'}],Male,3189.0,MBL,SHH,ecDNA,Deceased,23.6550308008213,1,SJC-DS-1001
+SJ008006,[{'name': 'SJC-DS-1001'}],Male,1205.0,MBL,G3,no amplification,Deceased,14.488706365503,1,SJC-DS-1001
+SJ008008,[{'name': 'SJC-DS-1001'}],Male,4956.0,MBL,G3,ecDNA,Alive,162.036960985626,1,SJC-DS-1001
+SJ008009,[{'name': 'SJC-DS-1003'}],Male,3397.0,MBL,G4,no amplification,Alive,203.564681724846,2,SJC-DS-1003
+SJ008010,[{'name': 'SJC-DS-1001'}],Female,2454.0,MBL,G4,no amplification,Deceased,32.9199178644763,1,SJC-DS-1001
+SJ008011,[{'name': 'SJC-DS-1001'}],Male,3853.0,MBL,G4,no amplification,Alive,171.926078028747,1,SJC-DS-1001
+SJ008012,[{'name': 'SJC-DS-1001'}],Male,3097.0,MBL,SHH,no amplification,Alive,219.433264887063,1,SJC-DS-1001
+SJ008013,[{'name': 'SJC-DS-1001'}],Male,1855.0,MBL,SHH,no amplification,Alive,173.075975359342,1,SJC-DS-1001
+SJ008014,[{'name': 'SJC-DS-1001'}],Male,3346.0,MBL,G4,no amplification,Deceased,178.694045174538,1,SJC-DS-1001
+SJ008015,[{'name': 'SJC-DS-1001'}],Female,2929.0,MBL,G4,no amplification,Alive,217.527720739219,1,SJC-DS-1001
+SJ008016,[{'name': 'SJC-DS-1001'}],Female,2845.0,MBL,G4,no amplification,Alive,198.636550308008,1,SJC-DS-1001
+SJ008017,[{'name': 'SJC-DS-1001'}],Male,3970.0,MBL,G3,no amplification,Alive,210.82546201232,1,SJC-DS-1001
+SJ008018,[{'name': 'SJC-DS-1001'}],Male,3043.0,MBL,G4,no amplification,Alive,229.190965092402,1,SJC-DS-1001
+SJ008019,[{'name': 'SJC-DS-1001'}],Male,3178.0,MBL,G4,ecDNA,Alive,212.829568788501,1,SJC-DS-1001
+SJ008020,[{'name': 'SJC-DS-1001'}],Male,3196.0,MBL,G4,no amplification,Alive,203.82751540041,1,SJC-DS-1001
+SJ008022,[{'name': 'SJC-DS-1001'}],Unknown,,MBL,NOS,no amplification,Alive,198.045174537987,1,SJC-DS-1001
+SJ008023,[{'name': 'SJC-DS-1001'}],Male,1965.0,MBL,G4,no amplification,Deceased,144.919917864476,1,SJC-DS-1001
+SJ008024,[{'name': 'SJC-DS-1001'}],Male,2473.0,MBL,G4,chromosomal,Alive,195.41683778234,1,SJC-DS-1001
+SJ008025,[{'name': 'SJC-DS-1001'}],Male,4704.0,MBL,G3,no amplification,Deceased,10.6447638603696,1,SJC-DS-1001
+SJ008026,[{'name': 'SJC-DS-1001'}],Female,1589.0,MBL,NOS,no amplification,Alive,193.675564681724,1,SJC-DS-1001
+SJ008027,[{'name': 'SJC-DS-1001'}],Male,3598.0,MBL,G4,ecDNA,Alive,191.441478439425,1,SJC-DS-1001
+SJ008029,[{'name': 'SJC-DS-1001'}],Male,3795.0,MBL,NOS,no amplification,Deceased,73.9876796714579,1,SJC-DS-1001
+SJ008030,[{'name': 'SJC-DS-1001'}],Male,3123.0,MBL,G3,no amplification,Alive,184.114989733059,1,SJC-DS-1001
+SJ008031,[{'name': 'SJC-DS-1001'}],Male,2531.0,MBL,G3,no amplification,Alive,180.796714579055,1,SJC-DS-1001
+SJ008032,[{'name': 'SJC-DS-1001'}],Female,4712.0,MBL,G4,no amplification,Alive,178.135523613963,1,SJC-DS-1001
+SJ008033,[{'name': 'SJC-DS-1001'}],Male,6096.0,MBL,SHH,no amplification,Alive,174.455852156057,1,SJC-DS-1001
+SJ008034,[{'name': 'SJC-DS-1001'}],Male,3959.0,MBL,G4,no amplification,Alive,171.696098562628,1,SJC-DS-1001
+SJ008035,[{'name': 'SJC-DS-1001'}],Male,2290.0,MBL,G4,no amplification,Deceased,7.3264887063655,1,SJC-DS-1001
+SJ008036,[{'name': 'SJC-DS-1001'}],Female,2305.0,MBL,G4,no amplification,Alive,161.839835728952,1,SJC-DS-1001
+SJ008037,[{'name': 'SJC-DS-1001'}],Male,2396.0,MBL,G4,no amplification,Alive,160.821355236139,1,SJC-DS-1001
+SJ008038,[{'name': 'SJC-DS-1001'}],Male,3178.0,MBL,G4,ecDNA,Alive,158.160164271047,1,SJC-DS-1001
+SJ008039,[{'name': 'SJC-DS-1001'}],Male,2991.0,MBL,G4,no amplification,Alive,157.798767967145,1,SJC-DS-1001
+SJ008040,[{'name': 'SJC-DS-1001'}],Female,2973.0,MBL,WNT,no amplification,Alive,156.64887063655,1,SJC-DS-1001
+SJ008041,[{'name': 'SJC-DS-1001'}],Female,2721.0,MBL,WNT,no amplification,Alive,156.484599589322,1,SJC-DS-1001
+SJ008067,[{'name': 'SJC-DS-1003'}],Unknown,,MBL,SHH,chromosomal,Deceased,55.8193018480492,1,SJC-DS-1003
+SJ030020,[{'name': 'SJC-DS-1003'}],Male,,MBL,NOS,ecDNA,Deceased,66.924024640657,2,SJC-DS-1003
+SJ030021,[{'name': 'SJC-DS-1003'}],Unknown,,MBL,NOS,no amplification,Alive,122.151950718685,1,SJC-DS-1003
+SJ030055,[{'name': 'SJC-DS-1004'}],Male,2801.0,MBL,NOS,no amplification,Alive,85.6837782340862,1,SJC-DS-1004
+SJ030056,[{'name': 'SJC-DS-1004'}],Male,4120.0,MBL,NOS,ecDNA,Alive,86.3408624229979,1,SJC-DS-1004
+SJ030087,[{'name': 'SJC-DS-1004'}],Male,457.0,MBL,SHH,no amplification,Alive,91.564681724846,1,SJC-DS-1004
+SJ030089,[{'name': 'SJC-DS-1004'}],Male,2272.0,MBL,NOS,no amplification,Alive,83.0554414784394,1,SJC-DS-1004
+SJ030092,[{'name': 'SJC-DS-1004'}],Male,650.0,MBL,SHH,no amplification,Deceased,21.4209445585215,1,SJC-DS-1004
+SJ030110,[{'name': 'SJC-DS-1004'}],Male,1293.0,MBL,NOS,no amplification,Alive,81.4455852156057,1,SJC-DS-1004
+SJ030114,[{'name': 'SJC-DS-1004'}],Female,789.0,MBL,NOS,no amplification,Deceased,51.9425051334702,2,SJC-DS-1004
+SJ030139,[{'name': 'SJC-DS-1004'}],Male,6512.0,MBL,NOS,no amplification,Alive,80.0985626283367,1,SJC-DS-1004
+SJ030181,[{'name': 'SJC-DS-1004'}],Male,3426.0,MBL,NOS,ecDNA,Alive,88.9363449691991,1,SJC-DS-1004
+SJ030187,[{'name': 'SJC-DS-1004'}],Female,935.0,MBL,NOS,no amplification,Alive,79.4086242299794,1,SJC-DS-1004
+SJ030239,[{'name': 'SJC-DS-1004'}],Male,1896.0,MBL,NOS,no amplification,Deceased,68.7638603696098,1,SJC-DS-1004
+SJ030251,[{'name': 'SJC-DS-1004'}],Male,5369.0,MBL,NOS,no amplification,Deceased,66.7597535934291,1,SJC-DS-1004
+SJ030296,[{'name': 'SJC-DS-1004'}],Male,2783.0,MBL,SHH,ecDNA,Alive,71.8193018480492,1,SJC-DS-1004
+SJ030312,[{'name': 'SJC-DS-1004'}],Male,2513.0,MBL,SHH,ecDNA,Alive,72.1478439425051,1,SJC-DS-1004
+SJ030315,[{'name': 'SJC-DS-1004'}],Male,1640.0,MBL,NOS,no amplification,Deceased,12.35318275154,1,SJC-DS-1004
+SJ030333,[{'name': 'SJC-DS-1004'}],Male,4796.0,MBL,NOS,no amplification,Deceased,65.8398357289527,1,SJC-DS-1004
+SJ030352,[{'name': 'SJC-DS-1007'}],Female,4076.0,MBL,NOS,no amplification,Alive,66.7926078028747,1,SJC-DS-1007
+SJ030357,[{'name': 'SJC-DS-1007'}],Female,4803.0,MBL,NOS,no amplification,Deceased,31.6057494866529,1,SJC-DS-1007
+SJ030364,[{'name': 'SJC-DS-1007'}],Male,4924.0,MBL,SHH,no amplification,Alive,66.135523613963,1,SJC-DS-1007
+SJ030453,[{'name': 'SJC-DS-1007'}],Female,3426.0,MBL,WNT,no amplification,Deceased,18.135523613963,1,SJC-DS-1007
+SJ030498,[{'name': 'SJC-DS-1007'}],Male,3536.0,MBL,AMBL,no amplification,Alive,62.3572895277207,1,SJC-DS-1007
+SJ030530,[{'name': 'SJC-DS-1007'}],Male,1454.0,MBL,NOS,no amplification,Alive,61.0102669404517,1,SJC-DS-1007
+SJ030557,[{'name': 'SJC-DS-1007'}],Female,1476.0,MBL,SHH,no amplification,Alive,60.8459958932238,1,SJC-DS-1007
+SJ030582,[{'name': 'SJC-DS-1007'}],Female,3295.0,MBL,NOS,no amplification,Alive,59.9260780287474,1,SJC-DS-1007
+SJ030608,[{'name': 'SJC-DS-1007'}],Male,2984.0,MBL,NOS,no amplification,Alive,104.936344969199,1,SJC-DS-1007
+SJ030610,[{'name': 'SJC-DS-1007'}],Male,2663.0,MBL,AMBL,ecDNA,Alive,58.5462012320328,1,SJC-DS-1007
+SJ030620,[{'name': 'SJC-DS-1007'}],Female,6414.0,MBL,WNT,no amplification,Alive,62.3901437371663,1,SJC-DS-1007
+SJ030744,[{'name': 'SJC-DS-1007'}],Male,2754.0,MBL,NOS,no amplification,Alive,54.8993839835728,1,SJC-DS-1007
+SJ030748,[{'name': 'SJC-DS-1007'}],Female,6202.0,MBL,WNT,no amplification,Alive,55.2936344969199,1,SJC-DS-1007
+SJ030757,[{'name': 'SJC-DS-1007'}],Male,2308.0,MBL,AMBL,chromosomal,Alive,62.1930184804928,1,SJC-DS-1007
+SJ030785,[{'name': 'SJC-DS-1007'}],Male,3024.0,MBL,NOS,no amplification,Alive,55.0965092402464,1,SJC-DS-1007
+SJ030790,[{'name': 'SJC-DS-1007'}],Female,1969.0,MBL,NOS,no amplification,Alive,54.3737166324435,1,SJC-DS-1007
+SJ030910,[{'name': 'SJC-DS-1007'}],Male,1410.0,MBL,SHH,ecDNA,Deceased,11.6960985626283,2,SJC-DS-1007
+SJ030915,[{'name': 'SJC-DS-1007'}],Male,2327.0,MBL,AMBL,ecDNA,Alive,74.8418891170431,1,SJC-DS-1007
+SJ031016,[{'name': 'SJC-DS-1007'}],Male,782.0,MBL,NOS,no amplification,Alive,53.5523613963039,1,SJC-DS-1007
+SJ031041,[{'name': 'SJC-DS-1007'}],Male,3945.0,MBL,NOS,no amplification,Alive,48.6899383983572,1,SJC-DS-1007
+SJ031110,[{'name': 'SJC-DS-1007'}],Female,5512.0,MBL,NOS,no amplification,Alive,47.7371663244353,1,SJC-DS-1007
+SJ031227,[{'name': 'SJC-DS-1007'}],Male,1885.0,MBL,NOS,no amplification,Alive,44.6160164271047,1,SJC-DS-1007
+SJ031318,[{'name': 'SJC-DS-1007'}],Male,4916.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+SJ031374,[{'name': 'SJC-DS-1007'}],Male,5924.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+SJ031418,[{'name': 'SJC-DS-1007'}],Male,573.0,MBL,SHH,ecDNA,Unknown,,2,SJC-DS-1007
+SJ031439,[{'name': 'SJC-DS-1007'}],Male,3422.0,MBL,SHH,ecDNA,Unknown,,1,SJC-DS-1007
+SJ031453,[{'name': 'SJC-DS-1007'}],Male,877.0,MBL,SHH,no amplification,Unknown,,1,SJC-DS-1007
+SJ031475,[{'name': 'SJC-DS-1007'}],Male,3678.0,MBL,WNT,no amplification,Unknown,,1,SJC-DS-1007
+SJ031476,[{'name': 'SJC-DS-1007'}],Female,369.0,MBL,SHH,chromosomal,Unknown,,2,SJC-DS-1007
+SJ031564,[{'name': 'SJC-DS-1007'}],Female,3704.0,MBL,WNT,no amplification,Unknown,,1,SJC-DS-1007
+SJ031645,[{'name': 'SJC-DS-1007'}],Female,2487.0,MBL,SHH,no amplification,Unknown,,1,SJC-DS-1007
+SJ031653,[{'name': 'SJC-DS-1007'}],Female,2400.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+SJ031757,[{'name': 'SJC-DS-1007'}],Male,5895.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+SJ031813,[{'name': 'SJC-DS-1007'}],Male,3127.0,MBL,SHH,ecDNA,Unknown,,1,SJC-DS-1007
+SJ031835,[{'name': 'SJC-DS-1007'}],Male,1918.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+SJ031853,[{'name': 'SJC-DS-1007'}],Male,4894.0,MBL,NOS,ecDNA,Unknown,,1,SJC-DS-1007
+SJ031857,[{'name': 'SJC-DS-1007'}],Male,4040.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+SJ031972,[{'name': 'SJC-DS-1007'}],Male,5037.0,MBL,WNT,no amplification,Unknown,,1,SJC-DS-1007
+SJ032002,[{'name': 'SJC-DS-1007'}],Male,1414.0,MBL,NOS,ecDNA,Unknown,,1,SJC-DS-1007
+SJ032126,[{'name': 'SJC-DS-1007'}],Male,6911.0,MBL,SHH,no amplification,Unknown,,1,SJC-DS-1007
+SJ032180,[{'name': 'SJC-DS-1007'}],Female,1870.0,MBL,NOS,ecDNA,Unknown,,1,SJC-DS-1007
+SJ032185,[{'name': 'SJC-DS-1007'}],Male,4770.0,MBL,SHH,no amplification,Unknown,,1,SJC-DS-1007
+SJ032195,[{'name': 'SJC-DS-1007'}],Female,3605.0,MBL,WNT,no amplification,Unknown,,1,SJC-DS-1007
+SJ032199,[{'name': 'SJC-DS-1007'}],Female,3547.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+SJ032224,[{'name': 'SJC-DS-1007'}],Female,2506.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+SJ032268,[{'name': 'SJC-DS-1007'}],Female,2020.0,MBL,AMBL,chromosomal,Unknown,,1,SJC-DS-1007
+SJ032351,[{'name': 'SJC-DS-1007'}],Male,3422.0,MBL,G3,ecDNA,Unknown,,1,SJC-DS-1007
+SJ032410,[{'name': 'SJC-DS-1007'}],Male,11659.0,MBL,SHH,no amplification,Unknown,,1,SJC-DS-1007
+SJ032425,[{'name': 'SJC-DS-1007'}],Male,1001.0,MBL,AMBL,ecDNA,Unknown,,1,SJC-DS-1007
+SJ032435,[{'name': 'SJC-DS-1007'}],Male,7265.0,MBL,G4,no amplification,Unknown,,1,SJC-DS-1007
+SJ032478,[{'name': 'SJC-DS-1007'}],Male,5026.0,MBL,G4,no amplification,Unknown,,1,SJC-DS-1007
+SJ032506,[{'name': 'SJC-DS-1007'}],Male,3547.0,MBL,G4,no amplification,Unknown,,1,SJC-DS-1007
+SJ032566,[{'name': 'SJC-DS-1007'}],Male,6290.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+SJ032578,[{'name': 'SJC-DS-1007'}],Male,2736.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+SJ032603,[{'name': 'SJC-DS-1007'}],Female,4339.0,MBL,SHH,ecDNA,Unknown,,1,SJC-DS-1007
+SJ032729,[{'name': 'SJC-DS-1007'}],Male,4723.0,MBL,SHH,no amplification,Unknown,,1,SJC-DS-1007
+SJ032860,[{'name': 'SJC-DS-1007'}],Female,3159.0,MBL,WNT,no amplification,Unknown,,1,SJC-DS-1007
+SJ032889,[{'name': 'SJC-DS-1007'}],Male,7678.0,MBL,G4,no amplification,Unknown,,1,SJC-DS-1007
+SJ033254,[{'name': 'SJC-DS-1007'}],Female,720.0,MBL,NOS,no amplification,Unknown,,1,SJC-DS-1007
+ICGC_MB1,[{'name': 'ICGC'}],Female,2190.0,MBL,SHH,ecDNA,Alive,63.01437371663244,1,ICGC
+ICGC_MB101,[{'name': 'ICGC'}],Female,14235.0,MBL,SHH,ecDNA,Alive,24.0,1,ICGC
+ICGC_MB108,[{'name': 'ICGC'}],Male,3650.0,MBL,G4,chromosomal,Alive,,1,ICGC
+ICGC_MB110,[{'name': 'ICGC'}],Female,3650.0,MBL,G4,ecDNA,Alive,,1,ICGC
+ICGC_MB111,[{'name': 'ICGC'}],Female,1460.0,MBL,G3,chromosomal,Alive,,1,ICGC
+ICGC_MB114,[{'name': 'ICGC'}],Male,2920.0,MBL,G4,chromosomal,Alive,,1,ICGC
+ICGC_MB115,[{'name': 'ICGC'}],Male,5840.0,MBL,G4,chromosomal,Alive,,1,ICGC
+ICGC_MB119,[{'name': 'ICGC'}],Female,1825.0,MBL,G4,chromosomal,Alive,,1,ICGC
+ICGC_MB121,[{'name': 'ICGC'}],Male,2920.0,MBL,G4,chromosomal,Alive,,1,ICGC
+ICGC_MB125,[{'name': 'ICGC'}],Female,6935.0,MBL,SHH,chromosomal,Unknown,,1,ICGC
+ICGC_MB126,[{'name': 'ICGC'}],Female,11315.0,MBL,SHH,no amplification,Unknown,,1,ICGC
+ICGC_MB129,[{'name': 'ICGC'}],Male,5840.0,MBL,G4,chromosomal,Alive,6.012320328542088,1,ICGC
+ICGC_MB131,[{'name': 'ICGC'}],Male,1825.0,MBL,G3,ecDNA,Deceased,8.016427104722784,1,ICGC
+ICGC_MB132,[{'name': 'ICGC'}],Female,1825.0,MBL,SHH,no amplification,Alive,6.012320328542088,1,ICGC
+ICGC_MB134,[{'name': 'ICGC'}],Female,1095.0,MBL,G3,no amplification,Alive,6.012320328542088,1,ICGC
+ICGC_MB139,[{'name': 'ICGC'}],Male,1095.0,MBL,G3,no amplification,Alive,6.012320328542088,1,ICGC
+ICGC_MB143,[{'name': 'ICGC'}],Female,8030.0,MBL,SHH,chromosomal,Unknown,,1,ICGC
+ICGC_MB144,[{'name': 'ICGC'}],Female,3650.0,MBL,G3,chromosomal,Unknown,,1,ICGC
+ICGC_MB145,[{'name': 'ICGC'}],Male,4745.0,MBL,SHH,ecDNA,Deceased,19.71252566735112,1,ICGC
+ICGC_MB146,[{'name': 'ICGC'}],Female,2555.0,MBL,G3,no amplification,Unknown,,1,ICGC
+ICGC_MB147,[{'name': 'ICGC'}],Male,,MBL,G4,chromosomal,Unknown,,1,ICGC
+ICGC_MB15,[{'name': 'ICGC'}],Male,6205.0,MBL,G4,no amplification,Alive,22.99794661190964,1,ICGC
+ICGC_MB151,[{'name': 'ICGC'}],Male,1460.0,MBL,G3,chromosomal,Deceased,25.00205338809024,1,ICGC
+ICGC_MB152,[{'name': 'ICGC'}],Female,3650.0,MBL,G3,no amplification,Deceased,13.99589322381924,1,ICGC
+ICGC_MB153,[{'name': 'ICGC'}],Male,1095.0,MBL,G3,no amplification,Alive,18.9897330595482,1,ICGC
+ICGC_MB154,[{'name': 'ICGC'}],Male,1460.0,MBL,G4,no amplification,Alive,2.004106776180696,1,ICGC
+ICGC_MB157,[{'name': 'ICGC'}],Female,,MBL,G4,no amplification,Unknown,,1,ICGC
+ICGC_MB16,[{'name': 'ICGC'}],Male,1095.0,MBL,G3,chromosomal,Deceased,13.99589322381924,1,ICGC
+ICGC_MB160,[{'name': 'ICGC'}],Female,,MBL,G4,chromosomal,Unknown,,1,ICGC
+ICGC_MB161,[{'name': 'ICGC'}],Female,,MBL,G3,chromosomal,Unknown,,1,ICGC
+ICGC_MB163,[{'name': 'ICGC'}],Female,,MBL,G4,chromosomal,Unknown,,1,ICGC
+ICGC_MB165,[{'name': 'ICGC'}],Male,1825.0,MBL,G3,ecDNA,Alive,,1,ICGC
+ICGC_MB168,[{'name': 'ICGC'}],Male,3285.0,MBL,G3,ecDNA,Alive,,1,ICGC
+ICGC_MB17,[{'name': 'ICGC'}],Female,5475.0,MBL,G3,ecDNA,Alive,38.01232032854207,1,ICGC
+ICGC_MB171,[{'name': 'ICGC'}],Female,4015.0,MBL,SHH,chromosomal,Alive,,1,ICGC
+ICGC_MB175,[{'name': 'ICGC'}],Male,4015.0,MBL,G4,chromosomal,Alive,51.99999999999996,1,ICGC
+ICGC_MB178,[{'name': 'ICGC'}],Male,9855.0,MBL,SHH,no amplification,Alive,,1,ICGC
+ICGC_MB180,[{'name': 'ICGC'}],Male,9490.0,MBL,SHH,no amplification,Alive,18.00410677618068,1,ICGC
+ICGC_MB181,[{'name': 'ICGC'}],Female,8030.0,MBL,SHH,chromosomal,Alive,36.0,1,ICGC
+ICGC_MB183,[{'name': 'ICGC'}],Male,1095.0,MBL,G4,ecDNA,Alive,,1,ICGC
+ICGC_MB184,[{'name': 'ICGC'}],Male,4380.0,MBL,G4,ecDNA,Alive,,1,ICGC
+ICGC_MB185,[{'name': 'ICGC'}],Male,1095.0,MBL,G4,chromosomal,Alive,,1,ICGC
+ICGC_MB186,[{'name': 'ICGC'}],Female,,MBL,N/A,chromosomal,Unknown,,1,ICGC
+ICGC_MB188,[{'name': 'ICGC'}],Female,1095.0,MBL,G3,no amplification,Unknown,,1,ICGC
+ICGC_MB189,[{'name': 'ICGC'}],Female,,MBL,G4,chromosomal,Unknown,,1,ICGC
+ICGC_MB19,[{'name': 'ICGC'}],Female,4745.0,MBL,G4,chromosomal,Alive,41.98767967145784,1,ICGC
+ICGC_MB190,[{'name': 'ICGC'}],Female,,MBL,G3,chromosomal,Unknown,,1,ICGC
+ICGC_MB198,[{'name': 'ICGC'}],Male,2920.0,MBL,G3,chromosomal,Alive,,1,ICGC
+ICGC_MB2,[{'name': 'ICGC'}],Male,2555.0,MBL,G4,ecDNA,Alive,106.0205338809035,1,ICGC
+ICGC_MB20,[{'name': 'ICGC'}],Female,3285.0,MBL,WNT,no amplification,Alive,38.01232032854207,1,ICGC
+ICGC_MB205,[{'name': 'ICGC'}],Female,1825.0,MBL,G3,chromosomal,Alive,,1,ICGC
+ICGC_MB21,[{'name': 'ICGC'}],Female,1460.0,MBL,SHH,ecDNA,Deceased,15.99999999999996,1,ICGC
+ICGC_MB211,[{'name': 'ICGC'}],Female,,MBL,G4,chromosomal,Unknown,,1,ICGC
+ICGC_MB224,[{'name': 'ICGC'}],Male,3285.0,MBL,G4,chromosomal,Alive,11.9917864476386,1,ICGC
+ICGC_MB228,[{'name': 'ICGC'}],Female,2920.0,MBL,G4,chromosomal,Unknown,,1,ICGC
+ICGC_MB23,[{'name': 'ICGC'}],Female,3650.0,MBL,WNT,no amplification,Alive,40.99999999999991,1,ICGC
+ICGC_MB230,[{'name': 'ICGC'}],Female,1460.0,MBL,G4,chromosomal,Unknown,,1,ICGC
+ICGC_MB232,[{'name': 'ICGC'}],Male,1095.0,MBL,G4,chromosomal,Unknown,,1,ICGC
+ICGC_MB233,[{'name': 'ICGC'}],Female,3285.0,MBL,G4,no amplification,Alive,9.987679671457895,1,ICGC
+ICGC_MB235,[{'name': 'ICGC'}],Female,730.0,MBL,G3,ecDNA,Alive,8.016427104722784,1,ICGC
+ICGC_MB236,[{'name': 'ICGC'}],Male,6570.0,MBL,G4,chromosomal,Unknown,,1,ICGC
+ICGC_MB237,[{'name': 'ICGC'}],Female,4015.0,MBL,G4,no amplification,Unknown,,1,ICGC
+ICGC_MB24,[{'name': 'ICGC'}],Male,2555.0,MBL,G4,chromosomal,Alive,36.99383983572888,1,ICGC
+ICGC_MB252,[{'name': 'ICGC'}],Female,,MBL,G4,chromosomal,Unknown,,1,ICGC
+ICGC_MB26,[{'name': 'ICGC'}],Male,2920.0,MBL,G4,chromosomal,Alive,63.01437371663244,1,ICGC
+ICGC_MB28,[{'name': 'ICGC'}],Male,365.0,MBL,SHH,chromosomal,Alive,144.0,1,ICGC
+ICGC_MB3,[{'name': 'ICGC'}],Female,5840.0,MBL,SHH,chromosomal,Alive,41.98767967145784,1,ICGC
+ICGC_MB31,[{'name': 'ICGC'}],Female,5110.0,MBL,WNT,no amplification,Alive,63.01437371663244,1,ICGC
+ICGC_MB32,[{'name': 'ICGC'}],Female,2920.0,MBL,G4,chromosomal,Alive,95.01437371663236,1,ICGC
+ICGC_MB34,[{'name': 'ICGC'}],Female,4745.0,MBL,SHH,ecDNA,Alive,36.00821355236136,1,ICGC
+ICGC_MB35,[{'name': 'ICGC'}],Female,1460.0,MBL,SHH,chromosomal,Alive,72.0,1,ICGC
+ICGC_MB38,[{'name': 'ICGC'}],Male,2190.0,MBL,G4,no amplification,Alive,27.00616016427096,1,ICGC
+ICGC_MB39,[{'name': 'ICGC'}],Male,1460.0,MBL,G3,chromosomal,Deceased,14.0,1,ICGC
+ICGC_MB40,[{'name': 'ICGC'}],Male,1095.0,MBL,G4,no amplification,Alive,33.01848049281313,1,ICGC
+ICGC_MB45,[{'name': 'ICGC'}],Male,1095.0,MBL,G3,chromosomal,Alive,31.99999999999992,1,ICGC
+ICGC_MB46,[{'name': 'ICGC'}],Female,2190.0,MBL,WNT,no amplification,Alive,63.99999999999996,1,ICGC
+ICGC_MB49,[{'name': 'ICGC'}],Male,3650.0,MBL,G4,chromosomal,Alive,66.9897330595482,1,ICGC
+ICGC_MB5,[{'name': 'ICGC'}],Female,2190.0,MBL,G3,chromosomal,Alive,38.0,1,ICGC
+ICGC_MB50,[{'name': 'ICGC'}],Female,3650.0,MBL,G3,no amplification,Deceased,11.9917864476386,1,ICGC
+ICGC_MB51,[{'name': 'ICGC'}],Male,2555.0,MBL,G4,no amplification,Alive,18.00410677618068,1,ICGC
+ICGC_MB53,[{'name': 'ICGC'}],Male,7300.0,MBL,SHH,no amplification,Alive,51.99999999999996,1,ICGC
+ICGC_MB56,[{'name': 'ICGC'}],Female,15330.0,MBL,SHH,chromosomal,Deceased,36.99383983572888,1,ICGC
+ICGC_MB57,[{'name': 'ICGC'}],Female,8395.0,MBL,G4,chromosomal,Alive,24.01642710472272,1,ICGC
+ICGC_MB58,[{'name': 'ICGC'}],Male,6935.0,MBL,G4,chromosomal,Alive,45.99589322381928,1,ICGC
+ICGC_MB59,[{'name': 'ICGC'}],Female,11680.0,MBL,SHH,chromosomal,Alive,13.99589322381924,1,ICGC
+ICGC_MB6,[{'name': 'ICGC'}],Female,5110.0,MBL,G4,chromosomal,Alive,77.9958932238192,1,ICGC
+ICGC_MB60,[{'name': 'ICGC'}],Male,8395.0,MBL,SHH,chromosomal,Alive,18.00410677618068,1,ICGC
+ICGC_MB61,[{'name': 'ICGC'}],Male,10220.0,MBL,SHH,no amplification,Alive,11.9917864476386,1,ICGC
+ICGC_MB63,[{'name': 'ICGC'}],Male,9855.0,MBL,SHH,chromosomal,Alive,31.99999999999992,1,ICGC
+ICGC_MB64,[{'name': 'ICGC'}],Male,6570.0,MBL,G4,chromosomal,Alive,6.012320328542088,1,ICGC
+ICGC_MB65,[{'name': 'ICGC'}],Male,6570.0,MBL,G4,chromosomal,Alive,6.012320328542088,1,ICGC
+ICGC_MB66,[{'name': 'ICGC'}],Male,9125.0,MBL,SHH,chromosomal,Alive,41.00205338809032,1,ICGC
+ICGC_MB67,[{'name': 'ICGC'}],Male,8030.0,MBL,SHH,chromosomal,Deceased,48.0,1,ICGC
+ICGC_MB69,[{'name': 'ICGC'}],Female,10585.0,MBL,N/A,chromosomal,Alive,38.01232032854207,1,ICGC
+ICGC_MB7,[{'name': 'ICGC'}],Male,3285.0,MBL,G4,chromosomal,Alive,63.01437371663244,1,ICGC
+ICGC_MB74,[{'name': 'ICGC'}],Male,8395.0,MBL,SHH,no amplification,Unknown,,1,ICGC
+ICGC_MB75,[{'name': 'ICGC'}],Female,11315.0,MBL,SHH,chromosomal,Alive,31.40862422997936,1,ICGC
+ICGC_MB76,[{'name': 'ICGC'}],Female,10585.0,MBL,G4,no amplification,Alive,33.51129363449688,1,ICGC
+ICGC_MB77,[{'name': 'ICGC'}],Female,10585.0,MBL,SHH,chromosomal,Alive,24.11498973305952,1,ICGC
+ICGC_MB78,[{'name': 'ICGC'}],Male,13870.0,MBL,SHH,no amplification,Deceased,36.00821355236136,1,ICGC
+ICGC_MB79,[{'name': 'ICGC'}],Male,11680.0,MBL,SHH,no amplification,Alive,,1,ICGC
+ICGC_MB8,[{'name': 'ICGC'}],Female,4015.0,MBL,G4,chromosomal,Alive,61.99589322381924,1,ICGC
+ICGC_MB81,[{'name': 'ICGC'}],Female,17885.0,MBL,SHH,ecDNA,Unknown,,1,ICGC
+ICGC_MB82,[{'name': 'ICGC'}],Male,11315.0,MBL,SHH,chromosomal,Unknown,,1,ICGC
+ICGC_MB83,[{'name': 'ICGC'}],Female,5110.0,MBL,G4,chromosomal,Alive,,1,ICGC
+ICGC_MB84,[{'name': 'ICGC'}],Male,4380.0,MBL,G4,no amplification,Alive,,1,ICGC
+ICGC_MB85,[{'name': 'ICGC'}],Female,1825.0,MBL,G4,no amplification,Alive,114.0041067761807,1,ICGC
+ICGC_MB86,[{'name': 'ICGC'}],Male,1460.0,MBL,G4,no amplification,Alive,73.00205338809023,1,ICGC
+ICGC_MB89,[{'name': 'ICGC'}],Female,1460.0,MBL,G3,ecDNA,Deceased,6.012320328542088,1,ICGC
+ICGC_MB9,[{'name': 'ICGC'}],Male,2190.0,MBL,G3,ecDNA,Alive,75.00616016427097,1,ICGC
+ICGC_MB90,[{'name': 'ICGC'}],Male,730.0,MBL,G3,chromosomal,Alive,22.012320328542,1,ICGC
+ICGC_MB92,[{'name': 'ICGC'}],Male,3650.0,MBL,G4,chromosomal,Alive,72.0,1,ICGC
+ICGC_MB94,[{'name': 'ICGC'}],Female,5475.0,MBL,G4,ecDNA,Deceased,18.00410677618068,1,ICGC
+ICGC_MB96,[{'name': 'ICGC'}],Male,1095.0,MBL,G3,no amplification,Alive,24.01642710472272,1,ICGC
+ICGC_MB98,[{'name': 'ICGC'}],Male,2920.0,MBL,G3,no amplification,Alive,11.9917864476386,1,ICGC
+MBRep_T27,[{'name': 'ICGC'}],Male,5840.0,MBL,G3,ecDNA,Alive,18.13552361396304,1,ICGC
+MBRep_T36,[{'name': 'ICGC'}],Male,2920.0,MBL,G4,no amplification,Deceased,1.72,1,ICGC
+MBRep_T40,[{'name': 'ICGC'}],Female,3285.0,MBL,G4,chromosomal,Deceased,5.57,1,ICGC
+MBRep_T41,[{'name': 'ICGC'}],Female,3285.0,MBL,G4,chromosomal,Deceased,12.67,1,ICGC
+MBRep_T54,[{'name': 'ICGC'}],Male,1095.0,MBL,G3,chromosomal,Alive,54.0,1,ICGC
+MBRep_T67,[{'name': 'ICGC'}],Male,1460.0,MBL,G3,no amplification,Alive,,1,ICGC
+MBRep_T70,[{'name': 'ICGC'}],Male,3285.0,MBL,G4,no amplification,Alive,,1,ICGC
+MBRep_T71,[{'name': 'ICGC'}],Female,3285.0,MBL,G3,chromosomal,Alive,,1,ICGC
+MBRep_T72,[{'name': 'ICGC'}],Male,4015.0,MBL,G4,no amplification,Alive,18.9897330595482,1,ICGC
+MBRep_T79,[{'name': 'ICGC'}],Male,365.0,MBL,G3,ecDNA,Deceased,11.00616016427105,1,ICGC
+MDT-AP-0009,[{'name': 'ICGC'}],Male,1095.0,MBL,G4,chromosomal,Alive,204.0,1,ICGC
+MDT-AP-0074,[{'name': 'ICGC'}],Male,1095.0,MBL,G4,chromosomal,Alive,178.9240246406568,1,ICGC
+MDT-AP-0118,[{'name': 'ICGC'}],Male,2920.0,MBL,SHH,no amplification,Alive,78.62012320328532,1,ICGC
+MDT-AP-0207,[{'name': 'ICGC'}],Male,1460.0,MBL,G3,chromosomal,Alive,156.9117043121148,1,ICGC
+MDT-AP-0209,[{'name': 'ICGC'}],Male,1460.0,MBL,SHH,chromosomal,Alive,166.9979466119088,1,ICGC
+MDT-AP-0220,[{'name': 'ICGC'}],Female,1825.0,MBL,G4,no amplification,Alive,67.12114989733057,1,ICGC
+MDT-AP-0222,[{'name': 'ICGC'}],Male,1825.0,MBL,G4,chromosomal,Alive,66.9897330595482,1,ICGC
+MDT-AP-0223,[{'name': 'ICGC'}],Female,3650.0,MBL,G4,ecDNA,Alive,66.89117043121139,1,ICGC
+MDT-AP-0432,[{'name': 'ICGC'}],Male,3285.0,MBL,G4,chromosomal,Deceased,108.3203285420944,1,ICGC
+MDT-AP-0435,[{'name': 'ICGC'}],Male,1460.0,MBL,SHH,ecDNA,Alive,74.02053388090344,1,ICGC
+MDT-AP-0437,[{'name': 'ICGC'}],Male,1095.0,MBL,G4,chromosomal,Alive,48.39425051334696,1,ICGC
+MDT-AP-0530,[{'name': 'ICGC'}],Male,3285.0,MBL,G4,chromosomal,Alive,39.917864476386,1,ICGC
+MDT-AP-0580,[{'name': 'ICGC'}],Male,2555.0,MBL,G3,chromosomal,Alive,38.20944558521556,1,ICGC
+MDT-AP-0704,[{'name': 'ICGC'}],Male,365.0,MBL,SHH,no amplification,Alive,147.0225872689932,1,ICGC
+MDT-AP-0705,[{'name': 'ICGC'}],Male,15330.0,MBL,G4,no amplification,Unknown,,1,ICGC
+MDT-AP-0706,[{'name': 'ICGC'}],Unknown,16790.0,MBL,SHH,chromosomal,Alive,6.012320328542088,1,ICGC
+MDT-AP-0707,[{'name': 'ICGC'}],Unknown,12045.0,MBL,SHH,ecDNA,Alive,27.00616016427096,1,ICGC
+MDT-AP-0749,[{'name': 'ICGC'}],Female,1825.0,MBL,SHH,ecDNA,Alive,29.89733059548252,1,ICGC
+MDT-AP-1137,[{'name': 'ICGC'}],Female,730.0,MBL,SHH,no amplification,Alive,66.9897330595482,1,ICGC
+MDT-AP-1165,[{'name': 'ICGC'}],Male,2555.0,MBL,G4,ecDNA,Alive,33.01848049281313,1,ICGC
+MDT-AP-1166,[{'name': 'ICGC'}],Female,2190.0,MBL,G3,chromosomal,Deceased,58.02053388090347,1,ICGC
+MDT-AP-1167,[{'name': 'ICGC'}],Female,3285.0,MBL,G3,chromosomal,Alive,24.70636550308008,1,ICGC
+MDT-AP-1168,[{'name': 'ICGC'}],Male,2920.0,MBL,G4,chromosomal,Alive,27.8932238193018,1,ICGC
+MDT-AP-1200,[{'name': 'ICGC'}],Female,12410.0,MBL,SHH,no amplification,Deceased,77.9958932238192,1,ICGC
+MDT-AP-1202,[{'name': 'ICGC'}],Female,9125.0,MBL,SHH,no amplification,Alive,63.99999999999996,1,ICGC
+MDT-AP-1206,[{'name': 'ICGC'}],Female,365.0,MBL,G4,chromosomal,Deceased,50.98973305954824,1,ICGC
+MDT-AP-1207,[{'name': 'ICGC'}],Male,1825.0,MBL,G4,no amplification,Alive,73.00205338809023,1,ICGC
+MDT-AP-1208,[{'name': 'ICGC'}],Female,1825.0,MBL,SHH,ecDNA,Deceased,45.99589322381928,1,ICGC
+MDT-AP-1209,[{'name': 'ICGC'}],Male,2920.0,MBL,G4,ecDNA,Alive,52.00821355236131,1,ICGC
+MDT-AP-1210,[{'name': 'ICGC'}],Female,5475.0,MBL,SHH,chromosomal,Alive,38.9979466119096,1,ICGC
+MDT-AP-1211,[{'name': 'ICGC'}],Male,365.0,MBL,SHH,chromosomal,Alive,31.0143737166324,1,ICGC
+MDT-AP-1216,[{'name': 'ICGC'}],Male,4380.0,MBL,SHH,no amplification,Deceased,22.99794661190964,1,ICGC
+MDT-AP-1217,[{'name': 'ICGC'}],Female,9125.0,MBL,SHH,no amplification,Alive,86.9979466119096,1,ICGC
+MDT-AP-1218,[{'name': 'ICGC'}],Female,6205.0,MBL,SHH,ecDNA,Deceased,0.985626283367556,1,ICGC
+MDT-AP-1298,[{'name': 'ICGC'}],Male,730.0,MBL,G3,chromosomal,Alive,31.99999999999992,1,ICGC
+MDT-AP-1299,[{'name': 'ICGC'}],Male,4380.0,MBL,WNT,no amplification,Alive,21.38809034907588,1,ICGC
+MDT-AP-1323,[{'name': 'ICGC'}],Male,3285.0,MBL,G4,no amplification,Alive,84.00821355236135,1,ICGC
+MDT-AP-1348,[{'name': 'ICGC'}],Female,4015.0,MBL,SHH,ecDNA,Deceased,15.80287474332648,1,ICGC
+MDT-AP-1362,[{'name': 'ICGC'}],Male,4015.0,MBL,G4,no amplification,Alive,52.69815195071868,1,ICGC
+MDT-AP-1364,[{'name': 'ICGC'}],Male,3650.0,MBL,G3,chromosomal,Alive,54.6036960985626,1,ICGC
+MDT-AP-1365,[{'name': 'ICGC'}],Male,4380.0,MBL,G4,no amplification,Deceased,41.1991786447638,1,ICGC
+MDT-AP-1366,[{'name': 'ICGC'}],Male,1825.0,MBL,G4,chromosomal,Alive,96.99999999999997,1,ICGC
+MDT-AP-1367,[{'name': 'ICGC'}],Male,2920.0,MBL,G4,no amplification,Alive,22.89938398357284,1,ICGC
+MDT-AP-1368,[{'name': 'ICGC'}],Female,2920.0,MBL,WNT,chromosomal,Alive,50.0041067761806,1,ICGC
+MDT-AP-1369,[{'name': 'ICGC'}],Male,1095.0,MBL,G3,chromosomal,Alive,32.49281314168368,1,ICGC
+MDT-AP-1398,[{'name': 'ICGC'}],Female,7665.0,MBL,G4,chromosomal,Alive,27.0,1,ICGC
+MDT-AP-1402,[{'name': 'ICGC'}],Male,365.0,MBL,G3,chromosomal,Alive,18.39835728952764,1,ICGC
+MDT-AP-1403,[{'name': 'ICGC'}],Male,2555.0,MBL,G4,chromosomal,Alive,17.31416837782332,1,ICGC
+MDT-AP-1405,[{'name': 'ICGC'}],Male,2920.0,MBL,G4,no amplification,Alive,12.81314168377812,1,ICGC
+MDT-AP-2001,[{'name': 'ICGC'}],Male,,MBL,G3,ecDNA,Unknown,,1,ICGC
+MDT-AP-2004,[{'name': 'ICGC'}],Female,4380.0,MBL,G3,no amplification,Alive,38.01232032854207,1,ICGC
+MDT-AP-2006,[{'name': 'ICGC'}],Female,4015.0,MBL,SHH,no amplification,Deceased,48.0,1,ICGC
+MDT-AP-2073,[{'name': 'ICGC'}],Male,,MBL,G3,chromosomal,Unknown,,1,ICGC
+MDT-AP-2075,[{'name': 'ICGC'}],Female,2555.0,MBL,G4,chromosomal,Alive,43.00616016427104,1,ICGC
+MDT-AP-2077,[{'name': 'ICGC'}],Male,1825.0,MBL,SHH,no amplification,Unknown,,1,ICGC
+MDT-AP-2110,[{'name': 'ICGC'}],Male,730.0,MBL,G3,chromosomal,Deceased,18.56262833675556,1,ICGC
+MDT-AP-2111,[{'name': 'ICGC'}],Male,365.0,MBL,SHH,chromosomal,Alive,27.0,1,ICGC
+MDT-AP-2112,[{'name': 'ICGC'}],Female,730.0,MBL,SHH,chromosomal,Alive,47.17864476386028,1,ICGC
+MDT-AP-2115,[{'name': 'ICGC'}],Female,2920.0,MBL,G3,chromosomal,Alive,145.248459958932,1,ICGC
+MDT-AP-2116,[{'name': 'ICGC'}],Male,3650.0,MBL,G4,chromosomal,Alive,95.50718685831612,1,ICGC
+MDT-AP-2123,[{'name': 'ICGC'}],Male,3285.0,MBL,G4,no amplification,Alive,32.394250513347,1,ICGC
+MDT-AP-2130,[{'name': 'ICGC'}],Male,3285.0,MBL,G4,chromosomal,Alive,33.11704312114981,1,ICGC
+MDT-AP-2131,[{'name': 'ICGC'}],Male,730.0,MBL,SHH,chromosomal,Alive,31.21149897330588,1,ICGC
+MDT-AP-2148,[{'name': 'ICGC'}],Male,2920.0,MBL,G4,chromosomal,Alive,29.79876796714572,1,ICGC
+MDT-AP-2149,[{'name': 'ICGC'}],Male,365.0,MBL,SHH,chromosomal,Alive,48.0,1,ICGC
+MDT-AP-2151,[{'name': 'ICGC'}],Unknown,4745.0,MBL,G4,chromosomal,Deceased,88.80492813141684,1,ICGC
+MDT-AP-2169,[{'name': 'ICGC'}],Male,730.0,MBL,G3,no amplification,Alive,104.6078028747433,1,ICGC
+MDT-AP-2171,[{'name': 'ICGC'}],Female,2555.0,MBL,G4,chromosomal,Alive,66.79260780287471,1,ICGC
+MDT-AP-2173,[{'name': 'ICGC'}],Male,1460.0,MBL,G3,chromosomal,Deceased,23.78644763860368,1,ICGC
+MDT-AP-2174,[{'name': 'ICGC'}],Male,2190.0,MBL,SHH,ecDNA,Alive,46.91581108829568,1,ICGC
+MDT-AP-2177,[{'name': 'ICGC'}],Female,1825.0,MBL,G3,no amplification,Deceased,48.0,1,ICGC
+MDT-AP-2178,[{'name': 'ICGC'}],Male,5110.0,MBL,G4,chromosomal,Alive,36.6981519507186,1,ICGC
+MDT-AP-2180,[{'name': 'ICGC'}],Male,730.0,MBL,G3,chromosomal,Deceased,48.0,1,ICGC
+MDT-AP-2181,[{'name': 'ICGC'}],Male,3285.0,MBL,G4,no amplification,Deceased,33.01848049281313,1,ICGC
+MDT-AP-2182,[{'name': 'ICGC'}],Female,6205.0,MBL,SHH,ecDNA,Deceased,3.28542094455852,1,ICGC
+MDT-AP-2183,[{'name': 'ICGC'}],Male,5475.0,MBL,SHH,no amplification,Alive,20.50102669404516,1,ICGC
+MDT-AP-2184,[{'name': 'ICGC'}],Male,5840.0,MBL,SHH,no amplification,Alive,26.80903490759748,1,ICGC
+MDT-AP-2185,[{'name': 'ICGC'}],Male,1460.0,MBL,G3,chromosomal,Alive,36.00821355236136,1,ICGC
+MDT-AP-2254,[{'name': 'ICGC'}],Male,1460.0,MBL,G4,no amplification,Deceased,37.618069815195,1,ICGC
+MDT-AP-2304,[{'name': 'ICGC'}],Male,2555.0,MBL,G4,no amplification,Alive,26.5133470225872,1,ICGC
+MDT-AP-2307,[{'name': 'ICGC'}],Female,18250.0,MBL,SHH,chromosomal,Unknown,,1,ICGC
+MDT-AP-2405,[{'name': 'ICGC'}],Male,730.0,MBL,G3,no amplification,Alive,9.00205338809034,1,ICGC
+MDT-AP-2407,[{'name': 'ICGC'}],Male,2190.0,MBL,G4,chromosomal,Alive,0.985626283367556,1,ICGC
+MDT-AP-2452,[{'name': 'ICGC'}],Male,1460.0,MBL,G3,no amplification,Alive,22.99794661190964,1,ICGC
+MDT-AP-2510,[{'name': 'ICGC'}],Male,1825.0,MBL,G3,ecDNA,Deceased,20.6324435318274,1,ICGC
+MDT-AP-2514,[{'name': 'ICGC'}],Female,3650.0,MBL,G4,chromosomal,Alive,25.00205338809024,1,ICGC
+MDT-AP-2532,[{'name': 'ICGC'}],Male,1825.0,MBL,G4,chromosomal,Deceased,18.00410677618068,1,ICGC
+MDT-AP-2559,[{'name': 'ICGC'}],Male,730.0,MBL,G3,ecDNA,Deceased,2.989733059548252,1,ICGC
+MDT-AP-2562,[{'name': 'ICGC'}],Male,2920.0,MBL,G4,chromosomal,Alive,27.9917864476386,1,ICGC
+MDT-AP-2631,[{'name': 'ICGC'}],Male,1460.0,MBL,G3,chromosomal,Alive,23.4907597535934,1,ICGC
+MDT-AP-2673,[{'name': 'ICGC'}],Female,3650.0,MBL,G4,chromosomal,Alive,22.80082135523604,1,ICGC
+MDT-AP-2712,[{'name': 'ICGC'}],Male,730.0,MBL,SHH,no amplification,Unknown,,1,ICGC
+MDT-AP-2719,[{'name': 'ICGC'}],Female,4015.0,MBL,G4,chromosomal,Alive,21.71663244353172,1,ICGC
+MDT-AP-2738,[{'name': 'ICGC'}],Male,2920.0,MBL,SHH,ecDNA,Unknown,,1,ICGC
+MDT-AP-2745,[{'name': 'ICGC'}],Male,4015.0,MBL,G3,chromosomal,Deceased,25.6919917864476,1,ICGC
+MDT-AP-2774,[{'name': 'ICGC'}],Female,0.0,MBL,SHH,chromosomal,Unknown,,1,ICGC
+MDT-AP-2814,[{'name': 'ICGC'}],Male,9855.0,MBL,G4,chromosomal,Alive,218.7104722792608,1,ICGC
+MDT-AP-2832,[{'name': 'ICGC'}],Male,1460.0,MBL,G3,chromosomal,Alive,22.99794661190964,1,ICGC
+MDT-AP-2849,[{'name': 'ICGC'}],Female,3650.0,MBL,G4,no amplification,Alive,79.99999999999991,1,ICGC
+MDT-AP-2859,[{'name': 'ICGC'}],Male,6205.0,MBL,G4,no amplification,Alive,47.01437371663236,1,ICGC
+MDT-AP-2878,[{'name': 'ICGC'}],Male,3285.0,MBL,G4,ecDNA,Alive,9.987679671457895,1,ICGC
+MDT-AP-2963,[{'name': 'ICGC'}],Male,1460.0,MBL,G3,chromosomal,Alive,16.59137577002052,1,ICGC
+MDT-AP-3017,[{'name': 'ICGC'}],Female,1825.0,MBL,G4,ecDNA,Alive,110.3244353182751,1,ICGC
+MDT-AP-3019,[{'name': 'ICGC'}],Male,4015.0,MBL,G4,chromosomal,Alive,92.61601642710468,1,ICGC
+MDT-AP-3020,[{'name': 'ICGC'}],Male,1460.0,MBL,G4,no amplification,Alive,84.6981519507186,1,ICGC
+MDT-AP-3021,[{'name': 'ICGC'}],Male,3650.0,MBL,G4,no amplification,Alive,64.49281314168371,1,ICGC
+MDT-AP-3156,[{'name': 'ICGC'}],Male,1095.0,MBL,G3,no amplification,Unknown,,1,ICGC
+MDT-AP-3399,[{'name': 'ICGC'}],Male,730.0,MBL,SHH,chromosomal,Alive,72.0,1,ICGC
+MDT-AP-3401,[{'name': 'ICGC'}],Male,2190.0,MBL,G4,no amplification,Alive,27.00616016427096,1,ICGC
+MDT-AP-3402,[{'name': 'ICGC'}],Female,1825.0,MBL,G3,chromosomal,Alive,18.00410677618068,1,ICGC
+MDT-AP-3417,[{'name': 'ICGC'}],Female,2920.0,MBL,G3,chromosomal,Alive,11.59753593429157,1,ICGC
+MDT-AP-3431,[{'name': 'ICGC'}],Male,1095.0,MBL,SHH,ecDNA,Alive,11.20328542094455,1,ICGC
+PT_0WQFCZ6S,[{'name': 'PBTA-X01'}],Male,1934.0,ATRT,N/A,no amplification,Deceased,11.1047227926078,2,PBTA-X01
+PT_1NBHNPE4,[{'name': 'PBTA-X01'}],Male,376.0,ATRT,N/A,no amplification,Alive,39.3921971252566,1,PBTA-X01
+PT_30EX0QAT,[{'name': 'PBTA-X01'}],Female,973.0,ATRT,N/A,no amplification,Alive,37.5523613963039,2,PBTA-X01
+PT_32J909WM,[{'name': 'PBTA-X00'}],Male,860.0,ATRT,N/A,no amplification,Alive,56.2792607802874,1,PBTA-X00
+PT_3KM9W8S8,[{'name': 'PBTA-X01'}],Female,713.0,ATRT,N/A,no amplification,Deceased,17.182751540041,8,PBTA-X01
+PT_3TYNHF3F,[{'name': 'PBTA-X01'}],Female,507.0,ATRT,N/A,no amplification,Alive,19.3182751540041,1,PBTA-X01
+PT_4NVTPQ65,[{'name': 'PBTA-X01'}],Male,303.0,ATRT,N/A,no amplification,Alive,48.3285420944558,2,PBTA-X01
+PT_5CKDR2SF,[{'name': 'PBTA-X00'}],Female,394.0,ATRT,N/A,no amplification,Deceased,36.9609856262833,1,PBTA-X00
+PT_650GZWJR,[{'name': 'PBTA-X01'}],Female,256.0,ATRT,N/A,no amplification,Deceased,2.13552361396303,1,PBTA-X01
+PT_6N825561,[{'name': 'PBTA-X01'}],Female,3562.0,ATRT,N/A,no amplification,Deceased,65.6427104722792,4,PBTA-X01
+PT_6RRWZ8CK,[{'name': 'PBTA-X01'}],Female,677.0,ATRT,N/A,no amplification,Alive,11.6303901437371,1,PBTA-X01
+PT_6TDVP80J,[{'name': 'PBTA-X01'}],Female,233.0,ATRT,N/A,no amplification,Alive,24.5092402464065,1,PBTA-X01
+PT_7BVC1F8N,[{'name': 'PBTA-X01'}],Female,266.0,ATRT,N/A,no amplification,Deceased,2.79260780287474,1,PBTA-X01
+PT_7MZRW1DH,[{'name': 'PBTA-X00'}],Female,5688.0,ATRT,N/A,no amplification,Deceased,23.1950718685831,2,PBTA-X00
+PT_AW99VNWM,[{'name': 'PBTA-X01'}],Male,637.0,ATRT,N/A,no amplification,Alive,12.747433264887,1,PBTA-X01
+PT_B2RBACZ0,[{'name': 'PBTA-X01'}],Male,252.0,ATRT,N/A,no amplification,Deceased,28.0246406570841,1,PBTA-X01
+PT_CW0BJE0Y,[{'name': 'PBTA-X00'}],Male,883.0,ATRT,N/A,no amplification,Deceased,3.84394250513347,1,PBTA-X00
+PT_D46SNAQ7,[{'name': 'PBTA-X01'}],Male,586.0,ATRT,N/A,no amplification,Alive,5.61806981519507,1,PBTA-X01
+PT_D4JJMH7V,[{'name': 'PBTA-X01'}],Female,684.0,ATRT,N/A,no amplification,Alive,42.9733059548254,1,PBTA-X01
+PT_DA6JGBFJ,[{'name': 'PBTA-X01'}],Female,983.0,ATRT,N/A,no amplification,Deceased,26.7433264887063,1,PBTA-X01
+PT_DHTRBQA8,[{'name': 'PBTA-X01'}],Male,404.0,ATRT,N/A,no amplification,Deceased,31.7043121149897,1,PBTA-X01
+PT_DKRVS07M,[{'name': 'PBTA-X01'}],Female,368.0,ATRT,N/A,no amplification,Alive,,1,PBTA-X01
+PT_DVXE38EX,[{'name': 'PBTA-X01'}],Male,1529.0,ATRT,N/A,no amplification,Deceased,17.5112936344969,4,PBTA-X01
+PT_E6FTW238,[{'name': 'PBTA-X00'}],Female,557.0,ATRT,N/A,no amplification,Deceased,6.53798767967145,1,PBTA-X00
+PT_EE2E1AXD,[{'name': 'PBTA-X01'}],Male,819.0,ATRT,N/A,no amplification,Deceased,17.2156057494866,1,PBTA-X01
+PT_EK3N3FMR,[{'name': 'PBTA-X01'}],Male,147.0,ATRT,N/A,no amplification,Alive,73.7905544147844,1,PBTA-X01
+PT_ESHACWF6,[{'name': 'PBTA-X00'}],Female,1904.0,ATRT,N/A,no amplification,Deceased,19.0554414784394,2,PBTA-X00
+PT_FNMF9D6R,[{'name': 'PBTA-X01'}],Female,1547.0,ATRT,N/A,no amplification,Alive,,1,PBTA-X01
+PT_FYECBRPP,[{'name': 'PBTA-X00'}],Male,562.0,ATRT,N/A,no amplification,Alive,61.2402464065708,1,PBTA-X00
+PT_GH693TT8,[{'name': 'PBTA-X00'}],Male,738.0,ATRT,N/A,no amplification,Deceased,43.1047227926078,1,PBTA-X00
+PT_GRNZAWM0,[{'name': 'PBTA-X01'}],Male,1533.0,ATRT,N/A,no amplification,Alive,8.60780287474332,1,PBTA-X01
+PT_H8Z52K09,[{'name': 'PBTA-X00'}],Male,624.0,ATRT,N/A,no amplification,Deceased,4.10677618069815,1,PBTA-X00
+PT_HE8FBFNA,[{'name': 'PBTA-X01'}],Male,183.0,ATRT,N/A,no amplification,Alive,21.9794661190965,2,PBTA-X01
+PT_HVZTF42R,[{'name': 'PBTA-X00'}],Female,170.0,ATRT,N/A,no amplification,Deceased,11.8932238193018,3,PBTA-X00
+PT_J302B8Y5,[{'name': 'PBTA-X00'}],Male,826.0,ATRT,N/A,no amplification,Deceased,8.93634496919917,1,PBTA-X00
+PT_JCECCFPB,[{'name': 'PBTA-X00'}],Male,382.0,ATRT,N/A,no amplification,Deceased,0.952772073921971,1,PBTA-X00
+PT_JV9G8MFD,[{'name': 'PBTA-X01'}],Female,662.0,ATRT,N/A,no amplification,Deceased,51.9425051334702,2,PBTA-X01
+PT_M04EC74B,[{'name': 'PBTA-X00'}],Male,544.0,ATRT,N/A,no amplification,Deceased,16.2628336755646,1,PBTA-X00
+PT_M1RYN7B0,[{'name': 'PBTA-X00'}],Male,1038.0,ATRT,N/A,no amplification,Deceased,14.2258726899383,2,PBTA-X00
+PT_MTE126WM,[{'name': 'PBTA-X00'}],Unknown,1936.0,ATRT,N/A,no amplification,Alive,99.1868583162217,1,PBTA-X00
+PT_ND34A6PR,[{'name': 'PBTA-X00'}],Female,2982.0,ATRT,N/A,no amplification,Alive,126.225872689938,1,PBTA-X00
+PT_NHR38RJE,[{'name': 'PBTA-X01'}],Female,3049.0,ATRT,N/A,no amplification,Alive,36.3039014373716,1,PBTA-X01
+PT_NXNCY5KD,[{'name': 'PBTA-X01'}],Female,1030.0,ATRT,N/A,no amplification,Deceased,8.47638603696098,1,PBTA-X01
+PT_RJ1TJ2KH,[{'name': 'PBTA-X00'}],Male,626.0,ATRT,N/A,no amplification,Deceased,13.4045174537987,2,PBTA-X00
+PT_RRG1V7EP,[{'name': 'PBTA-X00'}],Female,230.0,ATRT,N/A,no amplification,Alive,92.8131416837782,1,PBTA-X00
+PT_RWF4AB4X,[{'name': 'PBTA-X01'}],Male,769.0,ATRT,N/A,no amplification,Alive,37.0266940451745,1,PBTA-X01
+PT_RX1EWBP9,[{'name': 'PBTA-X00'}],Female,1876.0,ATRT,N/A,no amplification,Deceased,20.9938398357289,1,PBTA-X00
+PT_S8NYAGCA,[{'name': 'PBTA-X01'}],Female,663.0,ATRT,N/A,no amplification,Deceased,39.3921971252566,1,PBTA-X01
+PT_T5KEXCK7,[{'name': 'PBTA-X00'}],Female,1039.0,ATRT,N/A,no amplification,Deceased,7.52361396303901,1,PBTA-X00
+PT_TV5DYHNC,[{'name': 'PBTA-X00'}],Male,1113.0,ATRT,N/A,no amplification,Alive,,1,PBTA-X00
+PT_VTG1S395,[{'name': 'PBTA-X01'}],Female,1616.0,ATRT,N/A,no amplification,Deceased,16.394250513347,2,PBTA-X01
+PT_WG2Z95B5,[{'name': 'PBTA-X00'}],Male,383.0,ATRT,N/A,no amplification,Deceased,68.2381930184804,3,PBTA-X00
+PT_WM03MVHR,[{'name': 'PBTA-X01'}],Female,1198.0,ATRT,N/A,no amplification,Alive,36.6652977412731,1,PBTA-X01
+PT_XRQHMBHB,[{'name': 'PBTA-X00'}],Male,2847.0,ATRT,N/A,no amplification,Alive,57.4291581108829,2,PBTA-X00
+PT_XTVQB9S4,[{'name': 'PBTA-X00'}],Female,535.0,ATRT,N/A,no amplification,Deceased,11.4332648870636,3,PBTA-X00
+PT_Y9JQ3VPX,[{'name': 'PBTA-X01'}],Female,711.0,ATRT,N/A,no amplification,Deceased,8.34496919917864,1,PBTA-X01
+SJ030128,[{'name': 'SJC-DS-1004'}],Female,431.0,ATRT,N/A,no amplification,Alive,81.4455852156057,1,SJC-DS-1004
+SJ030255,[{'name': 'SJC-DS-1004'}],Male,891.0,ATRT,N/A,no amplification,Alive,79.3100616016427,1,SJC-DS-1004
+SJ030581,[{'name': 'SJC-DS-1007'}],Male,3766.0,ATRT,N/A,no amplification,Alive,59.2689938398357,1,SJC-DS-1007
+SJ030707,[{'name': 'SJC-DS-1007'}],Male,584.0,ATRT,N/A,no amplification,Deceased,13.1088295687885,1,SJC-DS-1007
+SJ030896,[{'name': 'SJC-DS-1007'}],Male,1026.0,ATRT,N/A,no amplification,Alive,68.9281314168377,2,SJC-DS-1007
+SJ030997,[{'name': 'SJC-DS-1007'}],Female,183.0,ATRT,N/A,no amplification,Deceased,5.51950718685831,1,SJC-DS-1007
+SJ031235,[{'name': 'SJC-DS-1007'}],Female,259.0,ATRT,N/A,no amplification,Deceased,16.4928131416837,1,SJC-DS-1007
+SJ031605,[{'name': 'SJC-DS-1007'}],Male,840.0,ATRT,N/A,chromosomal,Unknown,,1,SJC-DS-1007
+SJ031948,[{'name': 'SJC-DS-1007'}],Female,734.0,ATRT,N/A,no amplification,Unknown,,1,SJC-DS-1007
+SJ032346,[{'name': 'SJC-DS-1007'}],Female,1534.0,ATRT,N/A,no amplification,Unknown,,1,SJC-DS-1007
+SJ032393,[{'name': 'SJC-DS-1007'}],Female,,ATRT,N/A,no amplification,Unknown,,1,SJC-DS-1007
+SJ032417,[{'name': 'SJC-DS-1007'}],Female,77.0,ATRT,N/A,no amplification,Unknown,,1,SJC-DS-1007
+SJ033236,[{'name': 'SJC-DS-1007'}],Female,285.0,ATRT,N/A,no amplification,Unknown,,1,SJC-DS-1007
