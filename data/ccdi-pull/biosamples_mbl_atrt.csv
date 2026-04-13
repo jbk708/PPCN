@@ -1,0 +1,742 @@
+biosample_id,patient_id,external_sample_id,tumor_history,age_at_diagnosis,extent_of_tumor_resection,cancer_type,cancer_subclass,ecDNA_sequences_detected,amplicon_class,in_unique_tumor_set,in_unique_patient_set,amplicon_repository_url,amplicon_repository_available,no_of_amplicons,aafile_available
+BS_3JE2T7AR,PT_04YTK82N,7316-746,Diagnosis,1067.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_4YE9CKC6,PT_0DWRY9ZX,7316-2221,Diagnosis,3804.0,Gross/Near total resection,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_B94PF9E1,PT_0DWRY9ZX,7316-3210,Recurrence,4853.0,Gross/Near total resection,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_ZGSTZCYN,PT_0DWRY9ZX,7316-1017,Recurrence,4853.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_K5XA5N93,PT_0KTVJ74J,7316-7135,Autopsy,4328.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_4P88KBKA,PT_0Q0CX0GS,7316-6530,Diagnosis,1865.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_KAZENYZE,PT_0WMP712K,7316-922,Diagnosis,494.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_JDS0SYST,PT_17NG0KW3,7316-1945,Diagnosis,2513.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_4FKXNJHW,PT_1A4HM6FR,7316-6980,Diagnosis,2602.0,Gross/Near total resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_7G0HZ8BN,PT_1GPWWDY5,7316-9741,Diagnosis,5110.0,Gross/Near total resection,MBL,NOS,0,no amplification,True,True,,False,0,True
+BS_258W38W2,PT_1RP7V36W,7316-9730,Diagnosis,3357.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_HSYF7G2D,PT_1T7WF5S1,7316-2934,Diagnosis,1846.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_110K2FF7,PT_1TQA3ZS2,7316-8117,Diagnosis,659.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_RGZTGVGV,PT_21SSYTYN,7316-4856,Diagnosis,1345.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_05S9WJW6,PT_23NZGSRJ,7316-2659,Diagnosis,1484.0,Partial resection,MBL,G3,0,chromosomal,True,True,,False,1,True
+BS_209RV8H2,PT_23NZGSRJ,7316-4509,Progressive,2083.0,N/A,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_CCHHH752,PT_23NZGSRJ,7316-4509,Progressive,2083.0,N/A,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_CJ2G78ZZ,PT_23NZGSRJ,7316-4509,Progressive,2083.0,N/A,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_F2MTFYFR,PT_23NZGSRJ,7316-4509,Progressive,2083.0,N/A,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_GNXGGWFN,PT_23NZGSRJ,7316-4509,Progressive,2083.0,N/A,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_H8JZ6CZR,PT_23NZGSRJ,7316-4509,Progressive,2083.0,N/A,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_Q03MVGN6,PT_23NZGSRJ,7316-4509,Progressive,2083.0,N/A,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_QZT3SPY7,PT_26V72ZXB,7316-3576,Diagnosis,4170.0,Biopsy only,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_A024WSJX,PT_26V72ZXB,7316-5473,Progressive,4864.0,Partial resection,MBL,G3,0,chromosomal,True,True,,False,1,True
+BS_SE8D7CWD,PT_27M5988T,7316-7286,Diagnosis,1167.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+BS_MTYNW7BX,PT_288PVQGZ,7316-4284,Diagnosis,920.0,Gross/Near total resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_B3RH9V17,PT_2FK75B27,7316-1700,Diagnosis,2538.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_QB75G19J,PT_2N647SBA,7316-6685,Diagnosis,7566.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_P3VBY9TH,PT_2WSNYKAC,7316-5320,Diagnosis,6521.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_KMFX23ZZ,PT_32CD03EE,7316-4345,Diagnosis,4673.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_N2KTPMH1,PT_34MDR40C,7316-4535,Diagnosis,1423.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_FSH4MKSX,PT_35X8ASEE,7316-5749,Diagnosis,3066.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_Z5D6G1S6,PT_39HBKSGG,7316-908,Diagnosis,4854.0,Gross/Near total resection,MBL,G4,0,no amplification,True,False,,False,0,True
+BS_QRM7A5YZ,PT_3GP5H8Z0,7316-3170,Diagnosis,4758.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_MC1W61N0,PT_3JNXBSHR,7316-3931,Diagnosis,5299.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_9G7ETYHR,PT_3VQEVNDD,7316-1680,Diagnosis,722.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_VA3HCDCZ,PT_408A0GNB,7316-1045,Diagnosis,3222.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_0RF0G9SQ,PT_45P9F9MD,7316-314,Diagnosis,3856.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_0NNHVKW8,PT_4DZ9B62P,7316-6289,Diagnosis,2456.0,Gross/Near total resection,MBL,NOS,0,no amplification,True,True,,False,0,True
+BS_95EMTN3E,PT_4J766Q6K,7316-6785,Diagnosis,1985.0,Gross/Near total resection,MBL,NOS,1,ecDNA,True,True,,False,1,True
+BS_425D2JAB,PT_4Y6DS6E7,7316-9036,Diagnosis,5557.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_XEWFB0YN,PT_59H1TPQS,7316-6054,Diagnosis,5961.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_G12HNXYX,PT_5F4N0CAP,7316-219,Diagnosis,3722.0,Partial resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_VTTTQYQA,PT_5FR2YA6E,7316-109,Diagnosis,4234.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_ZWN9EWGV,PT_5HSJZPJ3,7316-9436,Diagnosis,964.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_D4ECQVRX,PT_5V6PRZX4,7316-8979,Diagnosis,4675.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_6D37YSGS,PT_62VNQ8C4,7316-968,Diagnosis,5612.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_Y42GB8SA,PT_62VNQ8C4,7316-1884,Progressive,5655.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_9168FYE6,PT_64C7QNBP,7316-3949,Diagnosis,5465.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_F0EA1FGK,PT_65B5CGQG,7316-7110,Diagnosis,1794.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_VPH2J6ES,PT_6A7123NH,7316-6533,Diagnosis,4732.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_R8F3DR5F,PT_6H0WGQ6E,7316-7503,Diagnosis,2697.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,2,True
+BS_Z9YAGQYA,PT_6PPHRJZB,7316-6792,Diagnosis,1637.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_PQSJ9VQW,PT_6VHGCV7M,7316-2624,Diagnosis,6444.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_3RGJ4VP1,PT_6XT5HH0S,7316-9450,Diagnosis,1366.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_T0G1JWZV,PT_76W7C93V,7316-7208,Diagnosis,1192.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_T8TCEBB1,PT_78NQ0QQS,7316-1651,Diagnosis,4406.0,Partial resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_164KRQJ0,PT_7BJBEBZT,7316-1670,Diagnosis,2511.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_CSGEJF3E,PT_7ENND7B2,7316-5816,Diagnosis,3846.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_Y7CA8B5R,PT_7FQ6VECA,7316-3846,Diagnosis,5918.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_HZHEF797,PT_7KBMN6C2,7316-553,Recurrence,2859.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_NMQTPVFW,PT_7QKGGMKV,7316-347,Diagnosis,3557.0,Partial resection,MBL,G4,0,chromosomal,True,True,,False,1,True
+BS_Y7PRDGED,PT_7WYPEC3Q,7316-4529,Diagnosis,720.0,Partial resection,MBL,SHH,2,ecDNA,False,False,,False,2,True
+BS_KEWYG829,PT_7WYPEC3Q,7316-5881,Progressive,1300.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,2,True
+BS_2F3NJJ7V,PT_7Z0FF6A2,7316-7108,Diagnosis,4254.0,Partial resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_8H2XX24V,PT_82MX6J77,7316-302,Diagnosis,1384.0,Gross/Near total resection,MBL,G3,0,no amplification,True,False,,False,0,True
+BS_7GF5144B,PT_84ZTC7PV,7316-678,Diagnosis,1882.0,Gross/Near total resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_2S93EQPX,PT_85RSG67R,7316-2986,Diagnosis,4068.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_5KFAEMQJ,PT_8RB3EKNP,7316-4028,Diagnosis,2059.0,Gross/Near total resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_53BCKC4V,PT_97EQQMT9,7316-3114,Diagnosis,4295.0,Partial resection,MBL,SHH,5,ecDNA,True,True,,False,5,True
+BS_2TXVAHMQ,PT_98W7YNZ7,7316-9824,Diagnosis,1048.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_RHEBGZF8,PT_9A6RPJ97,7316-906,Diagnosis,2994.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,False,,False,0,True
+BS_0E8WBZBF,PT_9B3YD5DR,7316-411,Diagnosis,1999.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_TNQKJZCP,PT_9DER14KH,7316-2230,Diagnosis,3503.0,Partial resection,MBL,G3,1,ecDNA,True,True,,False,1,True
+BS_H174820R,PT_9DMMZ08D,7316-1666,Diagnosis,1433.0,Partial resection,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_FVYBGMG1,PT_9DMMZ08D,7316-1676,Progressive,1540.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_H2K7XX4X,PT_9HMVHQEH,7316-22,Diagnosis,2644.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_N30XYWEN,PT_9KRSSPSF,7316-520,Diagnosis,8203.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_X4WVRARG,PT_9MT2G8NE,7316-6781,Diagnosis,1853.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_S5V1KZRF,PT_9N8B4X3E,7316-6373,Diagnosis,2774.0,Gross/Near total resection,MBL,NOS,0,no amplification,True,True,,False,0,True
+BS_WY5KYSHJ,PT_9S6WMQ92,7316-278,Diagnosis,5534.0,Gross/Near total resection,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_ZR75EKKX,PT_9S6WMQ92,7316-95,Progressive,6555.0,Partial resection,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_ZVM1B6BF,PT_9S6WMQ92,7316-95,Progressive,6555.0,Partial resection,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_1CZPVCXR,PT_9S6WMQ92,7316-333,Progressive,6992.0,Partial resection,MBL,SHH,0,chromosomal,True,True,,False,1,True
+BS_PEGR2M22,PT_9SWHWA5Q,7316-4458,Diagnosis,3061.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_RC3GT3V9,PT_9Y9S32VY,7316-4493,Diagnosis,5024.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_F8KR1QWE,PT_9YMRNZHH,7316-2178,Diagnosis,5119.0,Gross/Near total resection,MBL,G4,1,ecDNA,True,True,,False,2,True
+BS_Z4BH9ZFG,PT_A0V7V4N0,7316-7495,Diagnosis,3453.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_5D1QYYFE,PT_A5S5BB3A,7316-3195,Diagnosis,3363.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_YHNFJWAK,PT_AAA7EET4,7316-4778,Diagnosis,6394.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_YYAPSA5P,PT_AW8WV14Y,7316-179,Diagnosis,86.0,Partial resection,MBL,NOS,0,no amplification,True,True,,False,0,True
+BS_QWWYFRGZ,PT_B4RTR0T5,7316-8916,Diagnosis,2783.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_YH60H2FS,PT_B7QRTN72,7316-1802,Diagnosis,1694.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_YN6N4RCW,PT_BA38VR93,7316-6522,Diagnosis,6318.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_VDYVP883,PT_BAH54SVM,7316-7965,Diagnosis,953.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_M16CDR44,PT_BDM0M83S,7316-3072,Diagnosis,2037.0,Partial resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_9BF58P80,PT_BG7GAFK6,7316-3626,Diagnosis,3385.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_P2774N21,PT_BK06Z2Q1,7316-5187,Diagnosis,1475.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_20X874J5,PT_BPKVVWVB,7316-2250,Diagnosis,3266.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_QHTDJG77,PT_BRTVGGRK,7316-2893,Diagnosis,3424.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_PFXDWV9R,PT_BTTM2HS5,7316-2287,Diagnosis,1689.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_R0Z82GZX,PT_BTYG7JR9,7316-4187,Progressive,2706.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_G6YHGFF2,PT_BW36HGH4,7316-9488,Diagnosis,3630.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_TEC3PGQ0,PT_C9F2B4QF,7316-4270,Diagnosis,4906.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_YRGD4MKR,PT_CGAQ7KKY,7316-4956,Diagnosis,4996.0,Gross/Near total resection,MBL,G3,1,ecDNA,True,True,,False,1,True
+BS_Z7A870DH,PT_CHHBDNNJ,7316-4918,Diagnosis,3155.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_XQ33BNV0,PT_CMPNS3BQ,7316-4174,Diagnosis,6136.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_PJ08ZW9A,PT_CQ7EGCMB,7316-3809,Diagnosis,744.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_HPMX6CT4,PT_CTSQ5FHH,7316-438,Diagnosis,1663.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_9YPJANGX,PT_CWA1405H,7316-2252,Diagnosis,3475.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_HZNKSQ17,PT_CXT81GRM,7316-883,Diagnosis,1221.0,Partial resection,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_3CG2N4PD,PT_CXT81GRM,7316-1772,Autopsy,1545.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,1,True
+BS_7PKPNFFK,PT_D1WJ3BJX,7316-358,Diagnosis,5845.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_SFH8TGKT,PT_D215EQAP,7316-747,Diagnosis,2759.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_P3P96WCD,PT_D7KMPYTZ,7316-2133,Diagnosis,4729.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_PVZJCXS1,PT_DACV00WF,7316-489,Diagnosis,116.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_1DA3F1K1,PT_DAKPNP7K,7316-6643,Progressive,2939.0,Partial resection,MBL,G3,1,ecDNA,True,True,,False,1,True
+BS_VJYFBZW1,PT_DBNV494P,7316-5459,Diagnosis,1481.0,Gross/Near total resection,MBL,NOS,0,no amplification,True,True,,False,0,True
+BS_VYF9WFRR,PT_DFR8928F,7316-3032,Diagnosis,2186.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_DJEVCH34,PT_DFXQFYPV,7316-2155,Diagnosis,3606.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_YYJDGT6Y,PT_DY2D16CZ,7316-3635,Recurrence,4791.0,Partial resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_7D5JNF95,PT_DY2GNA83,7316-8419,Progressive,9307.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_C08DKZFP,PT_DY2GNA83,7316-8419,Progressive,9307.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_GZ5QQYZ7,PT_DY2GNA83,7316-8419,Progressive,9307.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_NV2GCZZC,PT_DY2GNA83,7316-8419,Progressive,9307.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_1JMTTKMK,PT_E4ECAFEN,7316-38,Diagnosis,5666.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_2A3KXSK1,PT_EA9K01MB,7316-5521,Diagnosis,2750.0,Gross/Near total resection,MBL,NOS,0,no amplification,True,True,,False,0,True
+BS_6FVT4ZZJ,PT_ED13K2GD,7316-7609,Diagnosis,1963.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_WP2D11SK,PT_EDWA0XTP,7316-670,Diagnosis,1032.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_CSY11X7E,PT_EGGY1XC0,7316-2865,Diagnosis,1475.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_35Y30N7S,PT_EYQS4J99,7316-8850,Diagnosis,346.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_X1R0N8QS,PT_EZS4SRH6,7316-676,Diagnosis,4044.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_K3Y06EKR,PT_F0N89D15,7316-3756,Diagnosis,2031.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_R1CV479M,PT_F3S9PB94,7316-2240,Diagnosis,3049.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_F5Q4C4NG,PT_FFCD5XD7,7316-9032,Recurrence,739.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_97M1BPNE,PT_FHGDAACP,7316-4513,Diagnosis,3640.0,Partial resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_BX8AR74E,PT_FN4GEEFR,7316-729,Diagnosis,3977.0,Partial resection,MBL,SHH,1,ecDNA,False,False,,False,2,True
+BS_E1VJCEWB,PT_FN4GEEFR,7316-3010,Progressive,5041.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,1,True
+BS_YTE4SYEN,PT_FRZQJNW9,7316-3542,Diagnosis,2592.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_9QJ95K51,PT_FWWRWTV2,7316-2439,Diagnosis,761.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,False,,False,0,True
+BS_7SAH6KH6,PT_FX2D5BTD,7316-5879,Diagnosis,0.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_G9CCAMGS,PT_FXCSG8EY,7316-2701,Diagnosis,737.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_JK5GTHVG,PT_G1QNGVCZ,7316-1118,Diagnosis,3712.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_RQ5Z7KNW,PT_G3AVDN4E,7316-2227,Diagnosis,2320.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_DH9NX6ZR,PT_G9XKWA3N,7316-5463,Diagnosis,5448.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_SRX5AC1J,PT_GFGHFJ3S,7316-4694,Diagnosis,129.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_0J5MCBZV,PT_GGCQAGPS,7316-304,Diagnosis,2265.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_70FKSKM9,PT_GH6HM5QF,7316-3202,Diagnosis,526.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_DQ53BKED,PT_GHFG41Q2,7316-8429,Diagnosis,4329.0,Gross/Near total resection,MBL,G3,1,ecDNA,True,True,,False,1,True
+BS_5VD3BNNV,PT_GK4GVW7A,7316-9037,Diagnosis,3790.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_P99S85CY,PT_GR8P8NY5,7316-178,Diagnosis,1235.0,Gross/Near total resection,MBL,SHH,1,ecDNA,False,False,,False,2,True
+BS_CKX0R5FN,PT_GR8P8NY5,7316-178,Diagnosis,1235.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,2,True
+BS_GV24KB8P,PT_GWD2Z5AM,7316-4912,Diagnosis,3336.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_1KMVTHES,PT_GY0MCXR8,7316-683,Diagnosis,2428.0,Partial resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_E1GFZBG3,PT_H0PXZWJ6,7316-7930,Diagnosis,479.0,Gross/Near total resection,MBL,G3,0,chromosomal,True,True,,False,1,True
+BS_PS00F8DA,PT_H0Y8DJA8,7316-7742,Diagnosis,6741.0,Gross/Near total resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_9D39MFHT,PT_H6E09982,7316-5,Diagnosis,2857.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_XH4QH13B,PT_H9QTP1JF,7316-3334,Recurrence,2841.0,Gross/Near total resection,MBL,SHH,1,ecDNA,False,False,,False,1,True
+BS_TFYBVE0A,PT_H9QTP1JF,7316-4162,Progressive,3037.0,Gross/Near total resection,MBL,SHH,1,ecDNA,True,True,,False,1,True
+BS_DYMSB5M3,PT_HB3CXEX6,7316-6794,Diagnosis,5025.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_VKH9KYDB,PT_HEGTYPQJ,7316-2562,Diagnosis,4850.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_D86YY06H,PT_HFPCMNKX,7316-6986,Diagnosis,1441.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_8YQGSMDK,PT_HM2GMT2H,7316-6,Diagnosis,604.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_1A406WSZ,PT_HRHWFPW7,7316-5238,Diagnosis,4759.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_AG0BZN6F,PT_HT4HJXY6,7316-2961,Diagnosis,4595.0,Gross/Near total resection,MBL,NOS,0,no amplification,True,False,,False,0,True
+BS_ZM9SHRR0,PT_J6CREPMB,7316-6525,Diagnosis,358.0,Partial resection,MBL,NOS,0,no amplification,False,False,,False,0,True
+BS_FVX5BSXD,PT_J6CREPMB,7316-6528,Diagnosis,367.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_ASXY97FK,PT_JEA0AEMZ,7316-2169,Diagnosis,2327.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_DWSKVGZ9,PT_JGTXEKNV,7316-9742,Diagnosis,5797.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_61ARW0V1,PT_K2FGJ1X7,7316-3726,Diagnosis,3061.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_G3B24JW8,PT_K6S2YJ8Y,7316-5883,Diagnosis,1789.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_50Y94QQR,PT_K71TQSF4,7316-8046,Recurrence,4318.0,N/A,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_HKCEZ21S,PT_K71TQSF4,7316-8046,Recurrence,4318.0,N/A,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_J48PMH5C,PT_K71TQSF4,7316-8046,Recurrence,4318.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_W3R2DQ86,PT_K94ZVZMX,7316-521,Diagnosis,4526.0,Gross/Near total resection,MBL,WNT,0,chromosomal,True,True,,False,1,True
+BS_CGQXVQH1,PT_KE0A6FHD,7316-7806,Diagnosis,6135.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_PVYMDM18,PT_KN25EYMG,7316-2309,Diagnosis,1750.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_GY8AVNHY,PT_KNJDVV4K,7316-4681,Diagnosis,3715.0,Biopsy only,MBL,SHH,2,ecDNA,True,True,,False,2,True
+BS_5BMNK8SY,PT_M0AP3Z15,7316-14,Diagnosis,5027.0,Biopsy only,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_RENPFFNK,PT_M0AP3Z15,7316-14,Diagnosis,5027.0,Biopsy only,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_B1YQHE16,PT_M26VF62B,7316-3124,Diagnosis,733.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_7TMTHQ5X,PT_M39RC0Y1,7316-4523,Diagnosis,251.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_JDDMWG64,PT_M91MGM4K,7316-8938,Diagnosis,1124.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_BP1EZNGF,PT_MCC2RZ5H,7316-6823,Diagnosis,4945.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_SXXD403S,PT_MKZ7ESSF,7316-7753,Diagnosis,2334.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_5R7SC2GW,PT_MQWJ7FHV,7316-4296,Diagnosis,6034.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_1P4J21PN,PT_MR5ZNP8K,7316-5526,Diagnosis,1334.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_40FX713C,PT_MSBPMJ56,7316-306,Diagnosis,3408.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_6P8GWSCZ,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_95ERKNCZ,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_9VB2SEYP,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_ATN1ZVEX,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_CRR6RTMG,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_HT74FBJ2,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_RG9W7TH4,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_Z7ADGXGV,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_GKQQKS8C,PT_N1HWK3YS,7316-2603,Diagnosis,2988.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_NFT9VHMJ,PT_N56EYD4Z,7316-3857,Diagnosis,3724.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_DGG7YE8R,PT_NCDHZ8H8,7316-2780,Diagnosis,1514.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_FT95T4YP,PT_NDVJE438,7316-2811,Diagnosis,2820.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_W12RTC66,PT_NF6R6YHR,7316-7064,Diagnosis,5980.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_PYVPKH11,PT_NTEKMKTX,7316-1650,Diagnosis,167.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_RQS2C7G5,PT_NTG1EJGA,7316-3008,Diagnosis,2013.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_X7QJCVJB,PT_NV584F7Q,7316-3192,Diagnosis,2066.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_ZDWFTKTS,PT_NWC0P29C,7316-3942,Diagnosis,1458.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_4HRYS7JY,PT_NZ85YSJ1,7316-4188,Diagnosis,4322.0,Gross/Near total resection,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_Q7QH96SX,PT_NZ85YSJ1,7316-7194,Progressive,5072.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+BS_QGX93WPF,PT_P4ZEFY19,7316-937,Diagnosis,4601.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_185Q218S,PT_PABK01H0,7316-1669,Diagnosis,1076.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_FJRZJ4RS,PT_PHY9WJR1,7316-4283,Diagnosis,692.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_B5V3KSQY,PT_PTTBTPS6,7316-9028,Recurrence,4230.0,Partial resection,MBL,SHH,1,ecDNA,True,True,,False,1,True
+BS_47X3VAM0,PT_PX4E85V1,7316-1083,Diagnosis,1680.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_8VKM8PYT,PT_PZRWEBK5,7316-1988,Diagnosis,2272.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_NK9XQ95W,PT_Q0N3AG4D,7316-9804,Diagnosis,543.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_85E6SZKP,PT_Q4GD8TFQ,7316-4221,Diagnosis,3260.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_XGMXJKFX,PT_Q90R6M3E,7316-897,Diagnosis,3026.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_Y5DA59M3,PT_QEP13FH4,7316-3025,Diagnosis,2696.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_ESEAV1TN,PT_QF2ZH1V5,7316-680,Diagnosis,292.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_A4KYP5H0,PT_QW5VW2PY,7316-313,Diagnosis,3655.0,Gross/Near total resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_PCMTT30B,PT_QYEF3JAT,7316-1460,Diagnosis,4389.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_AFPZ71DG,PT_R0H8JTQR,7316-4265,Diagnosis,3389.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_17F90QBV,PT_R604JG6B,7316-8817,Progressive,4079.0,N/A,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_816DEBY8,PT_R604JG6B,7316-8817,Progressive,4079.0,N/A,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_H91ST595,PT_R604JG6B,7316-8817,Progressive,4079.0,N/A,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_M1KBKB5M,PT_R604JG6B,7316-8817,Progressive,4079.0,N/A,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_YK0W9RM3,PT_R604JG6B,7316-8817,Progressive,4079.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_G4EX0H98,PT_R63RHJWX,7316-739,Diagnosis,4058.0,Gross/Near total resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_V5M03252,PT_RA6ZKYKA,7316-4526,Diagnosis,4469.0,Partial resection,MBL,NOS,0,no amplification,True,True,,False,0,True
+BS_N4B3WB8W,PT_RFB07MZS,7316-2107,Diagnosis,1385.0,Partial resection,MBL,G3,1,ecDNA,True,True,,False,1,True
+BS_9CMJ3QF6,PT_RFGZ2JGP,7316-135,Diagnosis,4240.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_KRYYDC2X,PT_RH59ET3M,7316-1655,Diagnosis,3336.0,Gross/Near total resection,MBL,G4,0,chromosomal,True,True,,False,1,True
+BS_MEPW36WF,PT_RJ98S3KZ,7316-556,Diagnosis,4452.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_R06ABMXP,PT_RM8V31DA,7316-5539,Diagnosis,3386.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,2,True
+BS_39Q80NT3,PT_RQ21EBK9,7316-367,Diagnosis,3651.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_1S2BHJ8K,PT_S4A0R1PM,7316-2699,Diagnosis,7628.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_WD3TDZBH,PT_SBSXK3XB,7316-8430,Diagnosis,9255.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_WP9J88EB,PT_SZJ7WZZW,7316-467,Diagnosis,5344.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_VR2E4K25,PT_T03AT4BJ,7316-2708,Diagnosis,4428.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_6AAJ8JBD,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_7SVNJTTG,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_9WNRPT1P,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_AYYWDHWJ,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_B3JHHP3X,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_KQZY3ZRV,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_QYHHN0W2,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+BS_W2EFWR50,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_7JNJ7QSX,PT_T1GR6607,7316-5532,Diagnosis,1326.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_6G19QBAY,PT_T3JEF4ZH,7316-3409,Diagnosis,1729.0,Gross/Near total resection,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_C7W7QDPX,PT_T3JEF4ZH,7316-3409,Diagnosis,1729.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_T9T3R2J0,PT_T3REPTTC,7316-3488,Diagnosis,754.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_3J4T2YYW,PT_T93J9EGZ,7316-2196,Diagnosis,294.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,1,True
+BS_06GEF6DB,PT_TKWTTRQ7,7316-2971,Diagnosis,5075.0,Gross/Near total resection,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_2RX2NF1Q,PT_TKWTTRQ7,7316-407,Progressive,7398.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_W50HSGZQ,PT_TTZFTYB5,7316-6806,Diagnosis,3918.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_S34SCYW4,PT_TVK2KY36,7316-2626,Diagnosis,3630.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_R8820GP1,PT_V0C2E99Z,7316-6991,Diagnosis,2514.0,Gross/Near total resection,MBL,SHH,1,ecDNA,True,True,,False,1,True
+BS_ZMV0AF4H,PT_V4MF99XB,7316-5294,Diagnosis,4535.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_H1K33JVK,PT_V8714N9H,7316-2322,Diagnosis,761.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_V6HKXX1Z,PT_V9WP047R,7316-221,Diagnosis,2212.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_8BD8WD38,PT_VH6S71AC,7316-735,Diagnosis,2590.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_7M6F9GQD,PT_VJZN69T9,7316-3510,Diagnosis,880.0,Biopsy only,MBL,G3,0,no amplification,False,False,,False,0,True
+BS_YZFQG0FH,PT_VJZN69T9,7316-3669,Progressive,1008.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_DPRBAXTR,PT_VW5Y6N97,7316-5515,Diagnosis,5317.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,2,True
+BS_ZV21J6YW,PT_VY45XTT7,7316-1801,Diagnosis,4284.0,Partial resection,MBL,G4,1,ecDNA,True,True,,False,1,True
+BS_P3NDA9Z7,PT_W4M7YD0J,7316-7598,Diagnosis,4159.0,Gross/Near total resection,MBL,SHH,0,chromosomal,True,True,,False,1,True
+BS_PYC7BDDF,PT_W6D0547F,7316-3681,Diagnosis,2909.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_MG2JY5S8,PT_W9ZYNS8Y,7316-8109,Diagnosis,1636.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_X2VRDBVG,PT_WF4Q4SF2,7316-8860,Diagnosis,6703.0,Gross/Near total resection,MBL,SHH,4,ecDNA,True,True,,False,4,True
+BS_Z4RS1691,PT_WH5PD8ZK,7316-6808,Diagnosis,3163.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_RX30DWW5,PT_WNS0AZQT,7316-8451,Diagnosis,3855.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_DVQYQSVW,PT_WWZ2Q14R,7316-3138,Diagnosis,306.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_XNTQBZAJ,PT_X1XVE1XX,7316-3511,Diagnosis,4917.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_T45AJSTV,PT_X4TT75N8,7316-3659,Diagnosis,2058.0,Partial resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_2J4FG4HV,PT_XA98HG1C,7316-931,Diagnosis,3332.0,Gross/Near total resection,MBL,SHH,2,ecDNA,False,False,,False,3,True
+BS_W37QBA12,PT_XA98HG1C,7316-931,Diagnosis,3332.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,3,True
+BS_5JC116NM,PT_XA98HG1C,7316-3023,Progressive,4021.0,Partial resection,MBL,SHH,1,ecDNA,False,False,,False,1,True
+BS_VBADSQPW,PT_XWFW59VV,7316-9249,Diagnosis,4099.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+BS_0J5GC803,PT_XX2VW3D9,7316-96,Diagnosis,2038.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_10V9SAG8,PT_YFS3AWC0,7316-153,Diagnosis,1575.0,Partial resection,MBL,G3,1,ecDNA,True,True,,False,1,True
+BS_JSNJZERZ,PT_YV2S3ES7,7316-182,Diagnosis,13333.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True
+BS_T5HPW4Z0,PT_ZG4J0EK0,7316-3774,Diagnosis,2050.0,Partial resection,MBL,G4,0,no amplification,False,False,,False,0,True
+BS_G14MSJYQ,PT_ZG4J0EK0,7316-6664,Recurrence,2860.0,Gross/Near total resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_7F07M7JG,PT_ZGWYMRV8,7316-378,Diagnosis,1171.0,Partial resection,MBL,G3,0,no amplification,True,True,,False,0,True
+BS_4BMVETAN,PT_ZJVVRMHQ,7316-4940,Diagnosis,1997.0,Gross/Near total resection,MBL,G4,0,no amplification,True,True,,False,0,True
+BS_397V7CXJ,PT_ZM9F20SY,7316-6124,Diagnosis,5938.0,Gross/Near total resection,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB001_D,SJ008001,,Diagnosis,2370.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB003_D,SJ008003,,Diagnosis,2546.0,N/A,MBL,SHH,0,chromosomal,True,True,,False,1,True
+SJMB004_D,SJ008004,,Diagnosis,3189.0,N/A,MBL,SHH,2,ecDNA,True,True,,False,3,True
+SJMB006_D,SJ008006,,Diagnosis,1205.0,N/A,MBL,G3,0,no amplification,True,True,,False,0,True
+SJMB008_D,SJ008008,,Diagnosis,4956.0,N/A,MBL,G3,1,ecDNA,True,True,,False,1,True
+SJMB009_D,SJ008009,,Diagnosis,3397.0,N/A,MBL,G4,0,no amplification,False,False,,False,0,True
+SJMB009_E,SJ008009,,Diagnosis,3397.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB010_D,SJ008010,,Diagnosis,2454.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB011_D,SJ008011,,Diagnosis,3853.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB012_D,SJ008012,,Diagnosis,3097.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB013_D,SJ008013,,Diagnosis,1855.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB014_D,SJ008014,,Diagnosis,3346.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB015_D,SJ008015,,Diagnosis,2929.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB016_D,SJ008016,,Diagnosis,2845.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB017_D,SJ008017,,Diagnosis,3970.0,N/A,MBL,G3,0,no amplification,True,True,,False,0,True
+SJMB018_D,SJ008018,,Diagnosis,3043.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB019_D,SJ008019,,Diagnosis,3178.0,N/A,MBL,G4,1,ecDNA,True,True,,False,1,True
+SJMB020_D,SJ008020,,Diagnosis,3196.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB022_D,SJ008022,,Diagnosis,,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB023_D,SJ008023,,Diagnosis,1965.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB024_D,SJ008024,,Diagnosis,2473.0,N/A,MBL,G4,0,chromosomal,True,True,,False,2,True
+SJMB025_D,SJ008025,,Diagnosis,4704.0,N/A,MBL,G3,0,no amplification,True,True,,False,0,True
+SJMB026_D,SJ008026,,Diagnosis,1589.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB027_D,SJ008027,,Diagnosis,3598.0,N/A,MBL,G4,1,ecDNA,True,True,,False,1,True
+SJMB029_D,SJ008029,,Diagnosis,3795.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030_D,SJ008030,,Diagnosis,3123.0,N/A,MBL,G3,0,no amplification,True,True,,False,0,True
+SJMB031_D,SJ008031,,Diagnosis,2531.0,N/A,MBL,G3,0,no amplification,True,True,,False,0,True
+SJMB032_D,SJ008032,,Diagnosis,4712.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB033_D,SJ008033,,Diagnosis,6096.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB034_D,SJ008034,,Diagnosis,3959.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB035_D,SJ008035,,Diagnosis,2290.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB036_D,SJ008036,,Diagnosis,2305.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB037_D,SJ008037,,Diagnosis,2396.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB038_D,SJ008038,,Diagnosis,3178.0,N/A,MBL,G4,1,ecDNA,True,True,,False,1,True
+SJMB039_D,SJ008039,,Diagnosis,2991.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB040_D,SJ008040,,Diagnosis,2973.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB041_D,SJ008041,,Diagnosis,2721.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB067_D,SJ008067,,Diagnosis,,N/A,MBL,SHH,0,chromosomal,True,True,,False,1,True
+SJMB030020_D1,SJ030020,,Diagnosis,,N/A,MBL,NOS,5,ecDNA,True,True,,False,4,True
+SJMB030021_D1,SJ030021,,Diagnosis,,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030055_D1,SJ030055,,Diagnosis,2801.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030056_D1,SJ030056,,Diagnosis,4120.0,N/A,MBL,NOS,1,ecDNA,True,True,,False,1,True
+SJMB030087_D1,SJ030087,,Recurrence,457.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB030089_D1,SJ030089,,Diagnosis,2272.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030092_D1,SJ030092,,Diagnosis,650.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB030110_D1,SJ030110,,Diagnosis,1293.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030114_D2,SJ030114,,Diagnosis,789.0,N/A,MBL,NOS,0,no amplification,False,False,,False,0,True
+SJMB030114_D1,SJ030114,,Diagnosis,789.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030139_D1,SJ030139,,Diagnosis,6512.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030181_D1,SJ030181,,Diagnosis,3426.0,N/A,MBL,NOS,1,ecDNA,True,True,,False,1,True
+SJMB030187_D1,SJ030187,,Diagnosis,935.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030239_D1,SJ030239,,Diagnosis,1896.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030251_D1,SJ030251,,Diagnosis,5369.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030296_D1,SJ030296,,Diagnosis,2783.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,1,True
+SJMB030312_D1,SJ030312,,Diagnosis,2513.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,1,True
+SJMB030315_D1,SJ030315,,Diagnosis,1640.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030333_D1,SJ030333,,Diagnosis,4796.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030352_D1,SJ030352,,Diagnosis,4076.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030357_D1,SJ030357,,Diagnosis,4803.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030364_D1,SJ030364,,Diagnosis,4924.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB030453_D1,SJ030453,,Diagnosis,3426.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB030498_D1,SJ030498,,Diagnosis,3536.0,N/A,MBL,AMBL,0,no amplification,True,True,,False,0,True
+SJMB030530_D1,SJ030530,,Diagnosis,1454.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030557_D1,SJ030557,,Diagnosis,1476.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB030582_D1,SJ030582,,Diagnosis,3295.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030608_D1,SJ030608,,Diagnosis,2984.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030610_D1,SJ030610,,Diagnosis,2663.0,N/A,MBL,AMBL,1,ecDNA,True,True,,False,3,True
+SJMB030620_D1,SJ030620,,Diagnosis,6414.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB030744_D1,SJ030744,,Diagnosis,2754.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030748_D1,SJ030748,,Diagnosis,6202.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB030757_D1,SJ030757,,Diagnosis,2308.0,N/A,MBL,AMBL,0,chromosomal,True,True,,False,4,True
+SJMB030785_D1,SJ030785,,Diagnosis,3024.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030790_D1,SJ030790,,Diagnosis,1969.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB030910_D1,SJ030910,,Diagnosis,1410.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+SJMB030910_D2,SJ030910,,Diagnosis,1410.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,6,True
+SJMB030915_D2,SJ030915,,Diagnosis,2327.0,N/A,MBL,AMBL,1,ecDNA,True,True,,False,1,True
+SJMB031016_D1,SJ031016,,Diagnosis,782.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB031041_D2,SJ031041,,Diagnosis,3945.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB031110_D1,SJ031110,,Diagnosis,5512.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB031227_D1,SJ031227,,Diagnosis,1885.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB031318_D1,SJ031318,,Diagnosis,4916.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB031374_D1,SJ031374,,Diagnosis,5924.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB031418_D1,SJ031418,,Diagnosis,573.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True
+SJMB031418_D2,SJ031418,,Diagnosis,573.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,1,True
+SJMB031439_D1,SJ031439,,Diagnosis,3422.0,N/A,MBL,SHH,2,ecDNA,True,True,,False,3,True
+SJMB031453_D1,SJ031453,,Diagnosis,877.0,N/A,MBL,SHH,0,no amplification,True,True,,False,1,True
+SJMB031475_D1,SJ031475,,Diagnosis,3678.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB031476_D2,SJ031476,,Diagnosis,369.0,N/A,MBL,NOS,0,no amplification,False,False,,False,1,True
+SJMB031476_D3,SJ031476,,Diagnosis,369.0,N/A,MBL,SHH,0,chromosomal,True,True,,False,1,True
+SJMB031564_D1,SJ031564,,Diagnosis,3704.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB031645_D1,SJ031645,,Diagnosis,2487.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB031653_D1,SJ031653,,Diagnosis,2400.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB031757_D1,SJ031757,,Diagnosis,5895.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB031813_D1,SJ031813,,Diagnosis,3127.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,2,True
+SJMB031835_D1,SJ031835,,Diagnosis,1918.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB031853_D1,SJ031853,,Diagnosis,4894.0,N/A,MBL,NOS,2,ecDNA,True,True,,False,2,True
+SJMB031857_D1,SJ031857,,Diagnosis,4040.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB031972_D1,SJ031972,,Diagnosis,5037.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB032002_D1,SJ032002,,Diagnosis,1414.0,N/A,MBL,NOS,1,ecDNA,True,True,,False,1,True
+SJMB032126_D1,SJ032126,,Diagnosis,6911.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJBT032180_D1,SJ032180,,Diagnosis,1870.0,N/A,MBL,NOS,1,ecDNA,True,True,,False,1,True
+SJMB032185_D1,SJ032185,,Diagnosis,4770.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB032195_D1,SJ032195,,Diagnosis,3605.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB032199_D1,SJ032199,,Diagnosis,3547.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB032224_D1,SJ032224,,Diagnosis,2506.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJNBL032268_D1,SJ032268,,Diagnosis,2020.0,N/A,MBL,AMBL,0,chromosomal,True,True,,False,2,True
+SJMB032351_D2,SJ032351,,Diagnosis,3422.0,N/A,MBL,G3,1,ecDNA,True,True,,False,2,True
+SJMB032410_D1,SJ032410,,Diagnosis,11659.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB032425_D1,SJ032425,,Diagnosis,1001.0,N/A,MBL,AMBL,1,ecDNA,True,True,,False,1,True
+SJMB032435_D1,SJ032435,,Diagnosis,7265.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB032478_D1,SJ032478,,Diagnosis,5026.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB032506_D1,SJ032506,,Diagnosis,3547.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB032566_D1,SJ032566,,Diagnosis,6290.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+SJMB032578_D1,SJ032578,,Diagnosis,2736.0,N/A,MBL,NOS,0,no amplification,True,True,,False,1,True
+SJMB032603_D1,SJ032603,,Diagnosis,4339.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,2,True
+SJMB032729_D1,SJ032729,,Diagnosis,4723.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True
+SJMB032860_D1,SJ032860,,Diagnosis,3159.0,N/A,MBL,WNT,0,no amplification,True,True,,False,0,True
+SJMB032889_D1,SJ032889,,Diagnosis,7678.0,N/A,MBL,G4,0,no amplification,True,True,,False,0,True
+SJMB033254_D1,SJ033254,,Diagnosis,720.0,N/A,MBL,NOS,0,no amplification,True,True,,False,0,True
+ICGC_MB1,ICGC_MB1,,N/A,2190.0,N/A,MBL,SHH,1,ecDNA,,,,False,2,True
+ICGC_MB101,ICGC_MB101,,N/A,14235.0,N/A,MBL,SHH,1,ecDNA,,,,False,2,True
+ICGC_MB108,ICGC_MB108,,N/A,3650.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+ICGC_MB110,ICGC_MB110,,N/A,3650.0,N/A,MBL,G4,2,ecDNA,,,,False,2,True
+ICGC_MB111,ICGC_MB111,,N/A,1460.0,N/A,MBL,G3,0,chromosomal,,,,False,1,True
+ICGC_MB114,ICGC_MB114,,N/A,2920.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB115,ICGC_MB115,,N/A,5840.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB119,ICGC_MB119,,N/A,1825.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+ICGC_MB121,ICGC_MB121,,N/A,2920.0,N/A,MBL,G4,0,chromosomal,,,,False,5,True
+ICGC_MB125,ICGC_MB125,,N/A,6935.0,N/A,MBL,SHH,0,chromosomal,,,,False,6,True
+ICGC_MB126,ICGC_MB126,,N/A,11315.0,N/A,MBL,SHH,0,no amplification,,,,False,5,True
+ICGC_MB129,ICGC_MB129,,N/A,5840.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+ICGC_MB131,ICGC_MB131,,N/A,1825.0,N/A,MBL,G3,1,ecDNA,,,,False,2,True
+ICGC_MB132,ICGC_MB132,,N/A,1825.0,N/A,MBL,SHH,0,no amplification,,,,False,0,True
+ICGC_MB134,ICGC_MB134,,N/A,1095.0,N/A,MBL,G3,0,no amplification,,,,False,0,False
+ICGC_MB139,ICGC_MB139,,N/A,1095.0,N/A,MBL,G3,0,no amplification,,,,False,0,False
+ICGC_MB143,ICGC_MB143,,N/A,8030.0,N/A,MBL,SHH,0,chromosomal,,,,False,2,True
+ICGC_MB144,ICGC_MB144,,N/A,3650.0,N/A,MBL,G3,0,chromosomal,,,,False,1,True
+ICGC_MB145,ICGC_MB145,,N/A,4745.0,N/A,MBL,SHH,4,ecDNA,,,,False,7,True
+ICGC_MB146,ICGC_MB146,,N/A,2555.0,N/A,MBL,G3,0,no amplification,,,,False,0,True
+ICGC_MB147,ICGC_MB147,,N/A,,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB15,ICGC_MB15,,N/A,6205.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+ICGC_MB151,ICGC_MB151,,N/A,1460.0,N/A,MBL,G3,0,chromosomal,,,,False,4,True
+ICGC_MB152,ICGC_MB152,,N/A,3650.0,N/A,MBL,G3,0,no amplification,,,,False,1,True
+ICGC_MB153,ICGC_MB153,,N/A,1095.0,N/A,MBL,G3,0,no amplification,,,,False,1,True
+ICGC_MB154,ICGC_MB154,,N/A,1460.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+ICGC_MB157,ICGC_MB157,,N/A,,N/A,MBL,G4,0,no amplification,,,,False,0,True
+ICGC_MB16,ICGC_MB16,,N/A,1095.0,N/A,MBL,G3,0,chromosomal,,,,False,3,True
+ICGC_MB160,ICGC_MB160,,N/A,,N/A,MBL,G4,0,chromosomal,,,,False,3,True
+ICGC_MB161,ICGC_MB161,,N/A,,N/A,MBL,G3,0,chromosomal,,,,False,2,True
+ICGC_MB163,ICGC_MB163,,N/A,,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB165,ICGC_MB165,,N/A,1825.0,N/A,MBL,G3,1,ecDNA,,,,False,2,True
+ICGC_MB168,ICGC_MB168,,N/A,3285.0,N/A,MBL,G3,1,ecDNA,,,,False,2,True
+ICGC_MB17,ICGC_MB17,,N/A,5475.0,N/A,MBL,G3,1,ecDNA,,,,False,2,True
+ICGC_MB171,ICGC_MB171,,N/A,4015.0,N/A,MBL,SHH,0,chromosomal,,,,False,3,True
+ICGC_MB175,ICGC_MB175,,N/A,4015.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB178,ICGC_MB178,,N/A,9855.0,N/A,MBL,SHH,0,no amplification,,,,False,0,True
+ICGC_MB180,ICGC_MB180,,N/A,9490.0,N/A,MBL,SHH,0,no amplification,,,,False,1,True
+ICGC_MB181,ICGC_MB181,,N/A,8030.0,N/A,MBL,SHH,0,chromosomal,,,,False,1,True
+ICGC_MB183,ICGC_MB183,,N/A,1095.0,N/A,MBL,G4,1,ecDNA,,,,False,2,True
+ICGC_MB184,ICGC_MB184,,N/A,4380.0,N/A,MBL,G4,1,ecDNA,,,,False,3,True
+ICGC_MB185,ICGC_MB185,,N/A,1095.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB186,ICGC_MB186,,N/A,,N/A,MBL,N/A,0,chromosomal,,,,False,2,True
+ICGC_MB188,ICGC_MB188,,N/A,1095.0,N/A,MBL,G3,0,no amplification,,,,False,0,True
+ICGC_MB189,ICGC_MB189,,N/A,,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB19,ICGC_MB19,,N/A,4745.0,N/A,MBL,G4,0,chromosomal,,,,False,3,True
+ICGC_MB190,ICGC_MB190,,N/A,,N/A,MBL,G3,0,chromosomal,,,,False,4,True
+ICGC_MB198,ICGC_MB198,,N/A,2920.0,N/A,MBL,G3,0,chromosomal,,,,False,4,True
+ICGC_MB2,ICGC_MB2,,N/A,2555.0,N/A,MBL,G4,1,ecDNA,,,,False,1,True
+ICGC_MB20,ICGC_MB20,,N/A,3285.0,N/A,MBL,WNT,0,no amplification,,,,False,0,True
+ICGC_MB205,ICGC_MB205,,N/A,1825.0,N/A,MBL,G3,0,chromosomal,,,,False,1,True
+ICGC_MB21,ICGC_MB21,,N/A,1460.0,N/A,MBL,SHH,1,ecDNA,,,,False,4,True
+ICGC_MB211,ICGC_MB211,,N/A,,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB224,ICGC_MB224,,N/A,3285.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+ICGC_MB228,ICGC_MB228,,N/A,2920.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB23,ICGC_MB23,,N/A,3650.0,N/A,MBL,WNT,0,no amplification,,,,False,1,True
+ICGC_MB230,ICGC_MB230,,N/A,1460.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+ICGC_MB232,ICGC_MB232,,N/A,1095.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB233,ICGC_MB233,,N/A,3285.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+ICGC_MB235,ICGC_MB235,,N/A,730.0,N/A,MBL,G3,1,ecDNA,,,,False,3,True
+ICGC_MB236,ICGC_MB236,,N/A,6570.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB237,ICGC_MB237,,N/A,4015.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+ICGC_MB24,ICGC_MB24,,N/A,2555.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+ICGC_MB252,ICGC_MB252,,N/A,,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+ICGC_MB26,ICGC_MB26,,N/A,2920.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+ICGC_MB28,ICGC_MB28,,N/A,365.0,N/A,MBL,SHH,0,chromosomal,,,,False,1,True
+ICGC_MB3,ICGC_MB3,,N/A,5840.0,N/A,MBL,SHH,0,chromosomal,,,,False,1,True
+ICGC_MB31,ICGC_MB31,,N/A,5110.0,N/A,MBL,WNT,0,no amplification,,,,False,6,True
+ICGC_MB32,ICGC_MB32,,N/A,2920.0,N/A,MBL,G4,0,chromosomal,,,,False,4,True
+ICGC_MB34,ICGC_MB34,,N/A,4745.0,N/A,MBL,SHH,5,ecDNA,,,,False,11,True
+ICGC_MB35,ICGC_MB35,,N/A,1460.0,N/A,MBL,SHH,0,chromosomal,,,,False,4,True
+ICGC_MB38,ICGC_MB38,,N/A,2190.0,N/A,MBL,G4,0,no amplification,,,,False,2,True
+ICGC_MB39,ICGC_MB39,,N/A,1460.0,N/A,MBL,G3,0,chromosomal,,,,False,3,True
+ICGC_MB40,ICGC_MB40,,N/A,1095.0,N/A,MBL,G4,0,no amplification,,,,False,2,True
+ICGC_MB45,ICGC_MB45,,N/A,1095.0,N/A,MBL,G3,0,chromosomal,,,,False,3,True
+ICGC_MB46,ICGC_MB46,,N/A,2190.0,N/A,MBL,WNT,0,no amplification,,,,False,1,True
+ICGC_MB49,ICGC_MB49,,N/A,3650.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB5,ICGC_MB5,,N/A,2190.0,N/A,MBL,G3,0,chromosomal,,,,False,2,True
+ICGC_MB50,ICGC_MB50,,N/A,3650.0,N/A,MBL,G3,0,no amplification,,,,False,0,True
+ICGC_MB51,ICGC_MB51,,N/A,2555.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+ICGC_MB53,ICGC_MB53,,N/A,7300.0,N/A,MBL,SHH,0,no amplification,,,,False,0,True
+ICGC_MB56,ICGC_MB56,,N/A,15330.0,N/A,MBL,SHH,0,chromosomal,,,,False,2,True
+ICGC_MB57,ICGC_MB57,,N/A,8395.0,N/A,MBL,G4,0,chromosomal,,,,False,3,True
+ICGC_MB58,ICGC_MB58,,N/A,6935.0,N/A,MBL,G4,0,chromosomal,,,,False,4,True
+ICGC_MB59,ICGC_MB59,,N/A,11680.0,N/A,MBL,SHH,0,chromosomal,,,,False,2,True
+ICGC_MB6,ICGC_MB6,,N/A,5110.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB60,ICGC_MB60,,N/A,8395.0,N/A,MBL,SHH,0,chromosomal,,,,False,1,True
+ICGC_MB61,ICGC_MB61,,N/A,10220.0,N/A,MBL,SHH,0,no amplification,,,,False,1,True
+ICGC_MB63,ICGC_MB63,,N/A,9855.0,N/A,MBL,SHH,0,chromosomal,,,,False,1,True
+ICGC_MB64,ICGC_MB64,,N/A,6570.0,N/A,MBL,G4,0,chromosomal,,,,False,3,True
+ICGC_MB65,ICGC_MB65,,N/A,6570.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB66,ICGC_MB66,,N/A,9125.0,N/A,MBL,SHH,0,chromosomal,,,,False,3,True
+ICGC_MB67,ICGC_MB67,,N/A,8030.0,N/A,MBL,SHH,0,chromosomal,,,,False,3,True
+ICGC_MB69,ICGC_MB69,,N/A,10585.0,N/A,MBL,N/A,0,chromosomal,,,,False,1,True
+ICGC_MB7,ICGC_MB7,,N/A,3285.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+ICGC_MB74,ICGC_MB74,,N/A,8395.0,N/A,MBL,SHH,0,no amplification,,,,False,1,True
+ICGC_MB75,ICGC_MB75,,N/A,11315.0,N/A,MBL,SHH,0,chromosomal,,,,False,9,True
+ICGC_MB76,ICGC_MB76,,N/A,10585.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+ICGC_MB77,ICGC_MB77,,N/A,10585.0,N/A,MBL,SHH,0,chromosomal,,,,False,10,True
+ICGC_MB78,ICGC_MB78,,N/A,13870.0,N/A,MBL,SHH,0,no amplification,,,,False,0,True
+ICGC_MB79,ICGC_MB79,,N/A,11680.0,N/A,MBL,SHH,0,no amplification,,,,False,0,True
+ICGC_MB8,ICGC_MB8,,N/A,4015.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+ICGC_MB81,ICGC_MB81,,N/A,17885.0,N/A,MBL,SHH,1,ecDNA,,,,False,2,True
+ICGC_MB82,ICGC_MB82,,N/A,11315.0,N/A,MBL,SHH,0,chromosomal,,,,False,2,True
+ICGC_MB83,ICGC_MB83,,N/A,5110.0,N/A,MBL,G4,0,chromosomal,,,,False,11,True
+ICGC_MB84,ICGC_MB84,,N/A,4380.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+ICGC_MB85,ICGC_MB85,,N/A,1825.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+ICGC_MB86,ICGC_MB86,,N/A,1460.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+ICGC_MB89,ICGC_MB89,,N/A,1460.0,N/A,MBL,G3,1,ecDNA,,,,False,3,True
+ICGC_MB9,ICGC_MB9,,N/A,2190.0,N/A,MBL,G3,1,ecDNA,,,,False,3,True
+ICGC_MB90,ICGC_MB90,,N/A,730.0,N/A,MBL,G3,0,chromosomal,,,,False,1,True
+ICGC_MB92,ICGC_MB92,,N/A,3650.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+ICGC_MB94,ICGC_MB94,,N/A,5475.0,N/A,MBL,G4,1,ecDNA,,,,False,7,True
+ICGC_MB96,ICGC_MB96,,N/A,1095.0,N/A,MBL,G3,0,no amplification,,,,False,1,True
+ICGC_MB98,ICGC_MB98,,N/A,2920.0,N/A,MBL,G3,0,no amplification,,,,False,0,False
+MBRep_T27,MBRep_T27,,N/A,5840.0,N/A,MBL,G3,2,ecDNA,,,,False,4,True
+MBRep_T36,MBRep_T36,,N/A,2920.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+MBRep_T40,MBRep_T40,,N/A,3285.0,N/A,MBL,G4,1,chromosomal,,,,False,3,True
+MBRep_T41,MBRep_T41,,N/A,3285.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+MBRep_T54,MBRep_T54,,N/A,1095.0,N/A,MBL,G3,1,chromosomal,,,,False,3,True
+MBRep_T67,MBRep_T67,,N/A,1460.0,N/A,MBL,G3,0,no amplification,,,,False,0,True
+MBRep_T70,MBRep_T70,,N/A,3285.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+MBRep_T71,MBRep_T71,,N/A,3285.0,N/A,MBL,G3,0,chromosomal,,,,False,2,True
+MBRep_T72,MBRep_T72,,N/A,4015.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+MBRep_T79,MBRep_T79,,N/A,365.0,N/A,MBL,G3,1,ecDNA,,,,False,4,True
+MDT-AP-0009,MDT-AP-0009,,N/A,1095.0,N/A,MBL,G4,0,chromosomal,,,,False,17,True
+MDT-AP-0074,MDT-AP-0074,,N/A,1095.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+MDT-AP-0118,MDT-AP-0118,,N/A,2920.0,N/A,MBL,SHH,0,no amplification,,,,False,0,True
+MDT-AP-0207,MDT-AP-0207,,N/A,1460.0,N/A,MBL,G3,0,chromosomal,,,,False,1,True
+MDT-AP-0209,MDT-AP-0209,,N/A,1460.0,N/A,MBL,SHH,0,chromosomal,,,,False,1,True
+MDT-AP-0220,MDT-AP-0220,,N/A,1825.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+MDT-AP-0222,MDT-AP-0222,,N/A,1825.0,N/A,MBL,G4,0,chromosomal,,,,False,4,True
+MDT-AP-0223,MDT-AP-0223,,N/A,3650.0,N/A,MBL,G4,1,ecDNA,,,,False,2,True
+MDT-AP-0432,MDT-AP-0432,,N/A,3285.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+MDT-AP-0435,MDT-AP-0435,,N/A,1460.0,N/A,MBL,SHH,1,ecDNA,,,,False,3,True
+MDT-AP-0437,MDT-AP-0437,,N/A,1095.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+MDT-AP-0530,MDT-AP-0530,,N/A,3285.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+MDT-AP-0580,MDT-AP-0580,,N/A,2555.0,N/A,MBL,G3,0,chromosomal,,,,False,1,True
+MDT-AP-0704,MDT-AP-0704,,N/A,365.0,N/A,MBL,SHH,0,no amplification,,,,False,1,True
+MDT-AP-0705,MDT-AP-0705,,N/A,15330.0,N/A,MBL,G4,0,no amplification,,,,False,0,False
+MDT-AP-0706,MDT-AP-0706,,N/A,16790.0,N/A,MBL,SHH,0,chromosomal,,,,False,2,True
+MDT-AP-0707,MDT-AP-0707,,N/A,12045.0,N/A,MBL,SHH,2,ecDNA,,,,False,3,True
+MDT-AP-0749,MDT-AP-0749,,N/A,1825.0,N/A,MBL,SHH,2,ecDNA,,,,False,3,True
+MDT-AP-1137,MDT-AP-1137,,N/A,730.0,N/A,MBL,SHH,0,no amplification,,,,False,3,True
+MDT-AP-1165,MDT-AP-1165,,N/A,2555.0,N/A,MBL,G4,2,ecDNA,,,,False,3,True
+MDT-AP-1166,MDT-AP-1166,,N/A,2190.0,N/A,MBL,G3,0,chromosomal,,,,False,11,True
+MDT-AP-1167,MDT-AP-1167,,N/A,3285.0,N/A,MBL,G3,0,chromosomal,,,,False,15,True
+MDT-AP-1168,MDT-AP-1168,,N/A,2920.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+MDT-AP-1200,MDT-AP-1200,,N/A,12410.0,N/A,MBL,SHH,0,no amplification,,,,False,4,True
+MDT-AP-1202,MDT-AP-1202,,N/A,9125.0,N/A,MBL,SHH,1,no amplification,,,,False,5,True
+MDT-AP-1206,MDT-AP-1206,,N/A,365.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+MDT-AP-1207,MDT-AP-1207,,N/A,1825.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+MDT-AP-1208,MDT-AP-1208,,N/A,1825.0,N/A,MBL,SHH,1,ecDNA,,,,False,6,True
+MDT-AP-1209,MDT-AP-1209,,N/A,2920.0,N/A,MBL,G4,1,ecDNA,,,,False,2,True
+MDT-AP-1210,MDT-AP-1210,,N/A,5475.0,N/A,MBL,SHH,0,chromosomal,,,,False,6,True
+MDT-AP-1211,MDT-AP-1211,,N/A,365.0,N/A,MBL,SHH,0,chromosomal,,,,False,2,True
+MDT-AP-1216,MDT-AP-1216,,N/A,4380.0,N/A,MBL,SHH,0,no amplification,,,,False,0,True
+MDT-AP-1217,MDT-AP-1217,,N/A,9125.0,N/A,MBL,SHH,0,no amplification,,,,False,8,True
+MDT-AP-1218,MDT-AP-1218,,N/A,6205.0,N/A,MBL,SHH,2,ecDNA,,,,False,2,True
+MDT-AP-1298,MDT-AP-1298,,N/A,730.0,N/A,MBL,G3,0,chromosomal,,,,False,2,True
+MDT-AP-1299,MDT-AP-1299,,N/A,4380.0,N/A,MBL,WNT,0,no amplification,,,,False,0,True
+MDT-AP-1323,MDT-AP-1323,,N/A,3285.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+MDT-AP-1348,MDT-AP-1348,,N/A,4015.0,N/A,MBL,SHH,1,ecDNA,,,,False,3,True
+MDT-AP-1362,MDT-AP-1362,,N/A,4015.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+MDT-AP-1364,MDT-AP-1364,,N/A,3650.0,N/A,MBL,G3,0,chromosomal,,,,False,3,True
+MDT-AP-1365,MDT-AP-1365,,N/A,4380.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+MDT-AP-1366,MDT-AP-1366,,N/A,1825.0,N/A,MBL,G4,0,chromosomal,,,,False,3,True
+MDT-AP-1367,MDT-AP-1367,,N/A,2920.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+MDT-AP-1368,MDT-AP-1368,,N/A,2920.0,N/A,MBL,WNT,0,chromosomal,,,,False,1,True
+MDT-AP-1369,MDT-AP-1369,,N/A,1095.0,N/A,MBL,G3,0,chromosomal,,,,False,2,True
+MDT-AP-1398,MDT-AP-1398,,N/A,7665.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+MDT-AP-1402,MDT-AP-1402,,N/A,365.0,N/A,MBL,G3,1,chromosomal,,,,False,8,True
+MDT-AP-1403,MDT-AP-1403,,N/A,2555.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+MDT-AP-1405,MDT-AP-1405,,N/A,2920.0,N/A,MBL,G4,0,no amplification,,,,False,4,True
+MDT-AP-2001,MDT-AP-2001,,N/A,,N/A,MBL,G3,1,ecDNA,,,,False,2,True
+MDT-AP-2004,MDT-AP-2004,,N/A,4380.0,N/A,MBL,G3,0,no amplification,,,,False,1,True
+MDT-AP-2006,MDT-AP-2006,,N/A,4015.0,N/A,MBL,SHH,0,no amplification,,,,False,0,True
+MDT-AP-2073,MDT-AP-2073,,N/A,,N/A,MBL,G3,0,chromosomal,,,,False,18,True
+MDT-AP-2075,MDT-AP-2075,,N/A,2555.0,N/A,MBL,G4,0,chromosomal,,,,False,9,True
+MDT-AP-2077,MDT-AP-2077,,N/A,1825.0,N/A,MBL,SHH,0,no amplification,,,,False,2,True
+MDT-AP-2110,MDT-AP-2110,,N/A,730.0,N/A,MBL,G3,0,chromosomal,,,,False,3,True
+MDT-AP-2111,MDT-AP-2111,,N/A,365.0,N/A,MBL,SHH,0,chromosomal,,,,False,1,True
+MDT-AP-2112,MDT-AP-2112,,N/A,730.0,N/A,MBL,SHH,1,chromosomal,,,,False,10,True
+MDT-AP-2115,MDT-AP-2115,,N/A,2920.0,N/A,MBL,G3,0,chromosomal,,,,False,3,True
+MDT-AP-2116,MDT-AP-2116,,N/A,3650.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+MDT-AP-2123,MDT-AP-2123,,N/A,3285.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+MDT-AP-2130,MDT-AP-2130,,N/A,3285.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+MDT-AP-2131,MDT-AP-2131,,N/A,730.0,N/A,MBL,SHH,0,chromosomal,,,,False,5,True
+MDT-AP-2148,MDT-AP-2148,,N/A,2920.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+MDT-AP-2149,MDT-AP-2149,,N/A,365.0,N/A,MBL,SHH,0,chromosomal,,,,False,13,True
+MDT-AP-2151,MDT-AP-2151,,N/A,4745.0,N/A,MBL,G4,0,chromosomal,,,,False,3,True
+MDT-AP-2169,MDT-AP-2169,,N/A,730.0,N/A,MBL,G3,0,no amplification,,,,False,1,True
+MDT-AP-2171,MDT-AP-2171,,N/A,2555.0,N/A,MBL,G4,0,chromosomal,,,,False,8,True
+MDT-AP-2173,MDT-AP-2173,,N/A,1460.0,N/A,MBL,G3,0,chromosomal,,,,False,3,True
+MDT-AP-2174,MDT-AP-2174,,N/A,2190.0,N/A,MBL,SHH,1,ecDNA,,,,False,2,True
+MDT-AP-2177,MDT-AP-2177,,N/A,1825.0,N/A,MBL,G3,0,no amplification,,,,False,0,True
+MDT-AP-2178,MDT-AP-2178,,N/A,5110.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+MDT-AP-2180,MDT-AP-2180,,N/A,730.0,N/A,MBL,G3,0,chromosomal,,,,False,3,True
+MDT-AP-2181,MDT-AP-2181,,N/A,3285.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+MDT-AP-2182,MDT-AP-2182,,N/A,6205.0,N/A,MBL,SHH,1,ecDNA,,,,False,12,True
+MDT-AP-2183,MDT-AP-2183,,N/A,5475.0,N/A,MBL,SHH,0,no amplification,,,,False,3,True
+MDT-AP-2184,MDT-AP-2184,,N/A,5840.0,N/A,MBL,SHH,0,no amplification,,,,False,0,True
+MDT-AP-2185,MDT-AP-2185,,N/A,1460.0,N/A,MBL,G3,0,chromosomal,,,,False,3,True
+MDT-AP-2254,MDT-AP-2254,,N/A,1460.0,N/A,MBL,G4,1,no amplification,,,,False,1,True
+MDT-AP-2304,MDT-AP-2304,,N/A,2555.0,N/A,MBL,G4,0,no amplification,,,,False,0,True
+MDT-AP-2307,MDT-AP-2307,,N/A,18250.0,N/A,MBL,SHH,0,chromosomal,,,,False,45,True
+MDT-AP-2405,MDT-AP-2405,,N/A,730.0,N/A,MBL,G3,1,no amplification,,,,False,6,True
+MDT-AP-2407,MDT-AP-2407,,N/A,2190.0,N/A,MBL,G4,1,chromosomal,,,,False,3,True
+MDT-AP-2452,MDT-AP-2452,,N/A,1460.0,N/A,MBL,G3,0,no amplification,,,,False,2,True
+MDT-AP-2510,MDT-AP-2510,,N/A,1825.0,N/A,MBL,G3,1,ecDNA,,,,False,3,True
+MDT-AP-2514,MDT-AP-2514,,N/A,3650.0,N/A,MBL,G4,0,chromosomal,,,,False,4,True
+MDT-AP-2532,MDT-AP-2532,,N/A,1825.0,N/A,MBL,G4,0,chromosomal,,,,False,2,True
+MDT-AP-2559,MDT-AP-2559,,N/A,730.0,N/A,MBL,G3,1,ecDNA,,,,False,2,True
+MDT-AP-2562,MDT-AP-2562,,N/A,2920.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+MDT-AP-2631,MDT-AP-2631,,N/A,1460.0,N/A,MBL,G3,1,chromosomal,,,,False,2,True
+MDT-AP-2673,MDT-AP-2673,,N/A,3650.0,N/A,MBL,G4,0,chromosomal,,,,False,26,True
+MDT-AP-2712,MDT-AP-2712,,N/A,730.0,N/A,MBL,SHH,0,no amplification,,,,False,0,True
+MDT-AP-2719,MDT-AP-2719,,N/A,4015.0,N/A,MBL,G4,0,chromosomal,,,,False,3,True
+MDT-AP-2738,MDT-AP-2738,,N/A,2920.0,N/A,MBL,SHH,5,ecDNA,,,,False,4,True
+MDT-AP-2745,MDT-AP-2745,,N/A,4015.0,N/A,MBL,G3,0,chromosomal,,,,False,4,True
+MDT-AP-2774,MDT-AP-2774,,N/A,0.0,N/A,MBL,SHH,0,chromosomal,,,,False,26,True
+MDT-AP-2814,MDT-AP-2814,,N/A,9855.0,N/A,MBL,G4,0,chromosomal,,,,False,1,True
+MDT-AP-2832,MDT-AP-2832,,N/A,1460.0,N/A,MBL,G3,0,chromosomal,,,,False,4,True
+MDT-AP-2849,MDT-AP-2849,,N/A,3650.0,N/A,MBL,G4,0,no amplification,,,,False,2,True
+MDT-AP-2859,MDT-AP-2859,,N/A,6205.0,N/A,MBL,G4,0,no amplification,,,,False,0,False
+MDT-AP-2878,MDT-AP-2878,,N/A,3285.0,N/A,MBL,G4,1,ecDNA,,,,False,3,True
+MDT-AP-2963,MDT-AP-2963,,N/A,1460.0,N/A,MBL,G3,0,chromosomal,,,,False,3,True
+MDT-AP-3017,MDT-AP-3017,,N/A,1825.0,N/A,MBL,G4,1,ecDNA,,,,False,6,True
+MDT-AP-3019,MDT-AP-3019,,N/A,4015.0,N/A,MBL,G4,0,chromosomal,,,,False,20,True
+MDT-AP-3020,MDT-AP-3020,,N/A,1460.0,N/A,MBL,G4,0,no amplification,,,,False,2,True
+MDT-AP-3021,MDT-AP-3021,,N/A,3650.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+MDT-AP-3156,MDT-AP-3156,,N/A,1095.0,N/A,MBL,G3,0,no amplification,,,,False,5,True
+MDT-AP-3399,MDT-AP-3399,,N/A,730.0,N/A,MBL,SHH,0,chromosomal,,,,False,1,True
+MDT-AP-3401,MDT-AP-3401,,N/A,2190.0,N/A,MBL,G4,0,no amplification,,,,False,1,True
+MDT-AP-3402,MDT-AP-3402,,N/A,1825.0,N/A,MBL,G3,0,chromosomal,,,,False,12,True
+MDT-AP-3417,MDT-AP-3417,,N/A,2920.0,N/A,MBL,G3,0,chromosomal,,,,False,2,True
+MDT-AP-3431,MDT-AP-3431,,N/A,1095.0,N/A,MBL,SHH,1,ecDNA,,,,False,3,True
+BS_50ANNQ18,PT_0WQFCZ6S,7316-6368,Diagnosis,1638.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_3VE9VCSN,PT_0WQFCZ6S,7316-6383,Recurrence,1934.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_EA7CWRV4,PT_1NBHNPE4,7316-3193,Diagnosis,376.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_QSP6ASQ3,PT_30EX0QAT,7316-6671,Diagnosis,348.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_83Z8AZS6,PT_30EX0QAT,7316-8735,Progressive,973.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_JDMM2XG4,PT_32J909WM,7316-2688,Diagnosis,860.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_859AV1DB,PT_3KM9W8S8,7316-1771,Diagnosis,190.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_2NQXY528,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_4BB136DY,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_EQQZ90JQ,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_MS8TBCWJ,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_P8FXRTZ2,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_QR84QJN4,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_RCC7ZEC0,PT_3KM9W8S8,7316-3045,Autopsy,713.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_FPB3A0K4,PT_3TYNHF3F,7316-7687,Diagnosis,507.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_JW4M16YF,PT_4NVTPQ65,7316-5274,Diagnosis,128.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_923BXNR2,PT_4NVTPQ65,7316-5495,Diagnosis,303.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_9KDA3HG6,PT_5CKDR2SF,7316-525,Diagnosis,394.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_E7J6CYVN,PT_650GZWJR,7316-7088,Progressive,256.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_E0S2Y0TS,PT_6N825561,7316-3920,Progressive,3289.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_0YWFFRYV,PT_6N825561,7316-4814,Progressive,3562.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_3V7ZNBTG,PT_6N825561,7316-4814,Progressive,3562.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_YTCYVVY9,PT_6N825561,7316-4814,Progressive,3562.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_8CZS2A3E,PT_6RRWZ8CK,7316-8929,Recurrence,677.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_A1EDXQTQ,PT_6TDVP80J,7316-7810,Diagnosis,233.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_2X02HA8W,PT_7BVC1F8N,7316-4117,Diagnosis,266.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_Y7CT08T2,PT_7MZRW1DH,7316-2582,Diagnosis,5688.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_1C4WCNQF,PT_7MZRW1DH,7316-2582,Diagnosis,5688.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_JHM10N71,PT_AW99VNWM,7316-9053,Diagnosis,637.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_QA67FK0X,PT_B2RBACZ0,7316-4032,Diagnosis,252.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_12ZB7R6A,PT_CW0BJE0Y,7316-41,Diagnosis,883.0,Biopsy only,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_K56ZXZME,PT_D46SNAQ7,7316-4108,Diagnosis,586.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_3RQVBAXB,PT_D4JJMH7V,7316-5153,Diagnosis,684.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_9YSTCMG0,PT_DA6JGBFJ,7316-4150,Progressive,983.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_XA2AZZNC,PT_DHTRBQA8,7316-5536,Diagnosis,404.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_KHZVZECY,PT_DKRVS07M,7316-8926,Diagnosis,368.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_NSWP72M6,PT_DVXE38EX,7316-3411,Diagnosis,996.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_Y386XSV3,PT_DVXE38EX,7316-5764,Recurrence,1315.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_P3R9QZKP,PT_DVXE38EX,7316-6454,Progressive,1475.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_ERRA7V0W,PT_DVXE38EX,7316-6915,Recurrence,1529.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_5WK2KXYW,PT_E6FTW238,7316-3890,Diagnosis,557.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_1G970A7S,PT_EE2E1AXD,7316-4206,Diagnosis,819.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_NEPW8SQK,PT_EK3N3FMR,7316-637,Diagnosis,147.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_SWHQ8FDW,PT_ESHACWF6,7316-878,Diagnosis,1506.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_A94A7EJ4,PT_ESHACWF6,7316-1790,Progressive,1904.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_00DBDSHZ,PT_FNMF9D6R,7316-6843,Diagnosis,1547.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_WCNPE0AC,PT_FYECBRPP,7316-1778,Diagnosis,562.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_NDSWS9TS,PT_GH693TT8,7316-2181,Diagnosis,738.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_60NP7AJB,PT_GRNZAWM0,7316-8737,Diagnosis,1533.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_SCQNN2A2,PT_H8Z52K09,7316-2224,Diagnosis,624.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_E4W68ECR,PT_HE8FBFNA,7316-7945,Diagnosis,25.0,Biopsy only,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_MCZ1BH05,PT_HE8FBFNA,7316-8846,Progressive,183.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_9VJ3VV46,PT_HVZTF42R,7316-2187,Diagnosis,170.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_CNMM5BCD,PT_HVZTF42R,7316-2187,Diagnosis,170.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_53TV75NN,PT_HVZTF42R,7316-2187,Diagnosis,170.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_GTAJFTTR,PT_J302B8Y5,7316-386,Diagnosis,826.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_YZ0P5E8H,PT_JCECCFPB,7316-479,Diagnosis,382.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_ZAT0XJE5,PT_JV9G8MFD,7316-2269,Diagnosis,362.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_75VWKW1M,PT_JV9G8MFD,7316-4292,Recurrence,662.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_CKY2TTXG,PT_M04EC74B,7316-918,Diagnosis,544.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_AJ2YA7HC,PT_M1RYN7B0,7316-1781,Diagnosis,1038.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_0EN5R1AP,PT_M1RYN7B0,7316-1781,Diagnosis,1038.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_74A1TB03,PT_MTE126WM,7316-376,Progressive,1936.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_QMHND3QK,PT_ND34A6PR,7316-122,Diagnosis,2982.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_G6V64VWY,PT_NHR38RJE,7316-4278,Diagnosis,3049.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_104JAZ50,PT_NXNCY5KD,7316-4025,Diagnosis,1030.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_6GN1FGTB,PT_RJ1TJ2KH,7316-2110,Diagnosis,218.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_6VKKMM6M,PT_RJ1TJ2KH,7316-3680,Autopsy,626.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_P7CY04E7,PT_RRG1V7EP,7316-820,Diagnosis,230.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_VC3A7TTB,PT_RWF4AB4X,7316-4836,Diagnosis,769.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_0FQKT8EY,PT_RX1EWBP9,7316-2276,Progressive,1876.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_G4AESEQM,PT_S8NYAGCA,7316-4490,Diagnosis,663.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_19EJ85F8,PT_T5KEXCK7,7316-2090,Diagnosis,1039.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_W23ERYW3,PT_TV5DYHNC,7316-1073,Diagnosis,1113.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_A86314EJ,PT_VTG1S395,7316-5268,Diagnosis,1204.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_EPP48C6Z,PT_VTG1S395,7316-7082,Progressive,1616.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_BJGV8RBP,PT_WG2Z95B5,7316-2141,Diagnosis,383.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_Q9MAXZF6,PT_WG2Z95B5,7316-2141,Diagnosis,383.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_8WJR4AA3,PT_WG2Z95B5,7316-2141,Diagnosis,383.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_YCJY62CT,PT_WM03MVHR,7316-3719,Diagnosis,1198.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_T3AXBKKY,PT_XRQHMBHB,7316-3939,Diagnosis,2841.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_R5G3QP11,PT_XRQHMBHB,7316-3937,Diagnosis,2847.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_7E9HHKXA,PT_XTVQB9S4,7316-2186,Diagnosis,291.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_NXZSD2KK,PT_XTVQB9S4,7316-2186,Diagnosis,291.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True
+BS_DE26D072,PT_XTVQB9S4,7316-2933,Progressive,535.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+BS_GBSMM7A0,PT_Y9JQ3VPX,7316-4207,Diagnosis,711.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT030128_D1,SJ030128,,Diagnosis,431.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT030255_D1,SJ030255,,Diagnosis,891.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT030581_D1,SJ030581,,Diagnosis,3766.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT030707_D2,SJ030707,,Diagnosis,584.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT030896_D1,SJ030896,,Diagnosis,1026.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True
+SJBT030896_D2,SJ030896,,Diagnosis,1026.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT030997_D1,SJ030997,,Diagnosis,183.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT031235_D1,SJ031235,,Diagnosis,259.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT031605_D1,SJ031605,,Diagnosis,840.0,N/A,ATRT,N/A,0,chromosomal,True,True,,False,3,True
+SJBT031948_D2,SJ031948,,Diagnosis,734.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT032346_D1,SJ032346,,Diagnosis,1534.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT032393_D1,SJ032393,,Diagnosis,,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT032417_D2,SJ032417,,Diagnosis,77.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True
+SJBT033236_D2,SJ033236,,Diagnosis,285.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True

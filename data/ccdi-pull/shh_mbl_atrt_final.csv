@@ -1,0 +1,208 @@
+biosample_id,patient_id,external_sample_id,tumor_history,age_at_diagnosis,extent_of_tumor_resection,cancer_type,cancer_subclass,ecDNA_sequences_detected,amplicon_class,in_unique_tumor_set,in_unique_patient_set,amplicon_repository_url,amplicon_repository_available,no_of_amplicons,aafile_available,cohort,sex,OS_status,OS_months,no_of_biosamples
+BS_K5XA5N93,PT_0KTVJ74J,7316-7135,Autopsy,4328.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Deceased,32.0328542094455,1.0
+BS_KAZENYZE,PT_0WMP712K,7316-922,Diagnosis,494.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Alive,48.4928131416837,1.0
+BS_QB75G19J,PT_2N647SBA,7316-6685,Diagnosis,7566.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,25.1006160164271,1.0
+BS_P3VBY9TH,PT_2WSNYKAC,7316-5320,Diagnosis,6521.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,46.7515400410677,1.0
+BS_9G7ETYHR,PT_3VQEVNDD,7316-1680,Diagnosis,722.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Alive,,1.0
+BS_6D37YSGS,PT_62VNQ8C4,7316-968,Diagnosis,5612.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Deceased,8.11498973305954,2.0
+BS_Y42GB8SA,PT_62VNQ8C4,7316-1884,Progressive,5655.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Deceased,8.11498973305954,2.0
+BS_R8F3DR5F,PT_6H0WGQ6E,7316-7503,Diagnosis,2697.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,2,True,PBTA-X01,Male,Alive,21.6837782340862,1.0
+BS_3RGJ4VP1,PT_6XT5HH0S,7316-9450,Diagnosis,1366.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,8.60780287474332,1.0
+BS_Y7PRDGED,PT_7WYPEC3Q,7316-4529,Diagnosis,720.0,Partial resection,MBL,SHH,2,ecDNA,False,False,,False,2,True,PBTA-X01,Female,Alive,19.0554414784394,2.0
+BS_KEWYG829,PT_7WYPEC3Q,7316-5881,Progressive,1300.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,2,True,PBTA-X01,Female,Alive,19.0554414784394,2.0
+BS_53BCKC4V,PT_97EQQMT9,7316-3114,Diagnosis,4295.0,Partial resection,MBL,SHH,5,ecDNA,True,True,,False,5,True,PBTA-X01,Female,Deceased,20.829568788501,1.0
+BS_H174820R,PT_9DMMZ08D,7316-1666,Diagnosis,1433.0,Partial resection,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Alive,3.51540041067761,2.0
+BS_FVYBGMG1,PT_9DMMZ08D,7316-1676,Progressive,1540.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Alive,3.51540041067761,2.0
+BS_N30XYWEN,PT_9KRSSPSF,7316-520,Diagnosis,8203.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,4.59958932238193,1.0
+BS_WY5KYSHJ,PT_9S6WMQ92,7316-278,Diagnosis,5534.0,Gross/Near total resection,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Deceased,49.5441478439425,4.0
+BS_ZR75EKKX,PT_9S6WMQ92,7316-95,Progressive,6555.0,Partial resection,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Deceased,49.5441478439425,4.0
+BS_ZVM1B6BF,PT_9S6WMQ92,7316-95,Progressive,6555.0,Partial resection,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Deceased,49.5441478439425,4.0
+BS_1CZPVCXR,PT_9S6WMQ92,7316-333,Progressive,6992.0,Partial resection,MBL,SHH,0,chromosomal,True,True,,False,1,True,PBTA-X00,Female,Deceased,49.5441478439425,4.0
+BS_YN6N4RCW,PT_BA38VR93,7316-6522,Diagnosis,6318.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,,1.0
+BS_TEC3PGQ0,PT_C9F2B4QF,7316-4270,Diagnosis,4906.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,45.5687885010266,1.0
+BS_PJ08ZW9A,PT_CQ7EGCMB,7316-3809,Diagnosis,744.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Alive,56.3778234086242,1.0
+BS_3CG2N4PD,PT_CXT81GRM,7316-1772,Autopsy,1545.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,1,True,PBTA-X00,Male,Deceased,10.6447638603696,2.0
+BS_PVZJCXS1,PT_DACV00WF,7316-489,Diagnosis,116.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Deceased,37.8151950718685,1.0
+BS_7D5JNF95,PT_DY2GNA83,7316-8419,Progressive,9307.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,81.6755646817248,4.0
+BS_C08DKZFP,PT_DY2GNA83,7316-8419,Progressive,9307.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,81.6755646817248,4.0
+BS_GZ5QQYZ7,PT_DY2GNA83,7316-8419,Progressive,9307.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,81.6755646817248,4.0
+BS_NV2GCZZC,PT_DY2GNA83,7316-8419,Progressive,9307.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Deceased,81.6755646817248,4.0
+BS_CSY11X7E,PT_EGGY1XC0,7316-2865,Diagnosis,1475.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Alive,55.3264887063655,1.0
+BS_BX8AR74E,PT_FN4GEEFR,7316-729,Diagnosis,3977.0,Partial resection,MBL,SHH,1,ecDNA,False,False,,False,2,True,PBTA-X00,Female,Deceased,58.2505133470225,2.0
+BS_E1VJCEWB,PT_FN4GEEFR,7316-3010,Progressive,5041.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,1,True,PBTA-X00,Female,Deceased,58.2505133470225,2.0
+BS_9QJ95K51,PT_FWWRWTV2,7316-2439,Diagnosis,761.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,False,,False,0,True,,,,,
+BS_SRX5AC1J,PT_GFGHFJ3S,7316-4694,Diagnosis,129.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,23.8850102669404,1.0
+BS_70FKSKM9,PT_GH6HM5QF,7316-3202,Diagnosis,526.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Deceased,25.4620123203285,1.0
+BS_P99S85CY,PT_GR8P8NY5,7316-178,Diagnosis,1235.0,Gross/Near total resection,MBL,SHH,1,ecDNA,False,False,,False,2,True,PBTA-X00,Female,Alive,47.1129363449692,2.0
+BS_CKX0R5FN,PT_GR8P8NY5,7316-178,Diagnosis,1235.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,2,True,PBTA-X00,Female,Alive,47.1129363449692,2.0
+BS_XH4QH13B,PT_H9QTP1JF,7316-3334,Recurrence,2841.0,Gross/Near total resection,MBL,SHH,1,ecDNA,False,False,,False,1,True,PBTA-X01,Male,Deceased,65.7741273100616,2.0
+BS_TFYBVE0A,PT_H9QTP1JF,7316-4162,Progressive,3037.0,Gross/Near total resection,MBL,SHH,1,ecDNA,True,True,,False,1,True,PBTA-X01,Male,Deceased,65.7741273100616,2.0
+BS_8YQGSMDK,PT_HM2GMT2H,7316-6,Diagnosis,604.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Alive,109.634496919917,1.0
+BS_FVX5BSXD,PT_J6CREPMB,7316-6528,Diagnosis,367.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,6.37371663244353,2.0
+BS_GY8AVNHY,PT_KNJDVV4K,7316-4681,Diagnosis,3715.0,Biopsy only,MBL,SHH,2,ecDNA,True,True,,False,2,True,PBTA-X01,Male,Alive,45.1745379876796,1.0
+BS_B1YQHE16,PT_M26VF62B,7316-3124,Diagnosis,733.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,61.8973305954825,1.0
+BS_7TMTHQ5X,PT_M39RC0Y1,7316-4523,Diagnosis,251.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Deceased,2.2012320328542,1.0
+BS_JDDMWG64,PT_M91MGM4K,7316-8938,Diagnosis,1124.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,,1.0
+BS_6P8GWSCZ,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,23.8193018480492,8.0
+BS_95ERKNCZ,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,23.8193018480492,8.0
+BS_9VB2SEYP,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,23.8193018480492,8.0
+BS_ATN1ZVEX,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,23.8193018480492,8.0
+BS_CRR6RTMG,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,23.8193018480492,8.0
+BS_HT74FBJ2,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,23.8193018480492,8.0
+BS_RG9W7TH4,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,23.8193018480492,8.0
+BS_Z7ADGXGV,PT_MYNKT1TK,7316-9075,Autopsy,1316.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,23.8193018480492,8.0
+BS_DGG7YE8R,PT_NCDHZ8H8,7316-2780,Diagnosis,1514.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Alive,50.2997946611909,1.0
+BS_W12RTC66,PT_NF6R6YHR,7316-7064,Diagnosis,5980.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,6.34086242299794,1.0
+BS_PYVPKH11,PT_NTEKMKTX,7316-1650,Diagnosis,167.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Alive,,1.0
+BS_185Q218S,PT_PABK01H0,7316-1669,Diagnosis,1076.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Alive,,1.0
+BS_FJRZJ4RS,PT_PHY9WJR1,7316-4283,Diagnosis,692.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,53.9137577002053,1.0
+BS_B5V3KSQY,PT_PTTBTPS6,7316-9028,Recurrence,4230.0,Partial resection,MBL,SHH,1,ecDNA,True,True,,False,1,True,PBTA-X01,Female,Deceased,37.9137577002053,1.0
+BS_NK9XQ95W,PT_Q0N3AG4D,7316-9804,Diagnosis,543.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,10.3490759753593,1.0
+BS_ESEAV1TN,PT_QF2ZH1V5,7316-680,Diagnosis,292.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,108.12320328542,1.0
+BS_R06ABMXP,PT_RM8V31DA,7316-5539,Diagnosis,3386.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,2,True,PBTA-X01,Male,Alive,12.6488706365503,1.0
+BS_1S2BHJ8K,PT_S4A0R1PM,7316-2699,Diagnosis,7628.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Alive,44.9117043121149,1.0
+BS_WD3TDZBH,PT_SBSXK3XB,7316-8430,Diagnosis,9255.0,Gross/Near total resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,3.08829568788501,1.0
+BS_6AAJ8JBD,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,191.441478439425,8.0
+BS_7SVNJTTG,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,191.441478439425,8.0
+BS_9WNRPT1P,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,191.441478439425,8.0
+BS_AYYWDHWJ,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,191.441478439425,8.0
+BS_B3JHHP3X,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,191.441478439425,8.0
+BS_KQZY3ZRV,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,191.441478439425,8.0
+BS_QYHHN0W2,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,191.441478439425,8.0
+BS_W2EFWR50,PT_T0MRCE9A,7316-8053,Recurrence,11832.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Deceased,191.441478439425,8.0
+BS_3J4T2YYW,PT_T93J9EGZ,7316-2196,Diagnosis,294.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,1,True,PBTA-X00,Female,Alive,82.52977412731,1.0
+BS_R8820GP1,PT_V0C2E99Z,7316-6991,Diagnosis,2514.0,Gross/Near total resection,MBL,SHH,1,ecDNA,True,True,,False,1,True,PBTA-X01,Female,Alive,12.9117043121149,1.0
+BS_DPRBAXTR,PT_VW5Y6N97,7316-5515,Diagnosis,5317.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,2,True,PBTA-X01,Female,Alive,33.9383983572895,1.0
+BS_P3NDA9Z7,PT_W4M7YD0J,7316-7598,Diagnosis,4159.0,Gross/Near total resection,MBL,SHH,0,chromosomal,True,True,,False,1,True,PBTA-X01,Female,Alive,25.0677618069815,1.0
+BS_X2VRDBVG,PT_WF4Q4SF2,7316-8860,Diagnosis,6703.0,Gross/Near total resection,MBL,SHH,4,ecDNA,True,True,,False,4,True,PBTA-X01,Female,Alive,18.1683778234086,1.0
+BS_DVQYQSVW,PT_WWZ2Q14R,7316-3138,Diagnosis,306.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Alive,50.8911704312115,1.0
+BS_2J4FG4HV,PT_XA98HG1C,7316-931,Diagnosis,3332.0,Gross/Near total resection,MBL,SHH,2,ecDNA,False,False,,False,3,True,PBTA-X00,Unknown,Alive,,3.0
+BS_W37QBA12,PT_XA98HG1C,7316-931,Diagnosis,3332.0,Gross/Near total resection,MBL,SHH,2,ecDNA,True,True,,False,3,True,PBTA-X00,Unknown,Alive,,3.0
+BS_5JC116NM,PT_XA98HG1C,7316-3023,Progressive,4021.0,Partial resection,MBL,SHH,1,ecDNA,False,False,,False,1,True,PBTA-X00,Unknown,Alive,,3.0
+BS_JSNJZERZ,PT_YV2S3ES7,7316-182,Diagnosis,13333.0,Partial resection,MBL,SHH,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Alive,8.27926078028747,1.0
+SJMB003_D,SJ008003,,Diagnosis,2546.0,N/A,MBL,SHH,0,chromosomal,True,True,,False,1,True,SJC-DS-1001,Female,Alive,174.258726899384,1.0
+SJMB004_D,SJ008004,,Diagnosis,3189.0,N/A,MBL,SHH,2,ecDNA,True,True,,False,3,True,SJC-DS-1001,Male,Deceased,23.6550308008213,1.0
+SJMB012_D,SJ008012,,Diagnosis,3097.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1001,Male,Alive,219.433264887063,1.0
+SJMB013_D,SJ008013,,Diagnosis,1855.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1001,Male,Alive,173.075975359342,1.0
+SJMB033_D,SJ008033,,Diagnosis,6096.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1001,Male,Alive,174.455852156057,1.0
+SJMB067_D,SJ008067,,Diagnosis,,N/A,MBL,SHH,0,chromosomal,True,True,,False,1,True,SJC-DS-1003,Unknown,Deceased,55.8193018480492,1.0
+SJMB030087_D1,SJ030087,,Recurrence,457.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1004,Male,Alive,91.564681724846,1.0
+SJMB030092_D1,SJ030092,,Diagnosis,650.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1004,Male,Deceased,21.4209445585215,1.0
+SJMB030296_D1,SJ030296,,Diagnosis,2783.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,1,True,SJC-DS-1004,Male,Alive,71.8193018480492,1.0
+SJMB030312_D1,SJ030312,,Diagnosis,2513.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,1,True,SJC-DS-1004,Male,Alive,72.1478439425051,1.0
+SJMB030364_D1,SJ030364,,Diagnosis,4924.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Male,Alive,66.135523613963,1.0
+SJMB030557_D1,SJ030557,,Diagnosis,1476.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Female,Alive,60.8459958932238,1.0
+SJMB030910_D1,SJ030910,,Diagnosis,1410.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,SJC-DS-1007,Male,Deceased,11.6960985626283,2.0
+SJMB030910_D2,SJ030910,,Diagnosis,1410.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,6,True,SJC-DS-1007,Male,Deceased,11.6960985626283,2.0
+SJMB031418_D1,SJ031418,,Diagnosis,573.0,N/A,MBL,SHH,0,no amplification,False,False,,False,0,True,SJC-DS-1007,Male,Unknown,,2.0
+SJMB031418_D2,SJ031418,,Diagnosis,573.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,1,True,SJC-DS-1007,Male,Unknown,,2.0
+SJMB031439_D1,SJ031439,,Diagnosis,3422.0,N/A,MBL,SHH,2,ecDNA,True,True,,False,3,True,SJC-DS-1007,Male,Unknown,,1.0
+SJMB031453_D1,SJ031453,,Diagnosis,877.0,N/A,MBL,SHH,0,no amplification,True,True,,False,1,True,SJC-DS-1007,Male,Unknown,,1.0
+SJMB031476_D3,SJ031476,,Diagnosis,369.0,N/A,MBL,SHH,0,chromosomal,True,True,,False,1,True,SJC-DS-1007,Female,Unknown,,2.0
+SJMB031645_D1,SJ031645,,Diagnosis,2487.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Female,Unknown,,1.0
+SJMB031813_D1,SJ031813,,Diagnosis,3127.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,2,True,SJC-DS-1007,Male,Unknown,,1.0
+SJMB032126_D1,SJ032126,,Diagnosis,6911.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Male,Unknown,,1.0
+SJMB032185_D1,SJ032185,,Diagnosis,4770.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Male,Unknown,,1.0
+SJMB032410_D1,SJ032410,,Diagnosis,11659.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Male,Unknown,,1.0
+SJMB032603_D1,SJ032603,,Diagnosis,4339.0,N/A,MBL,SHH,1,ecDNA,True,True,,False,2,True,SJC-DS-1007,Female,Unknown,,1.0
+SJMB032729_D1,SJ032729,,Diagnosis,4723.0,N/A,MBL,SHH,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Male,Unknown,,1.0
+BS_50ANNQ18,PT_0WQFCZ6S,7316-6368,Diagnosis,1638.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,11.1047227926078,2.0
+BS_3VE9VCSN,PT_0WQFCZ6S,7316-6383,Recurrence,1934.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Deceased,11.1047227926078,2.0
+BS_EA7CWRV4,PT_1NBHNPE4,7316-3193,Diagnosis,376.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,39.3921971252566,1.0
+BS_QSP6ASQ3,PT_30EX0QAT,7316-6671,Diagnosis,348.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Alive,37.5523613963039,2.0
+BS_83Z8AZS6,PT_30EX0QAT,7316-8735,Progressive,973.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,37.5523613963039,2.0
+BS_JDMM2XG4,PT_32J909WM,7316-2688,Diagnosis,860.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Alive,56.2792607802874,1.0
+BS_859AV1DB,PT_3KM9W8S8,7316-1771,Diagnosis,190.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,17.182751540041,8.0
+BS_2NQXY528,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,17.182751540041,8.0
+BS_4BB136DY,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,17.182751540041,8.0
+BS_EQQZ90JQ,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,17.182751540041,8.0
+BS_MS8TBCWJ,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,17.182751540041,8.0
+BS_P8FXRTZ2,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,17.182751540041,8.0
+BS_QR84QJN4,PT_3KM9W8S8,7316-3045,Progressive,713.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,17.182751540041,8.0
+BS_RCC7ZEC0,PT_3KM9W8S8,7316-3045,Autopsy,713.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,17.182751540041,8.0
+BS_FPB3A0K4,PT_3TYNHF3F,7316-7687,Diagnosis,507.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,19.3182751540041,1.0
+BS_JW4M16YF,PT_4NVTPQ65,7316-5274,Diagnosis,128.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Alive,48.3285420944558,2.0
+BS_923BXNR2,PT_4NVTPQ65,7316-5495,Diagnosis,303.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,48.3285420944558,2.0
+BS_9KDA3HG6,PT_5CKDR2SF,7316-525,Diagnosis,394.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Deceased,36.9609856262833,1.0
+BS_E7J6CYVN,PT_650GZWJR,7316-7088,Progressive,256.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,2.13552361396303,1.0
+BS_E0S2Y0TS,PT_6N825561,7316-3920,Progressive,3289.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,65.6427104722792,4.0
+BS_0YWFFRYV,PT_6N825561,7316-4814,Progressive,3562.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,65.6427104722792,4.0
+BS_3V7ZNBTG,PT_6N825561,7316-4814,Progressive,3562.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,65.6427104722792,4.0
+BS_YTCYVVY9,PT_6N825561,7316-4814,Progressive,3562.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,65.6427104722792,4.0
+BS_8CZS2A3E,PT_6RRWZ8CK,7316-8929,Recurrence,677.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,11.6303901437371,1.0
+BS_A1EDXQTQ,PT_6TDVP80J,7316-7810,Diagnosis,233.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,24.5092402464065,1.0
+BS_2X02HA8W,PT_7BVC1F8N,7316-4117,Diagnosis,266.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,2.79260780287474,1.0
+BS_Y7CT08T2,PT_7MZRW1DH,7316-2582,Diagnosis,5688.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Deceased,23.1950718685831,2.0
+BS_1C4WCNQF,PT_7MZRW1DH,7316-2582,Diagnosis,5688.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Deceased,23.1950718685831,2.0
+BS_JHM10N71,PT_AW99VNWM,7316-9053,Diagnosis,637.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,12.747433264887,1.0
+BS_QA67FK0X,PT_B2RBACZ0,7316-4032,Diagnosis,252.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Deceased,28.0246406570841,1.0
+BS_12ZB7R6A,PT_CW0BJE0Y,7316-41,Diagnosis,883.0,Biopsy only,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Deceased,3.84394250513347,1.0
+BS_K56ZXZME,PT_D46SNAQ7,7316-4108,Diagnosis,586.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,5.61806981519507,1.0
+BS_3RQVBAXB,PT_D4JJMH7V,7316-5153,Diagnosis,684.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,42.9733059548254,1.0
+BS_9YSTCMG0,PT_DA6JGBFJ,7316-4150,Progressive,983.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,26.7433264887063,1.0
+BS_XA2AZZNC,PT_DHTRBQA8,7316-5536,Diagnosis,404.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Deceased,31.7043121149897,1.0
+BS_KHZVZECY,PT_DKRVS07M,7316-8926,Diagnosis,368.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,,1.0
+BS_NSWP72M6,PT_DVXE38EX,7316-3411,Diagnosis,996.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,17.5112936344969,4.0
+BS_Y386XSV3,PT_DVXE38EX,7316-5764,Recurrence,1315.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,17.5112936344969,4.0
+BS_P3R9QZKP,PT_DVXE38EX,7316-6454,Progressive,1475.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Deceased,17.5112936344969,4.0
+BS_ERRA7V0W,PT_DVXE38EX,7316-6915,Recurrence,1529.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Deceased,17.5112936344969,4.0
+BS_5WK2KXYW,PT_E6FTW238,7316-3890,Diagnosis,557.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Deceased,6.53798767967145,1.0
+BS_1G970A7S,PT_EE2E1AXD,7316-4206,Diagnosis,819.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Deceased,17.2156057494866,1.0
+BS_NEPW8SQK,PT_EK3N3FMR,7316-637,Diagnosis,147.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,73.7905544147844,1.0
+BS_SWHQ8FDW,PT_ESHACWF6,7316-878,Diagnosis,1506.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Deceased,19.0554414784394,2.0
+BS_A94A7EJ4,PT_ESHACWF6,7316-1790,Progressive,1904.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Deceased,19.0554414784394,2.0
+BS_00DBDSHZ,PT_FNMF9D6R,7316-6843,Diagnosis,1547.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,,1.0
+BS_WCNPE0AC,PT_FYECBRPP,7316-1778,Diagnosis,562.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Alive,61.2402464065708,1.0
+BS_NDSWS9TS,PT_GH693TT8,7316-2181,Diagnosis,738.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Deceased,43.1047227926078,1.0
+BS_60NP7AJB,PT_GRNZAWM0,7316-8737,Diagnosis,1533.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,8.60780287474332,1.0
+BS_SCQNN2A2,PT_H8Z52K09,7316-2224,Diagnosis,624.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Deceased,4.10677618069815,1.0
+BS_E4W68ECR,PT_HE8FBFNA,7316-7945,Diagnosis,25.0,Biopsy only,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Male,Alive,21.9794661190965,2.0
+BS_MCZ1BH05,PT_HE8FBFNA,7316-8846,Progressive,183.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,21.9794661190965,2.0
+BS_9VJ3VV46,PT_HVZTF42R,7316-2187,Diagnosis,170.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Deceased,11.8932238193018,3.0
+BS_CNMM5BCD,PT_HVZTF42R,7316-2187,Diagnosis,170.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Deceased,11.8932238193018,3.0
+BS_53TV75NN,PT_HVZTF42R,7316-2187,Diagnosis,170.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Deceased,11.8932238193018,3.0
+BS_GTAJFTTR,PT_J302B8Y5,7316-386,Diagnosis,826.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Deceased,8.93634496919917,1.0
+BS_YZ0P5E8H,PT_JCECCFPB,7316-479,Diagnosis,382.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Deceased,0.952772073921971,1.0
+BS_ZAT0XJE5,PT_JV9G8MFD,7316-2269,Diagnosis,362.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,51.9425051334702,2.0
+BS_75VWKW1M,PT_JV9G8MFD,7316-4292,Recurrence,662.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,51.9425051334702,2.0
+BS_CKY2TTXG,PT_M04EC74B,7316-918,Diagnosis,544.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Deceased,16.2628336755646,1.0
+BS_AJ2YA7HC,PT_M1RYN7B0,7316-1781,Diagnosis,1038.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Male,Deceased,14.2258726899383,2.0
+BS_0EN5R1AP,PT_M1RYN7B0,7316-1781,Diagnosis,1038.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Deceased,14.2258726899383,2.0
+BS_74A1TB03,PT_MTE126WM,7316-376,Progressive,1936.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Unknown,Alive,99.1868583162217,1.0
+BS_QMHND3QK,PT_ND34A6PR,7316-122,Diagnosis,2982.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Alive,126.225872689938,1.0
+BS_G6V64VWY,PT_NHR38RJE,7316-4278,Diagnosis,3049.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,36.3039014373716,1.0
+BS_104JAZ50,PT_NXNCY5KD,7316-4025,Diagnosis,1030.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,8.47638603696098,1.0
+BS_6GN1FGTB,PT_RJ1TJ2KH,7316-2110,Diagnosis,218.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Male,Deceased,13.4045174537987,2.0
+BS_6VKKMM6M,PT_RJ1TJ2KH,7316-3680,Autopsy,626.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Deceased,13.4045174537987,2.0
+BS_P7CY04E7,PT_RRG1V7EP,7316-820,Diagnosis,230.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Alive,92.8131416837782,1.0
+BS_VC3A7TTB,PT_RWF4AB4X,7316-4836,Diagnosis,769.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Male,Alive,37.0266940451745,1.0
+BS_0FQKT8EY,PT_RX1EWBP9,7316-2276,Progressive,1876.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Deceased,20.9938398357289,1.0
+BS_G4AESEQM,PT_S8NYAGCA,7316-4490,Diagnosis,663.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,39.3921971252566,1.0
+BS_19EJ85F8,PT_T5KEXCK7,7316-2090,Diagnosis,1039.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Deceased,7.52361396303901,1.0
+BS_W23ERYW3,PT_TV5DYHNC,7316-1073,Diagnosis,1113.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Alive,,1.0
+BS_A86314EJ,PT_VTG1S395,7316-5268,Diagnosis,1204.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X01,Female,Deceased,16.394250513347,2.0
+BS_EPP48C6Z,PT_VTG1S395,7316-7082,Progressive,1616.0,Partial resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,16.394250513347,2.0
+BS_BJGV8RBP,PT_WG2Z95B5,7316-2141,Diagnosis,383.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Male,Deceased,68.2381930184804,3.0
+BS_Q9MAXZF6,PT_WG2Z95B5,7316-2141,Diagnosis,383.0,Gross/Near total resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Male,Deceased,68.2381930184804,3.0
+BS_8WJR4AA3,PT_WG2Z95B5,7316-2141,Diagnosis,383.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Deceased,68.2381930184804,3.0
+BS_YCJY62CT,PT_WM03MVHR,7316-3719,Diagnosis,1198.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Alive,36.6652977412731,1.0
+BS_T3AXBKKY,PT_XRQHMBHB,7316-3939,Diagnosis,2841.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Male,Alive,57.4291581108829,2.0
+BS_R5G3QP11,PT_XRQHMBHB,7316-3937,Diagnosis,2847.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Male,Alive,57.4291581108829,2.0
+BS_7E9HHKXA,PT_XTVQB9S4,7316-2186,Diagnosis,291.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Deceased,11.4332648870636,3.0
+BS_NXZSD2KK,PT_XTVQB9S4,7316-2186,Diagnosis,291.0,Partial resection,ATRT,N/A,0,no amplification,False,False,,False,0,True,PBTA-X00,Female,Deceased,11.4332648870636,3.0
+BS_DE26D072,PT_XTVQB9S4,7316-2933,Progressive,535.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X00,Female,Deceased,11.4332648870636,3.0
+BS_GBSMM7A0,PT_Y9JQ3VPX,7316-4207,Diagnosis,711.0,Gross/Near total resection,ATRT,N/A,0,no amplification,True,True,,False,0,True,PBTA-X01,Female,Deceased,8.34496919917864,1.0
+SJBT030128_D1,SJ030128,,Diagnosis,431.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1004,Female,Alive,81.4455852156057,1.0
+SJBT030255_D1,SJ030255,,Diagnosis,891.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1004,Male,Alive,79.3100616016427,1.0
+SJBT030581_D1,SJ030581,,Diagnosis,3766.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Male,Alive,59.2689938398357,1.0
+SJBT030707_D2,SJ030707,,Diagnosis,584.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Male,Deceased,13.1088295687885,1.0
+SJBT030896_D1,SJ030896,,Diagnosis,1026.0,N/A,ATRT,N/A,0,no amplification,False,False,,False,0,True,SJC-DS-1007,Male,Alive,68.9281314168377,2.0
+SJBT030896_D2,SJ030896,,Diagnosis,1026.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Male,Alive,68.9281314168377,2.0
+SJBT030997_D1,SJ030997,,Diagnosis,183.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Female,Deceased,5.51950718685831,1.0
+SJBT031235_D1,SJ031235,,Diagnosis,259.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Female,Deceased,16.4928131416837,1.0
+SJBT031605_D1,SJ031605,,Diagnosis,840.0,N/A,ATRT,N/A,0,chromosomal,True,True,,False,3,True,SJC-DS-1007,Male,Unknown,,1.0
+SJBT031948_D2,SJ031948,,Diagnosis,734.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Female,Unknown,,1.0
+SJBT032346_D1,SJ032346,,Diagnosis,1534.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Female,Unknown,,1.0
+SJBT032393_D1,SJ032393,,Diagnosis,,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Female,Unknown,,1.0
+SJBT032417_D2,SJ032417,,Diagnosis,77.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Female,Unknown,,1.0
+SJBT033236_D2,SJ033236,,Diagnosis,285.0,N/A,ATRT,N/A,0,no amplification,True,True,,False,0,True,SJC-DS-1007,Female,Unknown,,1.0
